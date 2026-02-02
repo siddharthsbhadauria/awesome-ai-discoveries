@@ -6,3 +6,4 @@
 
 | Date | Repository | Description | Stars |
 | :--- | :--- | :--- | :--- |
+| 2026-02-02 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,309 |
