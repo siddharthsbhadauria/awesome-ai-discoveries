@@ -1,0 +1,36 @@
+name: Daily Discovery Bot
+
+on:
+  schedule:
+    - cron: '30 0 * * *' # Runs at 00:30 UTC every day
+  workflow_dispatch:    # Allows you to click a button to run it manually
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Essential for the bot to push code back to your repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Requirements
+        run: pip install requests
+
+      - name: Run Bot
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Built-in GitHub secret
+        run: python bot.py
+
+      - name: Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Auto-update: Daily Discovery $(date +'%Y-%m-%d')" || exit 0
+          git push
