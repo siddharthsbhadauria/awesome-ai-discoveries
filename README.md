@@ -1,9 +1,11 @@
 # 🚀 Daily AI Discoveries
 
-![Daily Discovery Bot](https://github.com/siddharthsbhadauria/awesome-ai-discoveries/actions/workflows/daily_discovery_bot.yml/badge.svg)
+### 🏆 Project of the Week
+*The week's top discovery will appear here every Sunday.*
 
-🤖 An automated bot that discovers and archives trending AI repositories daily using GitHub Actions.
+---
+
+🤖 An automated bot that discovers trending AI repositories. 
 
 | Date | Repository | Description | Stars |
 | :--- | :--- | :--- | :--- |
-| 2026-02-02 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,309 |
