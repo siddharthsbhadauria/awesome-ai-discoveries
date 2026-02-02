@@ -10,3 +10,4 @@
 | Date | Repository | Description | Stars |
 | :--- | :--- | :--- | :--- |
 | 2026-02-02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 181,612 |
+| 2026-02-02 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 128,397 |
