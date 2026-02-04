@@ -15,3 +15,4 @@
 | 2026-02-03 | [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | ⭐ 4,625 |
 | 2026-02-03 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build multi-agent systems that learn and improve with every interaction. | ⭐ 37,487 |
 | 2026-02-03 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,324 |
+| 2026-02-04 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 6,950 |
