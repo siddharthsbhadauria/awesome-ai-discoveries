@@ -19,3 +19,4 @@
 | 2026-02-04 | [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) | A model-driven approach to building AI agents in just a few lines of code. | ⭐ 5,034 |
 | 2026-02-04 | [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) | A model-driven approach to building AI agents in just a few lines of code. | ⭐ 5,037 |
 | 2026-02-05 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 6,976 |
+| 2026-02-05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 181,696 |
