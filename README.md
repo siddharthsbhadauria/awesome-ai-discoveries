@@ -23,3 +23,4 @@
 | 2026-02-05 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems | ⭐ 11,989 |
 | 2026-02-06 | [kubeflow/trainer](https://github.com/kubeflow/trainer) | Distributed AI Model Training and LLM Fine-Tuning on Kubernetes | ⭐ 2,021 |
 | 2026-02-06 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more. | ⭐ 11,084 |
+| 2026-02-06 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community. | ⭐ 19,659 |
