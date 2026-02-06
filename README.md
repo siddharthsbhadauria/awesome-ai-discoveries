@@ -21,3 +21,4 @@
 | 2026-02-05 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 6,976 |
 | 2026-02-05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 181,696 |
 | 2026-02-05 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems | ⭐ 11,989 |
+| 2026-02-06 | [kubeflow/trainer](https://github.com/kubeflow/trainer) | Distributed AI Model Training and LLM Fine-Tuning on Kubernetes | ⭐ 2,021 |
