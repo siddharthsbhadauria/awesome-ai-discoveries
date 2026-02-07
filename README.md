@@ -26,3 +26,4 @@
 | 2026-02-06 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community. | ⭐ 19,659 |
 | 2026-02-07 | [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) | AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN | ⭐ 2,469 |
 | 2026-02-07 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build multi-agent systems that learn and improve with every interaction. | ⭐ 37,633 |
+| 2026-02-07 | [leon-ai/leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ⭐ 16,964 |
