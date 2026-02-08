@@ -26,3 +26,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-07 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build multi-agent systems that learn and improve with every interaction. | ⭐ 37,633 |
 | 2026-02-07 | [leon-ai/leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ⭐ 16,964 |
 | 2026-02-08 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,647 |
+| 2026-02-08 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,647 |
