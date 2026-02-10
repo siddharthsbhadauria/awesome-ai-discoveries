@@ -29,7 +29,7 @@ jobs:
 
       - name: Push Changes
         run: |
-          
+          # Keep your random sleep if you like the staggered timing
           sleep $(( ( RANDOM % 600 )  + 1 ))
 
           MSGS=("feat: update daily AI discoveries" "docs: update featured project" "chore: sync curated list" "docs: add latest trending repo")
@@ -38,6 +38,17 @@ jobs:
           git config --local user.name "${{ github.actor }}"
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           
+          # 1. Fetch the latest changes from GitHub
+          git fetch origin main
+
+          # 2. Pull with rebase to put your bot's new commit on top of existing ones
+          git pull --rebase origin main
+          
           git add README.md
-          git commit -m "$SELECTED_MSG" || exit 0
-          git push
+          
+          # 3. Commit only if there are changes, then push
+          if git commit -m "$SELECTED_MSG"; then
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
