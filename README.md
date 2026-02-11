@@ -32,3 +32,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-09 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community. | ⭐ 19,747 |
 | 2026-02-10 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 7,089 |
 | 2026-02-10 | [opengeos/geoai](https://github.com/opengeos/geoai) | GeoAI: Artificial Intelligence for Geospatial Data | ⭐ 2,471 |
+| 2026-02-11 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ⭐ 24,566 |
