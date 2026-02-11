@@ -33,3 +33,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-10 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 7,089 |
 | 2026-02-10 | [opengeos/geoai](https://github.com/opengeos/geoai) | GeoAI: Artificial Intelligence for Geospatial Data | ⭐ 2,471 |
 | 2026-02-11 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ⭐ 24,566 |
+| 2026-02-11 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 102,973 |
