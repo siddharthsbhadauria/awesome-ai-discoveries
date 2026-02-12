@@ -36,3 +36,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-11 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 102,973 |
 | 2026-02-11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 🦜🔗 The platform for reliable agents. | ⭐ 126,491 |
 | 2026-02-12 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,390 |
+| 2026-02-12 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,657 |
