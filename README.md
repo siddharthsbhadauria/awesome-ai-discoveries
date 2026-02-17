@@ -52,3 +52,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-16 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 7,196 |
 | 2026-02-17 | [agno-agi/agno](https://github.com/agno-agi/agno) | The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation. | ⭐ 37,884 |
 | 2026-02-17 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,461 |
+| 2026-02-17 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | ⭐ 10,915 |
