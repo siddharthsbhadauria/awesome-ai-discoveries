@@ -50,3 +50,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-16 | [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) | :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI | ⭐ 2,008 |
 | 2026-02-16 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! | ⭐ 6,094 |
 | 2026-02-16 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 7,196 |
+| 2026-02-17 | [agno-agi/agno](https://github.com/agno-agi/agno) | The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation. | ⭐ 37,884 |
