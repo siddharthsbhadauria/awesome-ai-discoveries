@@ -54,3 +54,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-17 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,461 |
 | 2026-02-17 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | ⭐ 10,915 |
 | 2026-02-18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 🦜🔗 The platform for reliable agents. | ⭐ 126,826 |
+| 2026-02-18 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,444 |
