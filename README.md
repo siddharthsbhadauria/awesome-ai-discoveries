@@ -57,3 +57,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-18 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,444 |
 | 2026-02-18 | [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) | A model-driven approach to building AI agents in just a few lines of code. | ⭐ 5,121 |
 | 2026-02-19 | [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) | 🧠 Make your agents learn from experience.  | ⭐ 1,886 |
+| 2026-02-19 | [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) | AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN | ⭐ 2,527 |
