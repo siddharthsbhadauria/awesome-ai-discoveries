@@ -80,3 +80,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-26 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! | ⭐ 6,225 |
 | 2026-02-26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 104,244 |
 | 2026-02-26 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,732 |
+| 2026-02-27 | [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) | AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN | ⭐ 2,568 |
