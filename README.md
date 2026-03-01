@@ -87,3 +87,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-02-28 | [leon-ai/leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ⭐ 17,089 |
 | 2026-02-28 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. | ⭐ 11,014 |
 | 2026-03-01 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 104,508 |
+| 2026-03-01 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,740 |
