@@ -92,3 +92,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-02 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 130,815 |
 | 2026-03-02 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,743 |
 | 2026-03-02 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, manage agentic software at scale. | ⭐ 38,346 |
+| 2026-03-03 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. | ⭐ 11,026 |
