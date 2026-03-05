@@ -100,3 +100,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-04 | [MotiaDev/motia](https://github.com/MotiaDev/motia) | iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger. | ⭐ 15,154 |
 | 2026-03-05 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,709 |
 | 2026-03-05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 182,193 |
+| 2026-03-05 | [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) | GenAI Processors is a lightweight Python library that enables efficient, parallel content processing. | ⭐ 2,066 |
