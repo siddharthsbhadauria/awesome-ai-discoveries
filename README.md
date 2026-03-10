@@ -114,3 +114,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform | ⭐ 128,726 |
 | 2026-03-09 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,723 |
 | 2026-03-10 | [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ⭐ 7,669 |
+| 2026-03-10 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | ⭐ 11,198 |
