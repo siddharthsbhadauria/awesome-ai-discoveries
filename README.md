@@ -119,3 +119,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-11 | [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | ⭐ 4,695 |
 | 2026-03-11 | [adap/flower](https://github.com/adap/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,691 |
 | 2026-03-11 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,828 |
+| 2026-03-12 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,761 |
