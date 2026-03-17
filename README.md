@@ -136,3 +136,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-16 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins. | ⭐ 3,421 |
 | 2026-03-17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 106,065 |
 | 2026-03-17 | [pydantic/logfire](https://github.com/pydantic/logfire) | AI observability platform for production LLM and agent systems. | ⭐ 4,092 |
+| 2026-03-17 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,840 |
