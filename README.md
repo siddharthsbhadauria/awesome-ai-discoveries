@@ -146,3 +146,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-20 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 17,952 |
 | 2026-03-20 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | ⭐ 20,147 |
 | 2026-03-20 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) | IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you. | ⭐ 6,494 |
+| 2026-03-21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 182,638 |
