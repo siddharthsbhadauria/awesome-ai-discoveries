@@ -152,3 +152,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-22 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 106,574 |
 | 2026-03-22 | [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) | 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.  | ⭐ 1,389 |
 | 2026-03-22 | [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) | The Next-gen Open Source learning platform for everyone ✨ | ⭐ 1,333 |
+| 2026-03-23 | [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | Implement a reasoning LLM in PyTorch from scratch, step by step | ⭐ 3,638 |
