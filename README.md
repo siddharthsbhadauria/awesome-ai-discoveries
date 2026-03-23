@@ -154,3 +154,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-22 | [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) | The Next-gen Open Source learning platform for everyone ✨ | ⭐ 1,333 |
 | 2026-03-23 | [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | Implement a reasoning LLM in PyTorch from scratch, step by step | ⭐ 3,638 |
 | 2026-03-23 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, manage agentic software at scale. | ⭐ 38,869 |
+| 2026-03-23 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | ⭐ 26,728 |
