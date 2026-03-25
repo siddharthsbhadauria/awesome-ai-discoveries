@@ -159,3 +159,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-24 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | ⭐ 20,255 |
 | 2026-03-24 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,742 |
 | 2026-03-25 | [neuml/txtai](https://github.com/neuml/txtai) | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows | ⭐ 12,331 |
+| 2026-03-25 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,746 |
