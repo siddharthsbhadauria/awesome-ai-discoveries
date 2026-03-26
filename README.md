@@ -162,3 +162,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-25 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,746 |
 | 2026-03-25 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,955 |
 | 2026-03-26 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 8,198 |
+| 2026-03-26 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,866 |
