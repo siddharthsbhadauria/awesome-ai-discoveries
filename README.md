@@ -166,3 +166,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform | ⭐ 131,206 |
 | 2026-03-27 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 134,631 |
 | 2026-03-27 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9 | ⭐ 13,559 |
+| 2026-03-27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 182,873 |
