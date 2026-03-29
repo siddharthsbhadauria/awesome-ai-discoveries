@@ -172,3 +172,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 182,909 |
 | 2026-03-29 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 20,976 |
 | 2026-03-29 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9 | ⭐ 13,577 |
+| 2026-03-29 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 134,896 |
