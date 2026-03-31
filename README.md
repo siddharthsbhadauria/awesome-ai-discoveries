@@ -178,3 +178,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-03-30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform | ⭐ 131,642 |
 | 2026-03-31 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,779 |
 | 2026-03-31 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. | ⭐ 24,665 |
+| 2026-03-31 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | The Context Optimization Layer for LLM Applications | ⭐ 1,043 |
