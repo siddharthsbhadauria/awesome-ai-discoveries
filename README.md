@@ -111,3 +111,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-01 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. | ⭐ 30,979 |
 | 2026-04-01 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) | IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you. | ⭐ 6,499 |
 | 2026-04-02 | [bubbuild/bub](https://github.com/bubbuild/bub) | Bub it. Build it.   A common shape for agents that live alongside people. | ⭐ 1,171 |
+| 2026-04-02 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 20,438 |
