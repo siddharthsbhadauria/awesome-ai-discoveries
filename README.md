@@ -113,3 +113,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-02 | [bubbuild/bub](https://github.com/bubbuild/bub) | Bub it. Build it.   A common shape for agents that live alongside people. | ⭐ 1,171 |
 | 2026-04-02 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 20,438 |
 | 2026-04-02 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | ⭐ 11,176 |
+| 2026-04-03 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) | IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you. | ⭐ 6,499 |
