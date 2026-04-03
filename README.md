@@ -114,3 +114,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-02 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 20,438 |
 | 2026-04-02 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | ⭐ 11,176 |
 | 2026-04-03 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) | IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you. | ⭐ 6,499 |
+| 2026-04-03 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! | ⭐ 6,709 |
