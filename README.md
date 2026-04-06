@@ -123,3 +123,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-05 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 24,526 |
 | 2026-04-05 | [openakita/openakita](https://github.com/openakita/openakita) | An open-source AI assistant framework with skills and agent architecture | ⭐ 1,581 |
 | 2026-04-06 | [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) | Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one. | ⭐ 1,341 |
+| 2026-04-06 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,796 |
