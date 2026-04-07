@@ -127,3 +127,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-06 | [iii-hq/iii](https://github.com/iii-hq/iii) | iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker. | ⭐ 15,252 |
 | 2026-04-07 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ⭐ 65,502 |
 | 2026-04-07 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. | ⭐ 27,665 |
+| 2026-04-07 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ⭐ 28,637 |
