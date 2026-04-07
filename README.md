@@ -125,3 +125,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-06 | [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) | Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one. | ⭐ 1,341 |
 | 2026-04-06 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,796 |
 | 2026-04-06 | [iii-hq/iii](https://github.com/iii-hq/iii) | iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker. | ⭐ 15,252 |
+| 2026-04-07 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ⭐ 65,502 |
