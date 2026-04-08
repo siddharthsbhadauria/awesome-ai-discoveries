@@ -130,3 +130,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-07 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ⭐ 28,637 |
 | 2026-04-08 | [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ⭐ 7,895 |
 | 2026-04-08 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 25,925 |
+| 2026-04-08 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | ⭐ 52,304 |
