@@ -133,3 +133,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-08 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | ⭐ 52,304 |
 | 2026-04-09 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI wearables. Put it on, speak, transcribe, automatically | ⭐ 7,917 |
 | 2026-04-09 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 136,872 |
+| 2026-04-09 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment. | ⭐ 1,629 |
