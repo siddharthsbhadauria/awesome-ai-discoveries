@@ -153,3 +153,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-15 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 183,447 |
 | 2026-04-15 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ⭐ 65,920 |
 | 2026-04-16 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,160 |
+| 2026-04-16 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, manage agentic software at scale. | ⭐ 39,468 |
