@@ -154,3 +154,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-15 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ⭐ 65,920 |
 | 2026-04-16 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,160 |
 | 2026-04-16 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, manage agentic software at scale. | ⭐ 39,468 |
+| 2026-04-16 | [stripe/ai](https://github.com/stripe/ai) | One-stop shop for building AI-powered products and businesses with Stripe. | ⭐ 1,475 |
