@@ -156,3 +156,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-16 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, manage agentic software at scale. | ⭐ 39,468 |
 | 2026-04-16 | [stripe/ai](https://github.com/stripe/ai) | One-stop shop for building AI-powered products and businesses with Stripe. | ⭐ 1,475 |
 | 2026-04-17 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! | ⭐ 6,889 |
+| 2026-04-17 | [morettt/my-neuro](https://github.com/morettt/my-neuro) | This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations. | ⭐ 1,175 |
