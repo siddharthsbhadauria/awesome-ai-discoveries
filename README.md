@@ -166,3 +166,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-19 | [morettt/my-neuro](https://github.com/morettt/my-neuro) | This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations. | ⭐ 1,181 |
 | 2026-04-20 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 138,357 |
 | 2026-04-20 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! | ⭐ 6,913 |
+| 2026-04-20 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ⭐ 29,752 |
