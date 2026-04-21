@@ -168,3 +168,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-20 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! | ⭐ 6,913 |
 | 2026-04-20 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ⭐ 29,752 |
 | 2026-04-21 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | ⭐ 63,028 |
+| 2026-04-21 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform | ⭐ 134,304 |
