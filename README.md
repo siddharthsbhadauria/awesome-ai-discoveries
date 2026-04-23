@@ -175,3 +175,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-22 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,326 |
 | 2026-04-23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 183,675 |
 | 2026-04-23 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | The Context Optimization Layer for LLM Applications | ⭐ 1,499 |
+| 2026-04-23 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 9,747 |
