@@ -177,3 +177,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-23 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | The Context Optimization Layer for LLM Applications | ⭐ 1,499 |
 | 2026-04-23 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 9,747 |
 | 2026-04-24 | [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. | ⭐ 8,745 |
+| 2026-04-24 | [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. | ⭐ 8,759 |
