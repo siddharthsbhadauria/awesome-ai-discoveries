@@ -195,3 +195,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-04-29 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | ⭐ 54,404 |
 | 2026-04-30 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more. | ⭐ 11,338 |
 | 2026-04-30 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation | ⭐ 2,854 |
+| 2026-04-30 | [pydantic/logfire](https://github.com/pydantic/logfire) | AI observability platform for production LLM and agent systems. | ⭐ 4,204 |
