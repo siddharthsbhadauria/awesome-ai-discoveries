@@ -117,3 +117,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-03 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ⭐ 66,900 |
 | 2026-05-03 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 139,968 |
 | 2026-05-04 | [leon-ai/leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ⭐ 17,210 |
+| 2026-05-04 | [PrunaAI/pruna](https://github.com/PrunaAI/pruna) | Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead. | ⭐ 1,172 |
