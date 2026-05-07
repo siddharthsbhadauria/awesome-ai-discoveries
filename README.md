@@ -125,3 +125,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-06 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,505 |
 | 2026-05-06 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,880 |
 | 2026-05-06 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | Build, Manage and Deploy AI/ML Systems | ⭐ 10,077 |
+| 2026-05-07 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 29,095 |
