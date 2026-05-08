@@ -128,3 +128,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-07 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 29,095 |
 | 2026-05-07 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,883 |
 | 2026-05-07 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 29,143 |
+| 2026-05-08 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | ⭐ 22,435 |
