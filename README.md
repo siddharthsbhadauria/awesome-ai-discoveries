@@ -136,3 +136,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-09 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | ⭐ 22,541 |
 | 2026-05-10 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9 | ⭐ 14,167 |
 | 2026-05-10 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | The Context Optimization Layer for LLM Applications | ⭐ 1,710 |
+| 2026-05-10 | [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) | A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search. | ⭐ 1,030 |
