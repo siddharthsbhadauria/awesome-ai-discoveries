@@ -139,3 +139,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-10 | [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) | A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search. | ⭐ 1,030 |
 | 2026-05-11 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | ⭐ 3,012 |
 | 2026-05-11 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,883 |
+| 2026-05-11 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 29,301 |
