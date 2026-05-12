@@ -140,3 +140,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-11 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | ⭐ 3,012 |
 | 2026-05-11 | [flwrlabs/flower](https://github.com/flwrlabs/flower) | Flower: A Friendly Federated AI Framework | ⭐ 6,883 |
 | 2026-05-11 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 29,301 |
+| 2026-05-12 | [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | ⭐ 4,809 |
