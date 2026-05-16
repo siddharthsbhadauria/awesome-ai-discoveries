@@ -154,3 +154,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-15 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | ⭐ 12,195 |
 | 2026-05-16 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐ 40,146 |
 | 2026-05-16 | [leon-ai/leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ⭐ 17,233 |
+| 2026-05-16 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,542 |
