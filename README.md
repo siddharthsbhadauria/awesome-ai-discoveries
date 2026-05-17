@@ -155,3 +155,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-16 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐ 40,146 |
 | 2026-05-16 | [leon-ai/leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ⭐ 17,233 |
 | 2026-05-16 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,542 |
+| 2026-05-17 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ⭐ 67,654 |
