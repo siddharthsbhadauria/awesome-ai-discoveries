@@ -169,3 +169,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-20 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | ⭐ 56,276 |
 | 2026-05-21 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | ⭐ 23,112 |
 | 2026-05-21 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment. | ⭐ 3,097 |
+| 2026-05-21 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | ⭐ 3,019 |
