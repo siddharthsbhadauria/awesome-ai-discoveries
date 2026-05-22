@@ -172,3 +172,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-21 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | ⭐ 3,019 |
 | 2026-05-22 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. | ⭐ 14,716 |
 | 2026-05-22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 184,450 |
+| 2026-05-22 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,588 |
