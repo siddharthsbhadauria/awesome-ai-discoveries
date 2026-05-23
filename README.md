@@ -174,3 +174,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 184,450 |
 | 2026-05-22 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,588 |
 | 2026-05-23 | [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) | Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. | ⭐ 1,955 |
+| 2026-05-23 | [openakita/openakita](https://github.com/openakita/openakita) | An open-source AI assistant framework with skills and agent architecture | ⭐ 1,773 |
