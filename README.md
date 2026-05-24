@@ -177,3 +177,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-23 | [openakita/openakita](https://github.com/openakita/openakita) | An open-source AI assistant framework with skills and agent architecture | ⭐ 1,773 |
 | 2026-05-23 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation | ⭐ 2,905 |
 | 2026-05-24 | [opengeos/geoai](https://github.com/opengeos/geoai) | GeoAI: Artificial Intelligence for Geospatial Data | ⭐ 3,054 |
+| 2026-05-24 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 29,654 |
