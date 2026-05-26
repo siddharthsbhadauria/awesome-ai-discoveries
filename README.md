@@ -183,3 +183,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-25 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ⭐ 114,394 |
 | 2026-05-25 | [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) | Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more. | ⭐ 4,847 |
 | 2026-05-26 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐ 40,356 |
+| 2026-05-26 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | ⭐ 23,371 |
