@@ -195,3 +195,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-29 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | ⭐ 10,862 |
 | 2026-05-30 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. | ⭐ 2,080 |
 | 2026-05-30 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 143,155 |
+| 2026-05-30 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | ⭐ 2,120 |
