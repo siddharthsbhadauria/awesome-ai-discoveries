@@ -198,3 +198,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-30 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | ⭐ 2,120 |
 | 2026-05-31 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9 | ⭐ 14,367 |
 | 2026-05-31 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,780 |
+| 2026-05-31 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | ⭐ 33,541 |
