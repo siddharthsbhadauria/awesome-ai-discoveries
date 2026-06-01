@@ -109,3 +109,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-05-31 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | ⭐ 33,541 |
 | 2026-06-01 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | ⭐ 74,955 |
 | 2026-06-01 | [iii-hq/iii](https://github.com/iii-hq/iii) | Effortlessly compose, extend, and observe every service in real-time for the first time ever. | ⭐ 17,424 |
+| 2026-06-01 | [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | Implement a reasoning LLM in PyTorch from scratch, step by step | ⭐ 4,422 |
