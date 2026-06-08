@@ -128,3 +128,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-07 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. | ⭐ 11,883 |
 | 2026-06-07 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,845 |
 | 2026-06-07 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | ⭐ 70,652 |
+| 2026-06-08 | [bubbuild/bub](https://github.com/bubbuild/bub) | Bub it. Build it. A hook-first runtime for agents that live alongside people. | ⭐ 1,473 |
