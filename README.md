@@ -138,3 +138,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-10 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | The best-benchmarked open-source AI memory system. And it's free. | ⭐ 55,235 |
 | 2026-06-10 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | ⭐ 21,871 |
 | 2026-06-11 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more. | ⭐ 11,447 |
+| 2026-06-11 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 144,840 |
