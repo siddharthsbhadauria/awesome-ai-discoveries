@@ -147,3 +147,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-13 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 30,291 |
 | 2026-06-13 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | ⭐ 71,105 |
 | 2026-06-14 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient agents. | ⭐ 34,670 |
+| 2026-06-14 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,782 |
