@@ -149,3 +149,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-14 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient agents. | ⭐ 34,670 |
 | 2026-06-14 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,782 |
 | 2026-06-14 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,785 |
+| 2026-06-15 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | ⭐ 87,900 |
