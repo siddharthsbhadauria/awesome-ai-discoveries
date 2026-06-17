@@ -156,3 +156,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-16 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation | ⭐ 2,989 |
 | 2026-06-16 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9 | ⭐ 14,842 |
 | 2026-06-17 | [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) | SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ⭐ 4,213 |
+| 2026-06-17 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐ 40,746 |
