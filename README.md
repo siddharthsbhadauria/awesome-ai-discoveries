@@ -163,3 +163,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-18 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. | ⭐ 6,200 |
 | 2026-06-19 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 145,770 |
 | 2026-06-19 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | ⭐ 30,425 |
+| 2026-06-19 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. | ⭐ 3,993 |
