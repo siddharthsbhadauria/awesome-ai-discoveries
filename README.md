@@ -166,3 +166,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-19 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. | ⭐ 3,993 |
 | 2026-06-20 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. | ⭐ 39,033 |
 | 2026-06-20 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 145,901 |
+| 2026-06-20 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | ⭐ 145,947 |
