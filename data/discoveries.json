@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-10T11:27:44Z",
+  "generated_at": "2026-08-10T16:51:30Z",
   "stats": {
-    "total_discoveries": 89,
-    "total_stars": 1722888,
-    "total_stars_formatted": "1,722,888",
+    "total_discoveries": 90,
+    "total_stars": 1727972,
+    "total_stars_formatted": "1,727,972",
     "categories_count": {
       "🤖 Agents": 46,
       "🔍 RAG & Search": 9,
+      "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
       "💡 AI Tool": 20,
       "🧠 LLM & Frameworks": 7,
-      "🔌 MCP & Tools": 2,
       "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 87,
+      "Python": 88,
       "Rust": 1,
       "Java": 1
     }
@@ -60,6 +60,16 @@
       "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 15 language bindings — Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript — plus CLI, REST API, and MCP server.",
       "stars": 8943,
       "stars_formatted": "8,943"
+    },
+    {
+      "date": "2026-08-10",
+      "name": "repowise-dev/repowise",
+      "url": "https://github.com/repowise-dev/repowise",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
+      "stars": 5084,
+      "stars_formatted": "5,084"
     },
     {
       "date": "2026-08-10",
