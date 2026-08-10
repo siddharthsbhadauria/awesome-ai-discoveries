@@ -162,7 +162,12 @@ if __name__ == "__main__":
     discovery = fetch_discoveries()
     if discovery:
         update_daily_log(discovery)
-        print("Successfully updated README.md with new discovery.")
+        try:
+            from generate_data import generate_json_data
+            generate_json_data()
+        except Exception as e:
+            print(f"Warning: Failed to update site data JSON: {e}")
+        print("Successfully updated README.md and data/discoveries.json with new discovery.")
     else:
         print("Failed to fetch discovery from GitHub API.")
         sys.exit(1)

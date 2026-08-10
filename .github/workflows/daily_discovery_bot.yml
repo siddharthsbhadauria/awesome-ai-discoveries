@@ -42,7 +42,7 @@ jobs:
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           
           # 1. Stage the changes FIRST
-          git add README.md
+          git add README.md data/discoveries.json
           
           # 2. Pull from remote. 
           # We use --autostash to temporarily move your 'git add' out of the way,
