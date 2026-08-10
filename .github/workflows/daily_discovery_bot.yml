@@ -5,6 +5,10 @@ on:
     - cron: '0 0,8,16 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: daily-discovery-bot
+  cancel-in-progress: true
+
 jobs:
   auto-commit:
     runs-on: ubuntu-latest

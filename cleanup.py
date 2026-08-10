@@ -38,8 +38,8 @@ def archive_old_entries(limit=100):
     
     with open(archive_path, "w", encoding="utf-8") as f:
         f.write(f"# Archive for {archive_date}\n\n")
-        f.write("| Date | Repository | Description | Stars |\n")
-        f.write("| :--- | :--- | :--- | :--- |\n")
+        f.write("| Date | Repository | Language | Category | Description | Stars |\n")
+        f.write("| :--- | :--- | :--- | :--- | :--- | :--- |\n")
         f.writelines(to_archive)
         
     print(f"Moved {len(to_archive)} entries to {archive_path}")

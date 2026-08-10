@@ -1,12 +1,14 @@
 # 🚀 Daily AI Discoveries
 
+<!-- FEATURED_START -->
 ### 🏆 Project of the Week
 The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**
+<!-- FEATURED_END -->
 
 ---
 
-| Date | Repository | Description | Stars |
-| :--- | :--- | :--- | :--- |
+| Date | Repository | Language | Category | Description | Stars |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 2026-04-28 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation | ⭐ 2,849 |
 | 2026-04-28 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | ⭐ 12,303 |
 | 2026-04-29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform | ⭐ 135,284 |
@@ -193,4 +195,5 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-06-28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ⭐ 185,193 |
 | 2026-07-30 | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading | ⭐ 10,129 |
 | 2026-08-10 | [langgenius/dify](https://github.com/langgenius/dify) | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. | ⭐ 151,926 |
-| 2026-08-10 | [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐ 41,642 |
+| 2026-08-10 | [agno-agi/agno](https://github.com/agno-agi/agno) | Python | 🤖 Agents | Build, run, and manage agent platforms. | ⭐ 41,642 |
+| 2026-08-10 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | Java | 🔍 RAG & Search | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. | ⭐ 1,343 |
