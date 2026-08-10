@@ -1,5 +1,5 @@
 // ==========================================================================
-// Awesome AI Discoveries - Frontend Application Engine
+// Awesome AI Discoveries - Frontend Engine (Theme & Interactive Features)
 // ==========================================================================
 
 let appState = {
@@ -8,13 +8,36 @@ let appState = {
   selectedCategory: 'ALL',
   searchQuery: '',
   sortBy: 'date-desc',
-  viewMode: 'grid'
+  viewMode: 'grid',
+  activeModalItem: null
 };
 
 document.addEventListener('DOMContentLoaded', () => {
+  initTheme();
   initApp();
 });
 
+// --- Theme Engine ---
+function initTheme() {
+  const savedTheme = localStorage.getItem('theme');
+  const prefersLight = window.matchMedia('(prefers-color-scheme: light)').matches;
+  const initialTheme = savedTheme || (prefersLight ? 'light' : 'dark');
+
+  document.documentElement.setAttribute('data-theme', initialTheme);
+
+  const themeToggleBtn = document.getElementById('themeToggle');
+  if (themeToggleBtn) {
+    themeToggleBtn.addEventListener('click', () => {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      showToast(`Switched to ${newTheme === 'light' ? 'Light' : 'Dark'} mode`);
+    });
+  }
+}
+
+// --- Main App Initialization ---
 async function initApp() {
   setupEventListeners();
 
@@ -29,13 +52,12 @@ async function initApp() {
     renderCategoryPills(data.stats.categories_count || {});
     applyFiltersAndSort();
   } catch (err) {
-    console.warn('Could not fetch data/discoveries.json, attempting fallback parsing...', err);
-    // Fallback UI if json file is unavailable
+    console.warn('Could not fetch data/discoveries.json, error:', err);
     document.getElementById('cardsContainer').innerHTML = `
       <div class="empty-state">
         <div class="empty-icon">⚠️</div>
         <h3>Dataset Loading Error</h3>
-        <p>Could not load discoveries.json. Please make sure generate_data.py has executed.</p>
+        <p>Could not load discoveries.json. Please ensure generate_data.py has executed.</p>
       </div>
     `;
   }
@@ -65,7 +87,6 @@ function renderFeatured(featured) {
 
 function renderCategoryPills(categoriesCount) {
   const container = document.getElementById('categoriesContainer');
-  // Clear existing extra pills
   container.querySelectorAll('.cat-pill:not([data-category="ALL"])').forEach(el => el.remove());
 
   const categories = Object.keys(categoriesCount).sort();
@@ -134,6 +155,31 @@ function setupEventListeners() {
     viewTableBtn.classList.add('active');
     viewGridBtn.classList.remove('active');
     renderViews();
+  });
+
+  // Modal Close Listeners
+  const modal = document.getElementById('detailModal');
+  const closeModalBtn = document.getElementById('closeModal');
+  
+  closeModalBtn.addEventListener('click', closeModal);
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) closeModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+      closeModal();
+    }
+  });
+
+  // Copy Action Buttons
+  document.getElementById('copyMarkdownBtn').addEventListener('click', () => {
+    const code = document.getElementById('modalMarkdown').textContent;
+    copyToClipboard(code, 'Copied Markdown entry to clipboard!');
+  });
+
+  document.getElementById('copyCloneBtn').addEventListener('click', () => {
+    const code = document.getElementById('modalClone').textContent;
+    copyToClipboard(code, 'Copied git clone command to clipboard!');
   });
 }
 
@@ -205,11 +251,11 @@ function renderViews() {
 
 function renderGrid(items) {
   const container = document.getElementById('cardsContainer');
-  container.innerHTML = items.map(item => `
-    <div class="card">
+  container.innerHTML = items.map((item, idx) => `
+    <div class="card" onclick="openModalByIdx(${idx})">
       <div>
         <div class="card-header">
-          <a href="${item.url}" target="_blank" rel="noopener" class="card-title">${item.name}</a>
+          <a href="${item.url}" target="_blank" rel="noopener" class="card-title" onclick="event.stopPropagation()">${item.name}</a>
           <span class="card-stars">⭐ ${item.stars_formatted}</span>
         </div>
         <div class="card-tags">
@@ -220,7 +266,9 @@ function renderGrid(items) {
       </div>
       <div class="card-footer">
         <span class="card-date">Discovered: ${item.date}</span>
-        <a href="${item.url}" target="_blank" rel="noopener" class="card-link">GitHub →</a>
+        <div class="card-actions">
+          <button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details ↗</button>
+        </div>
       </div>
     </div>
   `).join('');
@@ -228,16 +276,60 @@ function renderGrid(items) {
 
 function renderTable(items) {
   const tbody = document.getElementById('tableBody');
-  tbody.innerHTML = items.map(item => `
-    <tr>
+  tbody.innerHTML = items.map((item, idx) => `
+    <tr style="cursor: pointer;" onclick="openModalByIdx(${idx})">
       <td style="font-family: var(--font-mono); font-size: 13px; color: var(--text-dim);">${item.date}</td>
-      <td><a href="${item.url}" target="_blank" rel="noopener" style="color: #fff; font-weight: 700; text-decoration: none;">${item.name}</a></td>
+      <td><a href="${item.url}" target="_blank" rel="noopener" style="color: var(--text-main); font-weight: 700; text-decoration: none;" onclick="event.stopPropagation()">${item.name}</a></td>
       <td><span class="tag-lang">${item.language}</span></td>
       <td><span class="tag-cat">${item.category}</span></td>
-      <td style="color: var(--text-muted); max-width: 400px;">${escapeHtml(item.description)}</td>
+      <td style="color: var(--text-muted); max-width: 380px;">${escapeHtml(item.description)}</td>
       <td style="font-family: var(--font-mono); font-weight: 700; color: #fbbf24;">⭐ ${item.stars_formatted}</td>
+      <td><button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details</button></td>
     </tr>
   `).join('');
+}
+
+// Modal Functions
+function openModalByIdx(idx) {
+  const item = appState.filtered[idx];
+  if (!item) return;
+  appState.activeModalItem = item;
+
+  document.getElementById('modalTitle').textContent = item.name;
+  document.getElementById('modalDesc').textContent = item.description || 'No description provided.';
+  document.getElementById('modalCategory').textContent = item.category;
+  document.getElementById('modalLanguage').textContent = item.language;
+  document.getElementById('modalStars').textContent = `⭐ ${item.stars_formatted}`;
+  document.getElementById('modalGithubLink').href = item.url;
+
+  const markdownRow = `| ${item.date} | [${item.name}](${item.url}) | ${item.language} | ${item.category} | ${item.description} | ⭐ ${item.stars_formatted} |`;
+  document.getElementById('modalMarkdown').textContent = markdownRow;
+  document.getElementById('modalClone').textContent = `git clone ${item.url}.git`;
+
+  document.getElementById('detailModal').classList.remove('hidden');
+}
+
+function closeModal() {
+  document.getElementById('detailModal').classList.add('hidden');
+  appState.activeModalItem = null;
+}
+
+// Clipboard & Toast Helper
+function copyToClipboard(text, message) {
+  navigator.clipboard.writeText(text).then(() => {
+    showToast(message);
+  }).catch(err => {
+    console.error('Failed to copy text: ', err);
+  });
+}
+
+function showToast(msg) {
+  const toast = document.getElementById('toast');
+  toast.textContent = msg;
+  toast.classList.remove('hidden');
+  setTimeout(() => {
+    toast.classList.add('hidden');
+  }, 2200);
 }
 
 function escapeHtml(str) {

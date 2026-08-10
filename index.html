@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,12 +33,19 @@
         </div>
       </div>
       <div class="nav-actions">
+        <!-- Theme Toggle Button -->
+        <button id="themeToggle" class="btn btn-icon-theme" title="Toggle Light / Dark Mode" aria-label="Toggle Theme">
+          <span class="theme-icon-dark">🌙</span>
+          <span class="theme-icon-light">☀️</span>
+          <span class="theme-text">Theme</span>
+        </button>
+
         <span class="status-badge pulse-dot">
           <span class="dot"></span> Live Bot Active
         </span>
         <a href="https://github.com/siddharthsbhadauria/awesome-ai-discoveries" target="_blank" rel="noopener" class="btn btn-github">
           <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
-          GitHub Repository
+          <span class="btn-github-text">GitHub</span>
         </a>
       </div>
     </div>
@@ -151,6 +158,7 @@
             <th>Category</th>
             <th>Description</th>
             <th>Stars</th>
+            <th>Actions</th>
           </tr>
         </thead>
         <tbody id="tableBody">
@@ -167,10 +175,49 @@
     </div>
   </main>
 
+  <!-- Detail Quick View Modal -->
+  <div id="detailModal" class="modal-overlay hidden">
+    <div class="modal-card">
+      <button id="closeModal" class="modal-close" aria-label="Close modal">✕</button>
+      <div class="modal-header">
+        <span id="modalCategory" class="tag-cat">Category</span>
+        <span id="modalLanguage" class="tag-lang">Language</span>
+        <span id="modalStars" class="card-stars">⭐ 0</span>
+      </div>
+      <h2 id="modalTitle" class="modal-title">Repository Title</h2>
+      <p id="modalDesc" class="modal-desc">Repository description goes here...</p>
+
+      <div class="modal-section">
+        <label class="modal-label">Quick Copy Markdown Entry</label>
+        <div class="code-box">
+          <code id="modalMarkdown">| Date | [Repo](URL) | Lang | Cat | Desc | Stars |</code>
+          <button id="copyMarkdownBtn" class="btn btn-copy" title="Copy Markdown">Copy</button>
+        </div>
+      </div>
+
+      <div class="modal-section">
+        <label class="modal-label">Git Clone Command</label>
+        <div class="code-box">
+          <code id="modalClone">git clone https://github.com/...</code>
+          <button id="copyCloneBtn" class="btn btn-copy" title="Copy Clone Command">Copy</button>
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <a id="modalGithubLink" href="#" target="_blank" rel="noopener" class="btn btn-primary">
+          Open on GitHub ↗
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast hidden">Copied to clipboard!</div>
+
   <!-- Footer -->
   <footer class="footer">
     <div class="container footer-content">
-      <p>Awesome AI Discoveries &copy; 2026. Built with Vanilla JS & Modern CSS.</p>
+      <p>Awesome AI Discoveries &copy; 2026. Built with Vanilla JS & CSS design system.</p>
       <div class="footer-links">
         <a href="https://github.com/siddharthsbhadauria/awesome-ai-discoveries" target="_blank" rel="noopener">GitHub Repository</a>
         <a href="README.md" target="_blank">View README.md</a>
