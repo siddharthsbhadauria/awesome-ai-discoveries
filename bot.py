@@ -10,12 +10,18 @@ TOKEN = os.getenv("GH_TOKEN")
 
 def fetch_discoveries():
     url = f"https://api.github.com/search/repositories?q={QUERY}&sort=updated&order=desc"
-    headers = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
+    headers = {"User-Agent": "Awesome-AI-Discoveries-Bot"}
+    if TOKEN:
+        headers["Authorization"] = f"token {TOKEN}"
+        
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         items = response.json().get('items', [])[:15]
-        return random.choice(items) if items else None
+        if not items:
+            print("API Warning: No items returned from GitHub search.")
+            return None
+        return random.choice(items)
     except Exception as e:
         print(f"API Error: {e}")
         return None
@@ -68,7 +74,8 @@ def update_daily_log(repo):
     repo_name = repo['full_name']
     date_str = datetime.now().strftime("%Y-%m-%d")
     url = repo['html_url']
-    desc = repo['description'] or "No description provided."
+    raw_desc = repo['description'] or "No description provided."
+    desc = raw_desc.replace("\n", " ").replace("\r", "").replace("|", "-").strip()
     stars = repo['stargazers_count']
     new_entry = f"| {date_str} | [{repo_name}]({url}) | {desc} | ⭐ {stars:,} |\n"
     
@@ -84,3 +91,8 @@ if __name__ == "__main__":
     discovery = fetch_discoveries()
     if discovery:
         update_daily_log(discovery)
+        print("Successfully updated README.md with new discovery.")
+    else:
+        print("Failed to fetch discovery from GitHub API.")
+        sys.exit(1)
+
