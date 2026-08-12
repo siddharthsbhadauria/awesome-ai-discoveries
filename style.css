@@ -488,6 +488,7 @@ p, h1, h2, h3, h4, h5, h6, span, a, li, td, th {
 
 #searchInput {
   width: 100%;
+  box-sizing: border-box;
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
   color: var(--text-main);
