@@ -32,7 +32,7 @@ function initTheme() {
       const newTheme = currentTheme === 'light' ? 'dark' : 'light';
       document.documentElement.setAttribute('data-theme', newTheme);
       localStorage.setItem('theme', newTheme);
-      showToast(`Switched to ${newTheme === 'light' ? 'Light' : 'Dark'} mode`);
+      showToast(newTheme === 'dark' ? '🌙 Dark Mode Activated' : '☀️ Light Mode Activated');
     });
   }
 }
@@ -267,7 +267,7 @@ function renderGrid(items) {
       <div class="card-footer">
         <span class="card-date">Discovered: ${item.date}</span>
         <div class="card-actions">
-          <button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details ↗</button>
+          <button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details &rarr;</button>
         </div>
       </div>
     </div>
@@ -278,12 +278,12 @@ function renderTable(items) {
   const tbody = document.getElementById('tableBody');
   tbody.innerHTML = items.map((item, idx) => `
     <tr style="cursor: pointer;" onclick="openModalByIdx(${idx})">
-      <td style="font-family: var(--font-mono); font-size: 13px; color: var(--text-dim);">${item.date}</td>
+      <td style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim);">${item.date}</td>
       <td><a href="${item.url}" target="_blank" rel="noopener" style="color: var(--text-main); font-weight: 700; text-decoration: none;" onclick="event.stopPropagation()">${item.name}</a></td>
       <td><span class="tag-lang">${item.language}</span></td>
       <td><span class="tag-cat">${item.category}</span></td>
       <td style="color: var(--text-muted); max-width: 380px;">${escapeHtml(item.description)}</td>
-      <td style="font-family: var(--font-mono); font-weight: 700; color: #fbbf24;">⭐ ${item.stars_formatted}</td>
+      <td style="font-family: var(--font-mono); font-weight: 700; color: var(--accent-amber);">⭐ ${item.stars_formatted}</td>
       <td><button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details</button></td>
     </tr>
   `).join('');
@@ -325,11 +325,14 @@ function copyToClipboard(text, message) {
 
 function showToast(msg) {
   const toast = document.getElementById('toast');
-  toast.textContent = msg;
+  const toastMsg = document.getElementById('toastMessage') || toast;
+  toastMsg.textContent = msg;
   toast.classList.remove('hidden');
+  toast.classList.add('show');
   setTimeout(() => {
     toast.classList.add('hidden');
-  }, 2200);
+    toast.classList.remove('show');
+  }, 2500);
 }
 
 function escapeHtml(str) {
