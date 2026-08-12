@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:55:17Z",
+  "generated_at": "2026-08-12T01:40:59Z",
   "stats": {
-    "total_discoveries": 93,
-    "total_stars": 1736474,
-    "total_stars_formatted": "1,736,474",
+    "total_discoveries": 94,
+    "total_stars": 1737676,
+    "total_stars_formatted": "1,737,676",
     "categories_count": {
+      "🤖 Agents": 49,
       "🔍 RAG & Search": 10,
-      "🤖 Agents": 48,
       "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
       "💡 AI Tool": 20,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 3,
       "Python": 89,
-      "Java": 2,
-      "Rust": 2
+      "Java": 2
     }
   },
   "featured": {
@@ -31,6 +31,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-12",
+      "name": "AntigmaLabs/ante",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.",
+      "stars": 1202,
+      "stars_formatted": "1,202"
+    },
     {
       "date": "2026-08-11",
       "name": "vitali87/code-graph-rag",
