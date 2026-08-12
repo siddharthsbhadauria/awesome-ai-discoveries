@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T09:08:28Z",
+  "generated_at": "2026-08-12T16:54:28Z",
   "stats": {
-    "total_discoveries": 95,
-    "total_stars": 1745537,
-    "total_stars_formatted": "1,745,537",
+    "total_discoveries": 96,
+    "total_stars": 1758389,
+    "total_stars_formatted": "1,758,389",
     "categories_count": {
+      "🤖 Agents": 50,
       "💡 AI Tool": 21,
-      "🤖 Agents": 49,
       "🔍 RAG & Search": 10,
       "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Java": 3,
       "Python": 90,
-      "Rust": 3,
-      "Java": 2
+      "Rust": 3
     }
   },
   "featured": {
@@ -31,6 +31,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-12",
+      "name": "langchain4j/langchain4j",
+      "url": "https://github.com/langchain4j/langchain4j",
+      "language": "Java",
+      "category": "🤖 Agents",
+      "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
+      "stars": 12852,
+      "stars_formatted": "12,852"
+    },
     {
       "date": "2026-08-12",
       "name": "stanfordnlp/stanza",
