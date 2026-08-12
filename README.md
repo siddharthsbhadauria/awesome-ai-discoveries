@@ -1,7 +1,7 @@
 # 🚀 Daily AI Discoveries
 
 [![Live Directory](https://img.shields.io/badge/Live%20Directory-GitHub%20Pages-00F0FF?style=for-the-badge&logo=github)](https://siddharthsbhadauria.github.io/awesome-ai-discoveries/)
-[![Daily Scraper](https://github.com/siddharthsbhadauria/awesome-ai-discoveries/actions/workflows/daily_discovery.yml/badge.svg)](https://github.com/siddharthsbhadauria/awesome-ai-discoveries/actions/workflows/daily_discovery.yml)
+[![Daily Scraper](https://github.com/siddharthsbhadauria/awesome-ai-discoveries/actions/workflows/daily_discovery_bot.yml/badge.svg)](https://github.com/siddharthsbhadauria/awesome-ai-discoveries/actions/workflows/daily_discovery_bot.yml)
 
 🌐 **Live Interactive Web Directory**: [https://siddharthsbhadauria.github.io/awesome-ai-discoveries/](https://siddharthsbhadauria.github.io/awesome-ai-discoveries/)
 
