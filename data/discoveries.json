@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-12T01:40:59Z",
+  "generated_at": "2026-08-12T09:08:28Z",
   "stats": {
-    "total_discoveries": 94,
-    "total_stars": 1737676,
-    "total_stars_formatted": "1,737,676",
+    "total_discoveries": 95,
+    "total_stars": 1745537,
+    "total_stars_formatted": "1,745,537",
     "categories_count": {
+      "💡 AI Tool": 21,
       "🤖 Agents": 49,
       "🔍 RAG & Search": 10,
       "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
-      "💡 AI Tool": 20,
       "🧠 LLM & Frameworks": 7,
       "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 90,
       "Rust": 3,
-      "Python": 89,
       "Java": 2
     }
   },
@@ -31,6 +31,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-12",
+      "name": "stanfordnlp/stanza",
+      "url": "https://github.com/stanfordnlp/stanza",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages",
+      "stars": 7861,
+      "stars_formatted": "7,861"
+    },
     {
       "date": "2026-08-12",
       "name": "AntigmaLabs/ante",
