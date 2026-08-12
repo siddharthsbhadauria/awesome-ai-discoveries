@@ -125,13 +125,8 @@
 
   <!-- Search & Controls Section -->
   <main class="main-content container">
-    <div class="controls-card">
-      <div class="search-bar">
-        <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-        <input type="text" id="searchInput" placeholder="Search by repository name, language, or keyword..." autocomplete="off">
-        <button id="clearSearch" class="btn-clear" aria-label="Clear Search">✕</button>
-      </div>
-
+    <!-- Controls & Matrix Section -->
+    <div class="controls-bar">
       <div class="filter-row">
         <!-- Category Filter Pills -->
         <div class="categories-scroll" id="categoriesContainer">
@@ -158,6 +153,11 @@
             </button>
           </div>
         </div>
+      </div>
+
+      <div class="search-box">
+        <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="searchInput" class="search-input" placeholder="Search by repository name, language, or keyword..." autocomplete="off">
       </div>
     </div>
 
