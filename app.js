@@ -114,33 +114,38 @@ function setupEventListeners() {
   const viewTableBtn = document.getElementById('viewTableBtn');
   const allCatBtn = document.querySelector('.cat-pill[data-category="ALL"]');
 
-  // Search input handler
-  searchInput.addEventListener('input', (e) => {
-    appState.searchQuery = e.target.value.toLowerCase().trim();
-    clearBtn.classList.toggle('show', appState.searchQuery.length > 0);
-    applyFiltersAndSort();
-  });
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      appState.searchQuery = e.target.value.toLowerCase().trim();
+      if (clearBtn) clearBtn.classList.toggle('show', appState.searchQuery.length > 0);
+      applyFiltersAndSort();
+    });
+  }
 
-  clearBtn.addEventListener('click', () => {
-    searchInput.value = '';
-    appState.searchQuery = '';
-    clearBtn.classList.remove('show');
-    applyFiltersAndSort();
-  });
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      if (searchInput) searchInput.value = '';
+      appState.searchQuery = '';
+      clearBtn.classList.remove('show');
+      applyFiltersAndSort();
+    });
+  }
 
-  // All categories click
-  allCatBtn.addEventListener('click', () => {
-    document.querySelectorAll('.cat-pill').forEach(b => b.classList.remove('active'));
-    allCatBtn.classList.add('active');
-    appState.selectedCategory = 'ALL';
-    applyFiltersAndSort();
-  });
+  if (allCatBtn) {
+    allCatBtn.addEventListener('click', () => {
+      document.querySelectorAll('.cat-pill').forEach(b => b.classList.remove('active'));
+      allCatBtn.classList.add('active');
+      appState.selectedCategory = 'ALL';
+      applyFiltersAndSort();
+    });
+  }
 
-  // Sort select handler
-  sortSelect.addEventListener('change', (e) => {
-    appState.sortBy = e.target.value;
-    applyFiltersAndSort();
-  });
+  if (sortSelect) {
+    sortSelect.addEventListener('change', (e) => {
+      appState.sortBy = e.target.value;
+      applyFiltersAndSort();
+    });
+  }
 
   // View mode toggle
   viewGridBtn.addEventListener('click', () => {
