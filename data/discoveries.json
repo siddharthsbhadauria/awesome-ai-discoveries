@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T16:54:28Z",
+  "generated_at": "2026-08-13T01:43:08Z",
   "stats": {
-    "total_discoveries": 96,
-    "total_stars": 1758389,
-    "total_stars_formatted": "1,758,389",
+    "total_discoveries": 97,
+    "total_stars": 1777645,
+    "total_stars_formatted": "1,777,645",
     "categories_count": {
-      "🤖 Agents": 50,
+      "🤖 Agents": 51,
       "💡 AI Tool": 21,
       "🔍 RAG & Search": 10,
       "🔌 MCP & Tools": 3,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 91,
       "Java": 3,
-      "Python": 90,
       "Rust": 3
     }
   },
@@ -31,6 +31,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-13",
+      "name": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AI Agent Framework, the Pydantic way",
+      "stars": 19256,
+      "stars_formatted": "19,256"
+    },
     {
       "date": "2026-08-12",
       "name": "langchain4j/langchain4j",
