@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T01:43:08Z",
+  "generated_at": "2026-08-13T09:08:56Z",
   "stats": {
-    "total_discoveries": 97,
-    "total_stars": 1777645,
-    "total_stars_formatted": "1,777,645",
+    "total_discoveries": 98,
+    "total_stars": 1823268,
+    "total_stars_formatted": "1,823,268",
     "categories_count": {
+      "🔍 RAG & Search": 11,
       "🤖 Agents": 51,
       "💡 AI Tool": 21,
-      "🔍 RAG & Search": 10,
       "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
       "🧠 LLM & Frameworks": 7,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 1,
       "Python": 91,
       "Java": 3,
       "Rust": 3
@@ -31,6 +32,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-13",
+      "name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "language": "Go",
+      "category": "🔍 RAG & Search",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "stars": 45623,
+      "stars_formatted": "45,623"
+    },
     {
       "date": "2026-08-13",
       "name": "pydantic/pydantic-ai",
