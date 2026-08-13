@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T09:08:56Z",
+  "generated_at": "2026-08-13T16:53:51Z",
   "stats": {
-    "total_discoveries": 98,
-    "total_stars": 1823268,
-    "total_stars_formatted": "1,823,268",
+    "total_discoveries": 99,
+    "total_stars": 1866623,
+    "total_stars_formatted": "1,866,623",
     "categories_count": {
       "🔍 RAG & Search": 11,
+      "💡 AI Tool": 22,
       "🤖 Agents": 51,
-      "💡 AI Tool": 21,
       "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
       "🧠 LLM & Frameworks": 7,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Go": 1,
-      "Python": 91,
+      "Python": 92,
       "Java": 3,
       "Rust": 3
     }
@@ -41,6 +41,16 @@
       "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
       "stars": 45623,
       "stars_formatted": "45,623"
+    },
+    {
+      "date": "2026-08-13",
+      "name": "gradio-app/gradio",
+      "url": "https://github.com/gradio-app/gradio",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+      "stars": 43355,
+      "stars_formatted": "43,355"
     },
     {
       "date": "2026-08-13",
