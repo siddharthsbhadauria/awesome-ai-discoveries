@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T01:41:09Z",
+  "generated_at": "2026-08-14T09:04:25Z",
   "stats": {
-    "total_discoveries": 100,
-    "total_stars": 1887723,
-    "total_stars_formatted": "1,887,723",
+    "total_discoveries": 101,
+    "total_stars": 1890977,
+    "total_stars_formatted": "1,890,977",
     "categories_count": {
-      "🤖 Agents": 52,
+      "🤖 Agents": 53,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 22,
       "🔌 MCP & Tools": 3,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 93,
+      "JavaScript": 1,
       "Go": 1,
       "Java": 3,
       "Rust": 3
@@ -41,6 +42,16 @@
       "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "stars": 21100,
       "stars_formatted": "21,100"
+    },
+    {
+      "date": "2026-08-14",
+      "name": "neomjs/neo",
+      "url": "https://github.com/neomjs/neo",
+      "language": "JavaScript",
+      "category": "🤖 Agents",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3254,
+      "stars_formatted": "3,254"
     },
     {
       "date": "2026-08-13",
