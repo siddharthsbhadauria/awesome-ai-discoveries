@@ -126,3 +126,4 @@ The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://gith
 | 2026-08-13 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | Python | 🤖 Agents | AI Agent Framework, the Pydantic way | ⭐ 19,256 |
 | 2026-08-13 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | Go | 🔍 RAG & Search | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | ⭐ 45,623 |
 | 2026-08-13 | [gradio-app/gradio](https://github.com/gradio-app/gradio) | Python | 💡 AI Tool | Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work! | ⭐ 43,355 |
+| 2026-08-14 | [google/adk-python](https://github.com/google/adk-python) | Python | 🤖 Agents | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | ⭐ 21,100 |

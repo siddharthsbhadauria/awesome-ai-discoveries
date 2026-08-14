@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T16:53:51Z",
+  "generated_at": "2026-08-14T01:41:09Z",
   "stats": {
-    "total_discoveries": 99,
-    "total_stars": 1866623,
-    "total_stars_formatted": "1,866,623",
+    "total_discoveries": 100,
+    "total_stars": 1887723,
+    "total_stars_formatted": "1,887,723",
     "categories_count": {
+      "🤖 Agents": 52,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 22,
-      "🤖 Agents": 51,
       "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
       "🧠 LLM & Frameworks": 7,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 93,
       "Go": 1,
-      "Python": 92,
       "Java": 3,
       "Rust": 3
     }
@@ -32,6 +32,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-14",
+      "name": "google/adk-python",
+      "url": "https://github.com/google/adk-python",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 21100,
+      "stars_formatted": "21,100"
+    },
     {
       "date": "2026-08-13",
       "name": "milvus-io/milvus",
