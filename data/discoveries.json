@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-15T01:02:46Z",
+  "generated_at": "2026-08-15T08:23:30Z",
   "stats": {
-    "total_discoveries": 103,
-    "total_stars": 1896687,
-    "total_stars_formatted": "1,896,687",
+    "total_discoveries": 104,
+    "total_stars": 1940203,
+    "total_stars_formatted": "1,940,203",
     "categories_count": {
+      "🧠 LLM & Frameworks": 8,
       "🔌 MCP & Tools": 4,
       "🤖 Agents": 54,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 22,
       "🎨 Multimodal": 3,
-      "🧠 LLM & Frameworks": 7,
       "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 94,
+      "Python": 95,
       "JavaScript": 2,
       "Go": 1,
       "Java": 3,
@@ -33,6 +33,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-15",
+      "name": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 43516,
+      "stars_formatted": "43,516"
+    },
     {
       "date": "2026-08-15",
       "name": "raullenchai/Rapid-MLX",
