@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-15T08:23:30Z",
+  "generated_at": "2026-08-15T16:20:05Z",
   "stats": {
-    "total_discoveries": 104,
-    "total_stars": 1940203,
-    "total_stars_formatted": "1,940,203",
+    "total_discoveries": 105,
+    "total_stars": 1940783,
+    "total_stars_formatted": "1,940,783",
     "categories_count": {
       "🧠 LLM & Frameworks": 8,
       "🔌 MCP & Tools": 4,
+      "🔍 RAG & Search": 12,
       "🤖 Agents": 54,
-      "🔍 RAG & Search": 11,
       "💡 AI Tool": 22,
       "🎨 Multimodal": 3,
       "🗄️ Vector DB": 1,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 95,
+      "TypeScript": 1,
       "JavaScript": 2,
       "Go": 1,
       "Java": 3,
@@ -52,6 +53,16 @@
       "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
       "stars": 3460,
       "stars_formatted": "3,460"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "felladrin/MiniSearch",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "language": "TypeScript",
+      "category": "🔍 RAG & Search",
+      "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "stars": 580,
+      "stars_formatted": "580"
     },
     {
       "date": "2026-08-14",
