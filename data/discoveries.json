@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-14T16:48:37Z",
+  "generated_at": "2026-08-15T01:02:46Z",
   "stats": {
-    "total_discoveries": 102,
-    "total_stars": 1893227,
-    "total_stars_formatted": "1,893,227",
+    "total_discoveries": 103,
+    "total_stars": 1896687,
+    "total_stars_formatted": "1,896,687",
     "categories_count": {
+      "🔌 MCP & Tools": 4,
       "🤖 Agents": 54,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 22,
-      "🔌 MCP & Tools": 3,
       "🎨 Multimodal": 3,
       "🧠 LLM & Frameworks": 7,
       "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 93,
+      "Python": 94,
       "JavaScript": 2,
       "Go": 1,
       "Java": 3,
@@ -33,6 +33,16 @@
     "stars_formatted": "185,193"
   },
   "discoveries": [
+    {
+      "date": "2026-08-15",
+      "name": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+      "stars": 3460,
+      "stars_formatted": "3,460"
+    },
     {
       "date": "2026-08-14",
       "name": "google/adk-python",
