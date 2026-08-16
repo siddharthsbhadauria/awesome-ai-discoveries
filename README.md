@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**
+The most popular discovery lately: **[langgenius/dify](https://github.com/langgenius/dify)**
 <!-- FEATURED_END -->
 
 ---

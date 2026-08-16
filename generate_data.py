@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 def parse_markdown_table_file(filepath):
     entries = []
@@ -83,8 +83,15 @@ def generate_json_data():
             unique_entries.append(item)
             total_stars += item["stars"]
 
-    # Featured Project of the Week (highest star count)
-    featured = max(unique_entries, key=lambda x: x["stars"]) if unique_entries else None
+    # Featured Project of the Week (highest star count in past 7 days, fallback to 7 newest)
+    one_week_ago_str = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
+    recent_candidates = [e for e in unique_entries if e["date"] >= one_week_ago_str]
+    if recent_candidates:
+        featured = max(recent_candidates, key=lambda x: x["stars"])
+    elif unique_entries:
+        featured = max(unique_entries[:7], key=lambda x: x["stars"])
+    else:
+        featured = None
 
     # Collect categories and languages count
     categories_count = {}

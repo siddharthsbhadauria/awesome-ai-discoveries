@@ -24,14 +24,14 @@
     }
   },
   "featured": {
-    "date": "2026-06-28",
-    "name": "Significant-Gravitas/AutoGPT",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "date": "2026-08-10",
+    "name": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
     "language": "Python",
     "category": "🤖 Agents",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "stars": 185193,
-    "stars_formatted": "185,193"
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "stars": 151926,
+    "stars_formatted": "151,926"
   },
   "discoveries": [
     {

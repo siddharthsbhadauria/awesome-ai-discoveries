@@ -3,7 +3,7 @@ import os
 import random
 import sys
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
 SEARCH_QUERIES = [
@@ -100,7 +100,7 @@ def fetch_discoveries():
     return None
 
 def update_project_of_the_week():
-    """Finds the repo with the most stars and features it using HTML comment markers."""
+    """Finds the repo with the most stars discovered in the past 7 days and features it using HTML comment markers."""
     if not os.path.exists("README.md"):
         return
     
@@ -113,21 +113,30 @@ def update_project_of_the_week():
         content = f.read()
 
     lines = content.splitlines(keepends=True)
-    repos = []
+    all_repos = []
+    weekly_candidates = []
+    one_week_ago_str = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+
     for line in lines:
         if line.startswith("| 20"): 
             parts = line.split("|")
             try:
+                date_str = parts[1].strip()
                 repo_link = parts[2].strip()
                 star_count = int(parts[-2].replace("⭐", "").replace(",", "").strip())
-                repos.append((star_count, repo_link))
+                entry = (star_count, repo_link, date_str)
+                all_repos.append(entry)
+                if date_str >= one_week_ago_str:
+                    weekly_candidates.append(entry)
             except:
                 continue
 
-    if not repos:
+    if not all_repos:
         return
 
-    best_repo = max(repos, key=lambda x: x[0])
+    # Select from discoveries in last 7 days, fallback to the 7 newest discoveries
+    target_pool = weekly_candidates if weekly_candidates else all_repos[-7:]
+    best_repo = max(target_pool, key=lambda x: x[0])
     featured_block = f"<!-- FEATURED_START -->\n### 🏆 Project of the Week\nThe most popular discovery lately: **{best_repo[1]}**\n<!-- FEATURED_END -->\n"
 
     # Replace content between markers if present
@@ -136,7 +145,7 @@ def update_project_of_the_week():
         new_content = re.sub(pattern, featured_block.strip(), content, flags=re.DOTALL)
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
-        print("Updated Project of the Week between markers.")
+        print(f"Updated Project of the Week to '{best_repo[1]}' ({best_repo[0]:,} stars).")
     else:
         print("Featured markers not found in README.md; skipping inline marker update.")
 
