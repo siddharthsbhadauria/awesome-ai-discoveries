@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T08:25:20Z",
+  "generated_at": "2026-08-16T16:20:04Z",
   "stats": {
-    "total_discoveries": 100,
-    "total_stars": 1885056,
-    "total_stars_formatted": "1,885,056",
+    "total_discoveries": 101,
+    "total_stars": 1890794,
+    "total_stars_formatted": "1,890,794",
     "categories_count": {
+      "🤖 Agents": 53,
       "🧠 LLM & Frameworks": 9,
-      "🤖 Agents": 52,
       "🔌 MCP & Tools": 4,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 20,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 90,
       "C++": 1,
-      "Python": 89,
       "TypeScript": 1,
       "JavaScript": 2,
       "Go": 1,
@@ -34,6 +34,16 @@
     "stars_formatted": "151,926"
   },
   "discoveries": [
+    {
+      "date": "2026-08-16",
+      "name": "Mai-with-u/MaiBot",
+      "url": "https://github.com/Mai-with-u/MaiBot",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.",
+      "stars": 5738,
+      "stars_formatted": "5,738"
+    },
     {
       "date": "2026-08-16",
       "name": "nndeploy/nndeploy",
