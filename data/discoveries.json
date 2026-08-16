@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-15T16:20:05Z",
+  "generated_at": "2026-08-16T01:06:20Z",
   "stats": {
-    "total_discoveries": 105,
-    "total_stars": 1940783,
-    "total_stars_formatted": "1,940,783",
+    "total_discoveries": 99,
+    "total_stars": 1884668,
+    "total_stars_formatted": "1,884,668",
     "categories_count": {
-      "🧠 LLM & Frameworks": 8,
+      "🧠 LLM & Frameworks": 9,
       "🔌 MCP & Tools": 4,
-      "🔍 RAG & Search": 12,
-      "🤖 Agents": 54,
-      "💡 AI Tool": 22,
+      "🔍 RAG & Search": 11,
+      "🤖 Agents": 51,
+      "💡 AI Tool": 20,
       "🎨 Multimodal": 3,
-      "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 95,
+      "C++": 1,
+      "Python": 88,
       "TypeScript": 1,
       "JavaScript": 2,
       "Go": 1,
@@ -34,6 +34,16 @@
     "stars_formatted": "151,926"
   },
   "discoveries": [
+    {
+      "date": "2026-08-16",
+      "name": "nndeploy/nndeploy",
+      "url": "https://github.com/nndeploy/nndeploy",
+      "language": "C++",
+      "category": "🧠 LLM & Frameworks",
+      "description": "一款简单易用和高性能的AI部署框架 - An Easy-to-Use and High-Performance AI Deployment Framework",
+      "stars": 1861,
+      "stars_formatted": "1,861"
+    },
     {
       "date": "2026-08-15",
       "name": "ray-project/ray",
@@ -656,16 +666,6 @@
     },
     {
       "date": "2026-05-28",
-      "name": "tensorzero/tensorzero",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "language": "Python",
-      "category": "🔌 MCP & Tools",
-      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
-      "stars": 11412,
-      "stars_formatted": "11,412"
-    },
-    {
-      "date": "2026-05-28",
       "name": "strands-agents/sdk-python",
       "url": "https://github.com/strands-agents/sdk-python",
       "language": "Python",
@@ -675,194 +675,14 @@
       "stars_formatted": "5,962"
     },
     {
-      "date": "2026-05-27",
-      "name": "langchain-ai/deepagents",
-      "url": "https://github.com/langchain-ai/deepagents",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "The batteries-included agent harness.",
-      "stars": 23433,
-      "stars_formatted": "23,433"
-    },
-    {
-      "date": "2026-05-25",
-      "name": "CarterPerez-dev/Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "language": "Python",
-      "category": "💡 AI Tool",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
-      "stars": 2179,
-      "stars_formatted": "2,179"
-    },
-    {
-      "date": "2026-05-24",
-      "name": "opengeos/geoai",
-      "url": "https://github.com/opengeos/geoai",
-      "language": "Python",
-      "category": "💡 AI Tool",
-      "description": "GeoAI: Artificial Intelligence for Geospatial Data",
-      "stars": 3054,
-      "stars_formatted": "3,054"
-    },
-    {
-      "date": "2026-05-23",
-      "name": "openakita/openakita",
-      "url": "https://github.com/openakita/openakita",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "An open-source AI assistant framework with skills and agent architecture",
-      "stars": 1773,
-      "stars_formatted": "1,773"
-    },
-    {
-      "date": "2026-05-22",
-      "name": "MemoriLabs/Memori",
-      "url": "https://github.com/MemoriLabs/Memori",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
-      "stars": 14716,
-      "stars_formatted": "14,716"
-    },
-    {
-      "date": "2026-05-21",
-      "name": "pinecone-io/examples",
-      "url": "https://github.com/pinecone-io/examples",
-      "language": "Python",
-      "category": "🗄️ Vector DB",
-      "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
-      "stars": 3019,
-      "stars_formatted": "3,019"
-    },
-    {
-      "date": "2026-05-20",
-      "name": "mem0ai/mem0",
-      "url": "https://github.com/mem0ai/mem0",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "Universal memory layer for AI Agents",
-      "stars": 56276,
-      "stars_formatted": "56,276"
-    },
-    {
-      "date": "2026-05-19",
-      "name": "Lightning-AI/pytorch-lightning",
-      "url": "https://github.com/Lightning-AI/pytorch-lightning",
-      "language": "Python",
-      "category": "💡 AI Tool",
-      "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
-      "stars": 31149,
-      "stars_formatted": "31,149"
-    },
-    {
-      "date": "2026-05-16",
-      "name": "leon-ai/leon",
-      "url": "https://github.com/leon-ai/leon",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "🧠 Leon is your open-source personal assistant.",
-      "stars": 17233,
-      "stars_formatted": "17,233"
-    },
-    {
-      "date": "2026-05-14",
-      "name": "MemMachine/MemMachine",
-      "url": "https://github.com/MemMachine/MemMachine",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
-      "stars": 3079,
-      "stars_formatted": "3,079"
-    },
-    {
-      "date": "2026-05-13",
-      "name": "flwrlabs/flower",
-      "url": "https://github.com/flwrlabs/flower",
-      "language": "Python",
-      "category": "💡 AI Tool",
-      "description": "Flower: A Friendly Federated AI Framework",
-      "stars": 6894,
-      "stars_formatted": "6,894"
-    },
-    {
-      "date": "2026-05-13",
+      "date": "2026-04-26",
       "name": "Josh-XT/AGiXT",
       "url": "https://github.com/Josh-XT/AGiXT",
       "language": "Python",
       "category": "🤖 Agents",
       "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
-      "stars": 3186,
-      "stars_formatted": "3,186"
-    },
-    {
-      "date": "2026-05-10",
-      "name": "DrizzleTime/Foxel",
-      "url": "https://github.com/DrizzleTime/Foxel",
-      "language": "Python",
-      "category": "🔍 RAG & Search",
-      "description": "A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.",
-      "stars": 1030,
-      "stars_formatted": "1,030"
-    },
-    {
-      "date": "2026-05-08",
-      "name": "openai/openai-agents-python",
-      "url": "https://github.com/openai/openai-agents-python",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": 26072,
-      "stars_formatted": "26,072"
-    },
-    {
-      "date": "2026-05-08",
-      "name": "MemTensor/MemOS",
-      "url": "https://github.com/MemTensor/MemOS",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
-      "stars": 8962,
-      "stars_formatted": "8,962"
-    },
-    {
-      "date": "2026-05-06",
-      "name": "Netflix/metaflow",
-      "url": "https://github.com/Netflix/metaflow",
-      "language": "Python",
-      "category": "💡 AI Tool",
-      "description": "Build, Manage and Deploy AI/ML Systems",
-      "stars": 10077,
-      "stars_formatted": "10,077"
-    },
-    {
-      "date": "2026-05-04",
-      "name": "PrunaAI/pruna",
-      "url": "https://github.com/PrunaAI/pruna",
-      "language": "Python",
-      "category": "💡 AI Tool",
-      "description": "Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead.",
-      "stars": 1172,
-      "stars_formatted": "1,172"
-    },
-    {
-      "date": "2026-04-30",
-      "name": "pydantic/logfire",
-      "url": "https://github.com/pydantic/logfire",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "AI observability platform for production LLM and agent systems.",
-      "stars": 4204,
-      "stars_formatted": "4,204"
-    },
-    {
-      "date": "2026-04-29",
-      "name": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "language": "Python",
-      "category": "🤖 Agents",
-      "description": "The agent engineering platform",
-      "stars": 135329,
-      "stars_formatted": "135,329"
+      "stars": 3180,
+      "stars_formatted": "3,180"
     },
     {
       "date": "2026-04-25",
@@ -885,6 +705,16 @@
       "stars_formatted": "8,759"
     },
     {
+      "date": "2026-04-21",
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "The agent engineering platform",
+      "stars": 134304,
+      "stars_formatted": "134,304"
+    },
+    {
       "date": "2026-04-19",
       "name": "morettt/my-neuro",
       "url": "https://github.com/morettt/my-neuro",
@@ -903,6 +733,16 @@
       "description": "One-stop shop for building AI-powered products and businesses with Stripe.",
       "stars": 1475,
       "stars_formatted": "1,475"
+    },
+    {
+      "date": "2026-04-14",
+      "name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11213,
+      "stars_formatted": "11,213"
     },
     {
       "date": "2026-04-12",
@@ -925,6 +765,46 @@
       "stars_formatted": "21,617"
     },
     {
+      "date": "2026-04-10",
+      "name": "Netflix/metaflow",
+      "url": "https://github.com/Netflix/metaflow",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "stars": 10020,
+      "stars_formatted": "10,020"
+    },
+    {
+      "date": "2026-04-08",
+      "name": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 52304,
+      "stars_formatted": "52,304"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "flwrlabs/flower",
+      "url": "https://github.com/flwrlabs/flower",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Flower: A Friendly Federated AI Framework",
+      "stars": 6796,
+      "stars_formatted": "6,796"
+    },
+    {
+      "date": "2026-04-05",
+      "name": "openakita/openakita",
+      "url": "https://github.com/openakita/openakita",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "An open-source AI assistant framework with skills and agent architecture",
+      "stars": 1581,
+      "stars_formatted": "1,581"
+    },
+    {
       "date": "2026-04-03",
       "name": "crestalnetwork/intentkit",
       "url": "https://github.com/crestalnetwork/intentkit",
@@ -933,6 +813,16 @@
       "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
       "stars": 6499,
       "stars_formatted": "6,499"
+    },
+    {
+      "date": "2026-04-01",
+      "name": "Lightning-AI/pytorch-lightning",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+      "stars": 30979,
+      "stars_formatted": "30,979"
     },
     {
       "date": "2026-03-30",
@@ -955,6 +845,16 @@
       "stars_formatted": "12,331"
     },
     {
+      "date": "2026-03-24",
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 20255,
+      "stars_formatted": "20,255"
+    },
+    {
       "date": "2026-03-22",
       "name": "learnhouse/learnhouse",
       "url": "https://github.com/learnhouse/learnhouse",
@@ -973,6 +873,16 @@
       "description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.",
       "stars": 2416,
       "stars_formatted": "2,416"
+    },
+    {
+      "date": "2026-03-17",
+      "name": "pydantic/logfire",
+      "url": "https://github.com/pydantic/logfire",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AI observability platform for production LLM and agent systems.",
+      "stars": 4092,
+      "stars_formatted": "4,092"
     },
     {
       "date": "2026-03-16",
@@ -1035,6 +945,16 @@
       "stars_formatted": "15,154"
     },
     {
+      "date": "2026-02-28",
+      "name": "leon-ai/leon",
+      "url": "https://github.com/leon-ai/leon",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "stars": 17089,
+      "stars_formatted": "17,089"
+    },
+    {
       "date": "2026-02-19",
       "name": "kayba-ai/agentic-context-engine",
       "url": "https://github.com/kayba-ai/agentic-context-engine",
@@ -1075,6 +995,16 @@
       "stars_formatted": "9,142"
     },
     {
+      "date": "2026-02-10",
+      "name": "opengeos/geoai",
+      "url": "https://github.com/opengeos/geoai",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+      "stars": 2471,
+      "stars_formatted": "2,471"
+    },
+    {
       "date": "2026-02-06",
       "name": "kubeflow/trainer",
       "url": "https://github.com/kubeflow/trainer",
@@ -1083,6 +1013,16 @@
       "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
       "stars": 2021,
       "stars_formatted": "2,021"
+    },
+    {
+      "date": "2026-02-05",
+      "name": "MemoriLabs/Memori",
+      "url": "https://github.com/MemoriLabs/Memori",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems",
+      "stars": 11989,
+      "stars_formatted": "11,989"
     }
   ]
 }
