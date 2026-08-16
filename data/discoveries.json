@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-16T01:06:20Z",
+  "generated_at": "2026-08-16T08:25:20Z",
   "stats": {
-    "total_discoveries": 99,
-    "total_stars": 1884668,
-    "total_stars_formatted": "1,884,668",
+    "total_discoveries": 100,
+    "total_stars": 1885056,
+    "total_stars_formatted": "1,885,056",
     "categories_count": {
       "🧠 LLM & Frameworks": 9,
+      "🤖 Agents": 52,
       "🔌 MCP & Tools": 4,
       "🔍 RAG & Search": 11,
-      "🤖 Agents": 51,
       "💡 AI Tool": 20,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
       "C++": 1,
-      "Python": 88,
+      "Python": 89,
       "TypeScript": 1,
       "JavaScript": 2,
       "Go": 1,
@@ -43,6 +43,16 @@
       "description": "一款简单易用和高性能的AI部署框架 - An Easy-to-Use and High-Performance AI Deployment Framework",
       "stars": 1861,
       "stars_formatted": "1,861"
+    },
+    {
+      "date": "2026-08-16",
+      "name": "Ikalus1988/MisakaNet",
+      "url": "https://github.com/Ikalus1988/MisakaNet",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. - https://misakanet.org",
+      "stars": 388,
+      "stars_formatted": "388"
     },
     {
       "date": "2026-08-15",
