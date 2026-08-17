@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T01:04:10Z",
+  "generated_at": "2026-08-17T08:38:35Z",
   "stats": {
-    "total_discoveries": 102,
-    "total_stars": 1892136,
-    "total_stars_formatted": "1,892,136",
+    "total_discoveries": 103,
+    "total_stars": 1965048,
+    "total_stars_formatted": "1,965,048",
     "categories_count": {
+      "🤖 Agents": 54,
       "🧠 LLM & Frameworks": 10,
-      "🤖 Agents": 53,
       "🔌 MCP & Tools": 4,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 20,
@@ -14,7 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 91,
+      "Python": 92,
       "C++": 1,
       "TypeScript": 1,
       "JavaScript": 2,
@@ -34,6 +34,16 @@
     "stars_formatted": "151,926"
   },
   "discoveries": [
+    {
+      "date": "2026-08-17",
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": 72912,
+      "stars_formatted": "72,912"
+    },
     {
       "date": "2026-08-17",
       "name": "Amm1rr/WebAI-to-API",
