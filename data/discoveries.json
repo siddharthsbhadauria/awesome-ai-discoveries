@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-17T08:38:35Z",
+  "generated_at": "2026-08-17T16:22:57Z",
   "stats": {
-    "total_discoveries": 103,
-    "total_stars": 1965048,
-    "total_stars_formatted": "1,965,048",
+    "total_discoveries": 104,
+    "total_stars": 1966307,
+    "total_stars_formatted": "1,966,307",
     "categories_count": {
       "🤖 Agents": 54,
       "🧠 LLM & Frameworks": 10,
+      "🔍 RAG & Search": 12,
       "🔌 MCP & Tools": 4,
-      "🔍 RAG & Search": 11,
       "💡 AI Tool": 20,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 92,
+      "Python": 93,
       "C++": 1,
       "TypeScript": 1,
       "JavaScript": 2,
@@ -53,6 +53,16 @@
       "description": "Webchat to API",
       "stars": 1342,
       "stars_formatted": "1,342"
+    },
+    {
+      "date": "2026-08-17",
+      "name": "neo4j/neo4j-graphrag-python",
+      "url": "https://github.com/neo4j/neo4j-graphrag-python",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "Neo4j GraphRAG for Python",
+      "stars": 1259,
+      "stars_formatted": "1,259"
     },
     {
       "date": "2026-08-16",
