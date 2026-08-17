@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T16:20:04Z",
+  "generated_at": "2026-08-17T01:04:10Z",
   "stats": {
-    "total_discoveries": 101,
-    "total_stars": 1890794,
-    "total_stars_formatted": "1,890,794",
+    "total_discoveries": 102,
+    "total_stars": 1892136,
+    "total_stars_formatted": "1,892,136",
     "categories_count": {
+      "🧠 LLM & Frameworks": 10,
       "🤖 Agents": 53,
-      "🧠 LLM & Frameworks": 9,
       "🔌 MCP & Tools": 4,
       "🔍 RAG & Search": 11,
       "💡 AI Tool": 20,
@@ -14,7 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 90,
+      "Python": 91,
       "C++": 1,
       "TypeScript": 1,
       "JavaScript": 2,
@@ -34,6 +34,16 @@
     "stars_formatted": "151,926"
   },
   "discoveries": [
+    {
+      "date": "2026-08-17",
+      "name": "Amm1rr/WebAI-to-API",
+      "url": "https://github.com/Amm1rr/WebAI-to-API",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "Webchat to API",
+      "stars": 1342,
+      "stars_formatted": "1,342"
+    },
     {
       "date": "2026-08-16",
       "name": "Mai-with-u/MaiBot",
