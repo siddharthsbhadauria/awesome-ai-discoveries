@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T01:01:42Z",
+  "generated_at": "2026-08-18T08:32:42Z",
   "stats": {
-    "total_discoveries": 105,
-    "total_stars": 1981128,
-    "total_stars_formatted": "1,981,128",
+    "total_discoveries": 106,
+    "total_stars": 2028252,
+    "total_stars_formatted": "2,028,252",
     "categories_count": {
+      "🤖 Agents": 55,
       "🔍 RAG & Search": 13,
-      "🤖 Agents": 54,
       "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
       "💡 AI Tool": 20,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 94,
       "Rust": 4,
-      "Python": 93,
       "C++": 1,
       "TypeScript": 1,
       "JavaScript": 2,
@@ -34,6 +34,16 @@
     "stars_formatted": "72,912"
   },
   "discoveries": [
+    {
+      "date": "2026-08-18",
+      "name": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+      "stars": 47124,
+      "stars_formatted": "47,124"
+    },
     {
       "date": "2026-08-18",
       "name": "RyanCodrai/turbovec",
