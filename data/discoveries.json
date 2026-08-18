@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T08:32:42Z",
+  "generated_at": "2026-08-18T16:27:19Z",
   "stats": {
-    "total_discoveries": 106,
-    "total_stars": 2028252,
-    "total_stars_formatted": "2,028,252",
+    "total_discoveries": 107,
+    "total_stars": 2034954,
+    "total_stars_formatted": "2,034,954",
     "categories_count": {
-      "🤖 Agents": 55,
+      "🤖 Agents": 56,
       "🔍 RAG & Search": 13,
       "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
@@ -14,7 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 94,
+      "Python": 95,
       "Rust": 4,
       "C++": 1,
       "TypeScript": 1,
@@ -53,6 +53,16 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "stars": 14821,
       "stars_formatted": "14,821"
+    },
+    {
+      "date": "2026-08-18",
+      "name": "plastic-labs/honcho",
+      "url": "https://github.com/plastic-labs/honcho",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Memory library for building stateful agents",
+      "stars": 6702,
+      "stars_formatted": "6,702"
     },
     {
       "date": "2026-08-17",
