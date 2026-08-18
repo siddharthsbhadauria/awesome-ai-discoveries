@@ -1,39 +1,49 @@
 {
-  "generated_at": "2026-08-17T16:22:57Z",
+  "generated_at": "2026-08-18T01:01:42Z",
   "stats": {
-    "total_discoveries": 104,
-    "total_stars": 1966307,
-    "total_stars_formatted": "1,966,307",
+    "total_discoveries": 105,
+    "total_stars": 1981128,
+    "total_stars_formatted": "1,981,128",
     "categories_count": {
+      "🔍 RAG & Search": 13,
       "🤖 Agents": 54,
       "🧠 LLM & Frameworks": 10,
-      "🔍 RAG & Search": 12,
       "🔌 MCP & Tools": 4,
       "💡 AI Tool": 20,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 4,
       "Python": 93,
       "C++": 1,
       "TypeScript": 1,
       "JavaScript": 2,
       "Go": 1,
-      "Java": 3,
-      "Rust": 3
+      "Java": 3
     }
   },
   "featured": {
-    "date": "2026-08-10",
-    "name": "langgenius/dify",
-    "url": "https://github.com/langgenius/dify",
+    "date": "2026-08-17",
+    "name": "unslothai/unsloth",
+    "url": "https://github.com/unslothai/unsloth",
     "language": "Python",
     "category": "🤖 Agents",
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-    "stars": 151926,
-    "stars_formatted": "151,926"
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "stars": 72912,
+    "stars_formatted": "72,912"
   },
   "discoveries": [
+    {
+      "date": "2026-08-18",
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "language": "Rust",
+      "category": "🔍 RAG & Search",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": 14821,
+      "stars_formatted": "14,821"
+    },
     {
       "date": "2026-08-17",
       "name": "unslothai/unsloth",

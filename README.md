@@ -122,3 +122,4 @@ The most popular discovery lately: **[langgenius/dify](https://github.com/langge
 | 2026-08-17 | [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) | Python | 🧠 LLM & Frameworks | Webchat to API | ⭐ 1,342 |
 | 2026-08-17 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 🤖 Agents | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. | ⭐ 72,912 |
 | 2026-08-17 | [neo4j/neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python) | Python | 🔍 RAG & Search | Neo4j GraphRAG for Python | ⭐ 1,259 |
+| 2026-08-18 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Rust | 🔍 RAG & Search | A vector index built on TurboQuant, written in Rust with Python bindings | ⭐ 14,821 |
