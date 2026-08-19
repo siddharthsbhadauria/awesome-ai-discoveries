@@ -125,3 +125,4 @@ The most popular discovery lately: **[langgenius/dify](https://github.com/langge
 | 2026-08-18 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Rust | 🔍 RAG & Search | A vector index built on TurboQuant, written in Rust with Python bindings | ⭐ 14,821 |
 | 2026-08-18 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Python | 🤖 Agents | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps | ⭐ 47,124 |
 | 2026-08-18 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | Python | 🤖 Agents | Memory library for building stateful agents | ⭐ 6,702 |
+| 2026-08-19 | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | Rust | 🤖 Agents | YC (S26) - Open Computer History - Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...) | ⭐ 21,084 |

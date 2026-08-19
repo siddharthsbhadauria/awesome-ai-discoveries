@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T16:27:19Z",
+  "generated_at": "2026-08-19T01:02:37Z",
   "stats": {
-    "total_discoveries": 107,
-    "total_stars": 2034954,
-    "total_stars_formatted": "2,034,954",
+    "total_discoveries": 108,
+    "total_stars": 2056038,
+    "total_stars_formatted": "2,056,038",
     "categories_count": {
-      "🤖 Agents": 56,
+      "🤖 Agents": 57,
       "🔍 RAG & Search": 13,
       "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 5,
       "Python": 95,
-      "Rust": 4,
       "C++": 1,
       "TypeScript": 1,
       "JavaScript": 2,
@@ -34,6 +34,16 @@
     "stars_formatted": "72,912"
   },
   "discoveries": [
+    {
+      "date": "2026-08-19",
+      "name": "screenpipe/screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "YC (S26) - Open Computer History - Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
+      "stars": 21084,
+      "stars_formatted": "21,084"
+    },
     {
       "date": "2026-08-18",
       "name": "HKUDS/nanobot",
