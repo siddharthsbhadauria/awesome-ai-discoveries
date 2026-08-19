@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T01:02:37Z",
+  "generated_at": "2026-08-19T08:32:59Z",
   "stats": {
-    "total_discoveries": 108,
-    "total_stars": 2056038,
-    "total_stars_formatted": "2,056,038",
+    "total_discoveries": 109,
+    "total_stars": 2060485,
+    "total_stars_formatted": "2,060,485",
     "categories_count": {
-      "🤖 Agents": 57,
+      "🤖 Agents": 58,
       "🔍 RAG & Search": 13,
       "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
@@ -15,9 +15,9 @@
     },
     "languages_count": {
       "Rust": 5,
+      "TypeScript": 2,
       "Python": 95,
       "C++": 1,
-      "TypeScript": 1,
       "JavaScript": 2,
       "Go": 1,
       "Java": 3
@@ -43,6 +43,16 @@
       "description": "YC (S26) - Open Computer History - Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
       "stars": 21084,
       "stars_formatted": "21,084"
+    },
+    {
+      "date": "2026-08-19",
+      "name": "CaviraOSS/OpenMemory",
+      "url": "https://github.com/CaviraOSS/OpenMemory",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+      "stars": 4447,
+      "stars_formatted": "4,447"
     },
     {
       "date": "2026-08-18",
