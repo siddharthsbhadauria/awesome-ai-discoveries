@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T01:02:28Z",
+  "generated_at": "2026-08-20T08:33:45Z",
   "stats": {
-    "total_discoveries": 111,
-    "total_stars": 2259153,
-    "total_stars_formatted": "2,259,153",
+    "total_discoveries": 112,
+    "total_stars": 2259864,
+    "total_stars_formatted": "2,259,864",
     "categories_count": {
       "💡 AI Tool": 21,
-      "🤖 Agents": 59,
+      "🤖 Agents": 60,
       "🔍 RAG & Search": 13,
       "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
@@ -15,8 +15,8 @@
     },
     "languages_count": {
       "C++": 2,
+      "TypeScript": 3,
       "Rust": 5,
-      "TypeScript": 2,
       "Shell": 1,
       "Python": 95,
       "JavaScript": 2,
@@ -44,6 +44,16 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "stars": 197068,
       "stars_formatted": "197,068"
+    },
+    {
+      "date": "2026-08-20",
+      "name": "desplega-ai/agent-swarm",
+      "url": "https://github.com/desplega-ai/agent-swarm",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Your Company Agentic Operating System",
+      "stars": 711,
+      "stars_formatted": "711"
     },
     {
       "date": "2026-08-19",
