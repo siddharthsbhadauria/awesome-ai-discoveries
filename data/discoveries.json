@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-20T08:33:45Z",
+  "generated_at": "2026-08-20T16:30:41Z",
   "stats": {
-    "total_discoveries": 112,
-    "total_stars": 2259864,
-    "total_stars_formatted": "2,259,864",
+    "total_discoveries": 113,
+    "total_stars": 2264936,
+    "total_stars_formatted": "2,264,936",
     "categories_count": {
       "💡 AI Tool": 21,
+      "🧠 LLM & Frameworks": 11,
       "🤖 Agents": 60,
       "🔍 RAG & Search": 13,
-      "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
       "C++": 2,
+      "Python": 96,
       "TypeScript": 3,
       "Rust": 5,
       "Shell": 1,
-      "Python": 95,
       "JavaScript": 2,
       "Go": 1,
       "Java": 3
@@ -44,6 +44,16 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "stars": 197068,
       "stars_formatted": "197,068"
+    },
+    {
+      "date": "2026-08-20",
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0",
+      "stars": 5072,
+      "stars_formatted": "5,072"
     },
     {
       "date": "2026-08-20",
