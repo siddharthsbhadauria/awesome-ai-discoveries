@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-08-19T16:27:16Z",
+  "generated_at": "2026-08-20T01:02:28Z",
   "stats": {
-    "total_discoveries": 110,
-    "total_stars": 2062085,
-    "total_stars_formatted": "2,062,085",
+    "total_discoveries": 111,
+    "total_stars": 2259153,
+    "total_stars_formatted": "2,259,153",
     "categories_count": {
+      "💡 AI Tool": 21,
       "🤖 Agents": 59,
       "🔍 RAG & Search": 13,
       "🧠 LLM & Frameworks": 10,
       "🔌 MCP & Tools": 4,
-      "💡 AI Tool": 20,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "C++": 2,
       "Rust": 5,
       "TypeScript": 2,
       "Shell": 1,
       "Python": 95,
-      "C++": 1,
       "JavaScript": 2,
       "Go": 1,
       "Java": 3
     }
   },
   "featured": {
-    "date": "2026-08-17",
-    "name": "unslothai/unsloth",
-    "url": "https://github.com/unslothai/unsloth",
-    "language": "Python",
-    "category": "🤖 Agents",
-    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-    "stars": 72912,
-    "stars_formatted": "72,912"
+    "date": "2026-08-20",
+    "name": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "language": "C++",
+    "category": "💡 AI Tool",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "stars": 197068,
+    "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-20",
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "language": "C++",
+      "category": "💡 AI Tool",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 197068,
+      "stars_formatted": "197,068"
+    },
     {
       "date": "2026-08-19",
       "name": "screenpipe/screenpipe",
