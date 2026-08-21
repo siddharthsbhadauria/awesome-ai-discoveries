@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T08:36:14Z",
+  "generated_at": "2026-08-21T16:29:10Z",
   "stats": {
-    "total_discoveries": 115,
-    "total_stars": 2272473,
-    "total_stars_formatted": "2,272,473",
+    "total_discoveries": 116,
+    "total_stars": 2274671,
+    "total_stars_formatted": "2,274,671",
     "categories_count": {
-      "🤖 Agents": 62,
+      "🤖 Agents": 63,
       "💡 AI Tool": 21,
       "🧠 LLM & Frameworks": 11,
       "🔍 RAG & Search": 13,
@@ -15,13 +15,13 @@
     },
     "languages_count": {
       "Go": 2,
+      "JavaScript": 3,
       "HTML": 1,
       "C++": 2,
       "Python": 96,
       "TypeScript": 3,
       "Rust": 5,
       "Shell": 1,
-      "JavaScript": 2,
       "Java": 3
     }
   },
@@ -45,6 +45,16 @@
       "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
       "stars": 7213,
       "stars_formatted": "7,213"
+    },
+    {
+      "date": "2026-08-21",
+      "name": "tractorjuice/arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "language": "JavaScript",
+      "category": "🤖 Agents",
+      "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
+      "stars": 2198,
+      "stars_formatted": "2,198"
     },
     {
       "date": "2026-08-21",
