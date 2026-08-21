@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-08-20T16:30:41Z",
+  "generated_at": "2026-08-21T01:05:46Z",
   "stats": {
-    "total_discoveries": 113,
-    "total_stars": 2264936,
-    "total_stars_formatted": "2,264,936",
+    "total_discoveries": 114,
+    "total_stars": 2265260,
+    "total_stars_formatted": "2,265,260",
     "categories_count": {
+      "🤖 Agents": 61,
       "💡 AI Tool": 21,
       "🧠 LLM & Frameworks": 11,
-      "🤖 Agents": 60,
       "🔍 RAG & Search": 13,
       "🔌 MCP & Tools": 4,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "HTML": 1,
       "C++": 2,
       "Python": 96,
       "TypeScript": 3,
@@ -35,6 +36,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-21",
+      "name": "gameworkerkim/vibe-investing",
+      "url": "https://github.com/gameworkerkim/vibe-investing",
+      "language": "HTML",
+      "category": "🤖 Agents",
+      "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
+      "stars": 324,
+      "stars_formatted": "324"
+    },
     {
       "date": "2026-08-20",
       "name": "tensorflow/tensorflow",
