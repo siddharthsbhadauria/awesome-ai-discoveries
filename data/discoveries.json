@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T08:25:11Z",
+  "generated_at": "2026-08-22T16:19:37Z",
   "stats": {
-    "total_discoveries": 118,
-    "total_stars": 2308114,
-    "total_stars_formatted": "2,308,114",
+    "total_discoveries": 119,
+    "total_stars": 2313164,
+    "total_stars_formatted": "2,313,164",
     "categories_count": {
-      "🤖 Agents": 64,
+      "🤖 Agents": 65,
       "💡 AI Tool": 22,
       "🧠 LLM & Frameworks": 11,
       "🔍 RAG & Search": 13,
@@ -15,12 +15,12 @@
     },
     "languages_count": {
       "Python": 97,
+      "TypeScript": 4,
       "Lean": 1,
       "Go": 2,
       "JavaScript": 3,
       "HTML": 1,
       "C++": 2,
-      "TypeScript": 3,
       "Rust": 5,
       "Shell": 1,
       "Java": 3
@@ -46,6 +46,16 @@
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "stars": 30173,
       "stars_formatted": "30,173"
+    },
+    {
+      "date": "2026-08-22",
+      "name": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
+      "stars": 5050,
+      "stars_formatted": "5,050"
     },
     {
       "date": "2026-08-22",
