@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T16:29:10Z",
+  "generated_at": "2026-08-22T01:02:38Z",
   "stats": {
-    "total_discoveries": 116,
-    "total_stars": 2274671,
-    "total_stars_formatted": "2,274,671",
+    "total_discoveries": 117,
+    "total_stars": 2304844,
+    "total_stars_formatted": "2,304,844",
     "categories_count": {
-      "🤖 Agents": 63,
+      "🤖 Agents": 64,
       "💡 AI Tool": 21,
       "🧠 LLM & Frameworks": 11,
       "🔍 RAG & Search": 13,
@@ -14,11 +14,11 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 97,
       "Go": 2,
       "JavaScript": 3,
       "HTML": 1,
       "C++": 2,
-      "Python": 96,
       "TypeScript": 3,
       "Rust": 5,
       "Shell": 1,
@@ -36,6 +36,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-22",
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 30173,
+      "stars_formatted": "30,173"
+    },
     {
       "date": "2026-08-21",
       "name": "flyteorg/flyte",
