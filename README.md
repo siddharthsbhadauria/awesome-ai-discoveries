@@ -135,3 +135,4 @@ The most popular discovery lately: **[langgenius/dify](https://github.com/langge
 | 2026-08-21 | [flyteorg/flyte](https://github.com/flyteorg/flyte) | Go | 🤖 Agents | Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. | ⭐ 7,213 |
 | 2026-08-21 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | JavaScript | 🤖 Agents | The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants | ⭐ 2,198 |
 | 2026-08-22 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 🤖 Agents | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. | ⭐ 30,173 |
+| 2026-08-22 | [thomasahle/sunfish](https://github.com/thomasahle/sunfish) | Lean | 💡 AI Tool | Sunfish: a Python Chess Engine in 111 lines of code | ⭐ 3,270 |
