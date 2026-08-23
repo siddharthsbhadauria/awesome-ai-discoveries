@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-23T08:25:34Z",
+  "generated_at": "2026-08-23T16:20:32Z",
   "stats": {
-    "total_discoveries": 121,
-    "total_stars": 2480591,
-    "total_stars_formatted": "2,480,591",
+    "total_discoveries": 122,
+    "total_stars": 2480963,
+    "total_stars_formatted": "2,480,963",
     "categories_count": {
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
+      "🔍 RAG & Search": 14,
       "🤖 Agents": 65,
       "💡 AI Tool": 22,
       "🧠 LLM & Frameworks": 11,
-      "🔍 RAG & Search": 13,
       "⚡ Observability": 1
     },
     "languages_count": {
       "Python": 99,
+      "Go": 3,
       "TypeScript": 4,
       "Lean": 1,
-      "Go": 2,
       "JavaScript": 3,
       "HTML": 1,
       "C++": 2,
@@ -56,6 +56,16 @@
       "description": "A Model Context Protocol server for searching and analyzing arXiv papers",
       "stars": 3069,
       "stars_formatted": "3,069"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "veyliss/ai-localbase",
+      "url": "https://github.com/veyliss/ai-localbase",
+      "language": "Go",
+      "category": "🔍 RAG & Search",
+      "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务",
+      "stars": 372,
+      "stars_formatted": "372"
     },
     {
       "date": "2026-08-22",
