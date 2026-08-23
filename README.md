@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[langgenius/dify](https://github.com/langgenius/dify)**
+The most popular discovery lately: **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)**
 <!-- FEATURED_END -->
 
 ---
@@ -137,3 +137,4 @@ The most popular discovery lately: **[langgenius/dify](https://github.com/langge
 | 2026-08-22 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 🤖 Agents | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. | ⭐ 30,173 |
 | 2026-08-22 | [thomasahle/sunfish](https://github.com/thomasahle/sunfish) | Lean | 💡 AI Tool | Sunfish: a Python Chess Engine in 111 lines of code | ⭐ 3,270 |
 | 2026-08-22 | [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | TypeScript | 🤖 Agents | AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently. | ⭐ 5,050 |
+| 2026-08-23 | [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) | Python | 🔌 MCP & Tools | A Model Context Protocol server for searching and analyzing arXiv papers | ⭐ 3,069 |

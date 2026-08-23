@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-22T16:19:37Z",
+  "generated_at": "2026-08-23T01:07:21Z",
   "stats": {
-    "total_discoveries": 119,
-    "total_stars": 2313164,
-    "total_stars_formatted": "2,313,164",
+    "total_discoveries": 120,
+    "total_stars": 2316233,
+    "total_stars_formatted": "2,316,233",
     "categories_count": {
+      "🔌 MCP & Tools": 5,
       "🤖 Agents": 65,
       "💡 AI Tool": 22,
       "🧠 LLM & Frameworks": 11,
       "🔍 RAG & Search": 13,
-      "🔌 MCP & Tools": 4,
       "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 97,
+      "Python": 98,
       "TypeScript": 4,
       "Lean": 1,
       "Go": 2,
@@ -37,6 +37,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-23",
+      "name": "blazickjp/arxiv-mcp-server",
+      "url": "https://github.com/blazickjp/arxiv-mcp-server",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "A Model Context Protocol server for searching and analyzing arXiv papers",
+      "stars": 3069,
+      "stars_formatted": "3,069"
+    },
     {
       "date": "2026-08-22",
       "name": "topoteretes/cognee",
