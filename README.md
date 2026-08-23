@@ -138,3 +138,4 @@ The most popular discovery lately: **[tensorflow/tensorflow](https://github.com/
 | 2026-08-22 | [thomasahle/sunfish](https://github.com/thomasahle/sunfish) | Lean | 💡 AI Tool | Sunfish: a Python Chess Engine in 111 lines of code | ⭐ 3,270 |
 | 2026-08-22 | [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | TypeScript | 🤖 Agents | AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently. | ⭐ 5,050 |
 | 2026-08-23 | [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) | Python | 🔌 MCP & Tools | A Model Context Protocol server for searching and analyzing arXiv papers | ⭐ 3,069 |
+| 2026-08-23 | [huggingface/transformers](https://github.com/huggingface/transformers) | Python | 🎨 Multimodal | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | ⭐ 164,358 |

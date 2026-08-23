@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-23T01:07:21Z",
+  "generated_at": "2026-08-23T08:25:34Z",
   "stats": {
-    "total_discoveries": 120,
-    "total_stars": 2316233,
-    "total_stars_formatted": "2,316,233",
+    "total_discoveries": 121,
+    "total_stars": 2480591,
+    "total_stars_formatted": "2,480,591",
     "categories_count": {
+      "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "🤖 Agents": 65,
       "💡 AI Tool": 22,
       "🧠 LLM & Frameworks": 11,
       "🔍 RAG & Search": 13,
-      "🎨 Multimodal": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 98,
+      "Python": 99,
       "TypeScript": 4,
       "Lean": 1,
       "Go": 2,
@@ -37,6 +37,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-23",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 164358,
+      "stars_formatted": "164,358"
+    },
     {
       "date": "2026-08-23",
       "name": "blazickjp/arxiv-mcp-server",
