@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-23T16:20:32Z",
+  "generated_at": "2026-08-24T01:04:57Z",
   "stats": {
-    "total_discoveries": 122,
-    "total_stars": 2480963,
-    "total_stars_formatted": "2,480,963",
+    "total_discoveries": 123,
+    "total_stars": 2482864,
+    "total_stars_formatted": "2,482,864",
     "categories_count": {
+      "🤖 Agents": 66,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "🔍 RAG & Search": 14,
-      "🤖 Agents": 65,
       "💡 AI Tool": 22,
       "🧠 LLM & Frameworks": 11,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 99,
+      "Python": 100,
       "Go": 3,
       "TypeScript": 4,
       "Lean": 1,
@@ -37,6 +37,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-24",
+      "name": "doobidoo/mcp-memory-service",
+      "url": "https://github.com/doobidoo/mcp-memory-service",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 1901,
+      "stars_formatted": "1,901"
+    },
     {
       "date": "2026-08-23",
       "name": "huggingface/transformers",
