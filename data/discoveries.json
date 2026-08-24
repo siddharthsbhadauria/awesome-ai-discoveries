@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T01:04:57Z",
+  "generated_at": "2026-08-24T08:43:43Z",
   "stats": {
-    "total_discoveries": 123,
-    "total_stars": 2482864,
-    "total_stars_formatted": "2,482,864",
+    "total_discoveries": 124,
+    "total_stars": 2503356,
+    "total_stars_formatted": "2,503,356",
     "categories_count": {
-      "🤖 Agents": 66,
+      "🤖 Agents": 67,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "🔍 RAG & Search": 14,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 4,
       "Python": 100,
-      "Go": 3,
       "TypeScript": 4,
       "Lean": 1,
       "JavaScript": 3,
@@ -37,6 +37,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-24",
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 20492,
+      "stars_formatted": "20,492"
+    },
     {
       "date": "2026-08-24",
       "name": "doobidoo/mcp-memory-service",
