@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T16:33:03Z",
+  "generated_at": "2026-08-25T01:04:05Z",
   "stats": {
-    "total_discoveries": 125,
-    "total_stars": 2513994,
-    "total_stars_formatted": "2,513,994",
+    "total_discoveries": 126,
+    "total_stars": 2518639,
+    "total_stars_formatted": "2,518,639",
     "categories_count": {
-      "🤖 Agents": 68,
+      "🤖 Agents": 69,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "🔍 RAG & Search": 14,
@@ -14,9 +14,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 5,
       "Go": 4,
       "Python": 101,
-      "TypeScript": 4,
       "Lean": 1,
       "JavaScript": 3,
       "HTML": 1,
@@ -37,6 +37,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-25",
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars": 4645,
+      "stars_formatted": "4,645"
+    },
     {
       "date": "2026-08-24",
       "name": "Tencent/WeKnora",
