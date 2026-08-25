@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T01:04:05Z",
+  "generated_at": "2026-08-25T08:37:51Z",
   "stats": {
-    "total_discoveries": 126,
-    "total_stars": 2518639,
-    "total_stars_formatted": "2,518,639",
+    "total_discoveries": 127,
+    "total_stars": 2519495,
+    "total_stars_formatted": "2,519,495",
     "categories_count": {
-      "🤖 Agents": 69,
+      "🤖 Agents": 70,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "🔍 RAG & Search": 14,
@@ -15,6 +15,7 @@
     },
     "languages_count": {
       "TypeScript": 5,
+      "Ruby": 1,
       "Go": 4,
       "Python": 101,
       "Lean": 1,
@@ -46,6 +47,16 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "stars": 4645,
       "stars_formatted": "4,645"
+    },
+    {
+      "date": "2026-08-25",
+      "name": "superiorlu/AITreasureBox",
+      "url": "https://github.com/superiorlu/AITreasureBox",
+      "language": "Ruby",
+      "category": "🤖 Agents",
+      "description": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+      "stars": 856,
+      "stars_formatted": "856"
     },
     {
       "date": "2026-08-24",
