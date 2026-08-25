@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-08-25T08:37:51Z",
+  "generated_at": "2026-08-25T16:33:08Z",
   "stats": {
-    "total_discoveries": 127,
-    "total_stars": 2519495,
-    "total_stars_formatted": "2,519,495",
+    "total_discoveries": 128,
+    "total_stars": 2526562,
+    "total_stars_formatted": "2,526,562",
     "categories_count": {
+      "🔍 RAG & Search": 15,
       "🤖 Agents": 70,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
-      "🔍 RAG & Search": 14,
       "💡 AI Tool": 22,
       "🧠 LLM & Frameworks": 11,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Java": 4,
       "TypeScript": 5,
       "Ruby": 1,
       "Go": 4,
@@ -23,8 +24,7 @@
       "HTML": 1,
       "C++": 2,
       "Rust": 5,
-      "Shell": 1,
-      "Java": 3
+      "Shell": 1
     }
   },
   "featured": {
@@ -38,6 +38,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-25",
+      "name": "vespa-engine/vespa",
+      "url": "https://github.com/vespa-engine/vespa",
+      "language": "Java",
+      "category": "🔍 RAG & Search",
+      "description": "The AI search platform",
+      "stars": 7067,
+      "stars_formatted": "7,067"
+    },
     {
       "date": "2026-08-25",
       "name": "KnockOutEZ/wigolo",

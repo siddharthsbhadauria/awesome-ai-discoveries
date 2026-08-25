@@ -145,3 +145,4 @@ The most popular discovery lately: **[tensorflow/tensorflow](https://github.com/
 | 2026-08-24 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 🤖 Agents | Graph-Native Infrastructure for Context and Accountable AI Systems | ⭐ 10,638 |
 | 2026-08-25 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 🤖 Agents | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. | ⭐ 4,645 |
 | 2026-08-25 | [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) | Ruby | 🤖 Agents | 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎 | ⭐ 856 |
+| 2026-08-25 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | Java | 🔍 RAG & Search | The AI search platform | ⭐ 7,067 |
