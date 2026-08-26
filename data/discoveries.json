@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T01:05:51Z",
+  "generated_at": "2026-08-26T08:38:45Z",
   "stats": {
-    "total_discoveries": 129,
-    "total_stars": 2535267,
-    "total_stars_formatted": "2,535,267",
+    "total_discoveries": 130,
+    "total_stars": 2536585,
+    "total_stars_formatted": "2,536,585",
     "categories_count": {
-      "🤖 Agents": 71,
+      "🤖 Agents": 72,
       "🔍 RAG & Search": 15,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
@@ -15,8 +15,8 @@
     },
     "languages_count": {
       "Go": 5,
+      "TypeScript": 6,
       "Java": 4,
-      "TypeScript": 5,
       "Ruby": 1,
       "Python": 101,
       "Lean": 1,
@@ -47,6 +47,16 @@
       "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "stars": 8705,
       "stars_formatted": "8,705"
+    },
+    {
+      "date": "2026-08-26",
+      "name": "Team-Commonly/commonly",
+      "url": "https://github.com/Team-Commonly/commonly",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+      "stars": 1318,
+      "stars_formatted": "1,318"
     },
     {
       "date": "2026-08-25",

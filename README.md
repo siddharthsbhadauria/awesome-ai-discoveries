@@ -147,3 +147,4 @@ The most popular discovery lately: **[tensorflow/tensorflow](https://github.com/
 | 2026-08-25 | [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) | Ruby | 🤖 Agents | 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎 | ⭐ 856 |
 | 2026-08-25 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | Java | 🔍 RAG & Search | The AI search platform | ⭐ 7,067 |
 | 2026-08-26 | [google/adk-go](https://github.com/google/adk-go) | Go | 🤖 Agents | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | ⭐ 8,705 |
+| 2026-08-26 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | TypeScript | 🤖 Agents | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees. | ⭐ 1,318 |
