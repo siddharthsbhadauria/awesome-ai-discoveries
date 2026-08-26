@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T08:38:45Z",
+  "generated_at": "2026-08-26T16:45:47Z",
   "stats": {
-    "total_discoveries": 130,
-    "total_stars": 2536585,
-    "total_stars_formatted": "2,536,585",
+    "total_discoveries": 131,
+    "total_stars": 2570787,
+    "total_stars_formatted": "2,570,787",
     "categories_count": {
+      "🔍 RAG & Search": 16,
       "🤖 Agents": 72,
-      "🔍 RAG & Search": 15,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "💡 AI Tool": 22,
@@ -14,6 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 6,
       "Go": 5,
       "TypeScript": 6,
       "Java": 4,
@@ -23,7 +24,6 @@
       "JavaScript": 3,
       "HTML": 1,
       "C++": 2,
-      "Rust": 5,
       "Shell": 1
     }
   },
@@ -38,6 +38,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-26",
+      "name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "language": "Rust",
+      "category": "🔍 RAG & Search",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "stars": 34202,
+      "stars_formatted": "34,202"
+    },
     {
       "date": "2026-08-26",
       "name": "google/adk-go",
