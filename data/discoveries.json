@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T16:33:08Z",
+  "generated_at": "2026-08-26T01:05:51Z",
   "stats": {
-    "total_discoveries": 128,
-    "total_stars": 2526562,
-    "total_stars_formatted": "2,526,562",
+    "total_discoveries": 129,
+    "total_stars": 2535267,
+    "total_stars_formatted": "2,535,267",
     "categories_count": {
+      "🤖 Agents": 71,
       "🔍 RAG & Search": 15,
-      "🤖 Agents": 70,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "💡 AI Tool": 22,
@@ -14,10 +14,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 5,
       "Java": 4,
       "TypeScript": 5,
       "Ruby": 1,
-      "Go": 4,
       "Python": 101,
       "Lean": 1,
       "JavaScript": 3,
@@ -38,6 +38,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-26",
+      "name": "google/adk-go",
+      "url": "https://github.com/google/adk-go",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 8705,
+      "stars_formatted": "8,705"
+    },
     {
       "date": "2026-08-25",
       "name": "vespa-engine/vespa",
