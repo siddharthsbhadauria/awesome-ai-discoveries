@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-27T07:08:56Z",
+  "generated_at": "2026-08-27T18:47:59Z",
   "stats": {
-    "total_discoveries": 132,
-    "total_stars": 2571166,
-    "total_stars_formatted": "2,571,166",
+    "total_discoveries": 133,
+    "total_stars": 2581273,
+    "total_stars_formatted": "2,581,273",
     "categories_count": {
-      "🤖 Agents": 73,
+      "🤖 Agents": 74,
       "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
@@ -14,7 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Go": 6,
+      "Go": 7,
       "Rust": 6,
       "TypeScript": 6,
       "Java": 4,
@@ -38,6 +38,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-27",
+      "name": "Untrivial-ai/agent-orchestrator",
+      "url": "https://github.com/Untrivial-ai/agent-orchestrator",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
+      "stars": 10107,
+      "stars_formatted": "10,107"
+    },
     {
       "date": "2026-08-27",
       "name": "uvwt/agentdock",
