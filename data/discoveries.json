@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T16:45:47Z",
+  "generated_at": "2026-08-27T07:08:56Z",
   "stats": {
-    "total_discoveries": 131,
-    "total_stars": 2570787,
-    "total_stars_formatted": "2,570,787",
+    "total_discoveries": 132,
+    "total_stars": 2571166,
+    "total_stars_formatted": "2,571,166",
     "categories_count": {
+      "🤖 Agents": 73,
       "🔍 RAG & Search": 16,
-      "🤖 Agents": 72,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "💡 AI Tool": 22,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 6,
       "Rust": 6,
-      "Go": 5,
       "TypeScript": 6,
       "Java": 4,
       "Ruby": 1,
@@ -38,6 +38,16 @@
     "stars_formatted": "197,068"
   },
   "discoveries": [
+    {
+      "date": "2026-08-27",
+      "name": "uvwt/agentdock",
+      "url": "https://github.com/uvwt/agentdock",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration.",
+      "stars": 379,
+      "stars_formatted": "379"
+    },
     {
       "date": "2026-08-26",
       "name": "qdrant/qdrant",
