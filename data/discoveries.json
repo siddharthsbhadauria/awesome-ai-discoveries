@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-27T18:47:59Z",
+  "generated_at": "2026-08-28T08:56:20Z",
   "stats": {
-    "total_discoveries": 133,
-    "total_stars": 2581273,
-    "total_stars_formatted": "2,581,273",
+    "total_discoveries": 134,
+    "total_stars": 2583431,
+    "total_stars_formatted": "2,583,431",
     "categories_count": {
-      "🤖 Agents": 74,
+      "🤖 Agents": 75,
       "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
@@ -14,9 +14,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 7,
       "Go": 7,
       "Rust": 6,
-      "TypeScript": 6,
       "Java": 4,
       "Ruby": 1,
       "Python": 101,
@@ -28,16 +28,26 @@
     }
   },
   "featured": {
-    "date": "2026-08-20",
-    "name": "tensorflow/tensorflow",
-    "url": "https://github.com/tensorflow/tensorflow",
-    "language": "C++",
-    "category": "💡 AI Tool",
-    "description": "An Open Source Machine Learning Framework for Everyone",
-    "stars": 197068,
-    "stars_formatted": "197,068"
+    "date": "2026-08-23",
+    "name": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "language": "Python",
+    "category": "🎨 Multimodal",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "stars": 164358,
+    "stars_formatted": "164,358"
   },
   "discoveries": [
+    {
+      "date": "2026-08-28",
+      "name": "jnMetaCode/agency-orchestrator",
+      "url": "https://github.com/jnMetaCode/agency-orchestrator",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 267 CN + 184 EN + 5 more languages (ko/ru/pt-BR/id/ar) · zero-code YAML · auto-verified acceptance · Web Studio / Desktop / Docker · 11 LLM providers (7 key-free). 一句话组建你的「一人公司」AI 专家团队，几分钟交付完整方案；验收自动核验，网页 / 桌面 / Docker 全渠道。",
+      "stars": 2158,
+      "stars_formatted": "2,158"
+    },
     {
       "date": "2026-08-27",
       "name": "Untrivial-ai/agent-orchestrator",
