@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-29T00:22:59Z",
+  "generated_at": "2026-08-29T13:35:27Z",
   "stats": {
-    "total_discoveries": 135,
-    "total_stars": 2584525,
-    "total_stars_formatted": "2,584,525",
+    "total_discoveries": 136,
+    "total_stars": 2584923,
+    "total_stars_formatted": "2,584,923",
     "categories_count": {
       "🧠 LLM & Frameworks": 12,
-      "🤖 Agents": 75,
+      "🤖 Agents": 76,
       "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
@@ -15,8 +15,8 @@
     },
     "languages_count": {
       "Python": 102,
+      "Go": 8,
       "TypeScript": 7,
-      "Go": 7,
       "Rust": 6,
       "Java": 4,
       "Ruby": 1,
@@ -47,6 +47,16 @@
       "description": "AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.",
       "stars": 1094,
       "stars_formatted": "1,094"
+    },
+    {
+      "date": "2026-08-29",
+      "name": "micro/mu",
+      "url": "https://github.com/micro/mu",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "A home for humans, agents and services",
+      "stars": 398,
+      "stars_formatted": "398"
     },
     {
       "date": "2026-08-28",
