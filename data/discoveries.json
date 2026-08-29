@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-28T08:56:20Z",
+  "generated_at": "2026-08-29T00:22:59Z",
   "stats": {
-    "total_discoveries": 134,
-    "total_stars": 2583431,
-    "total_stars_formatted": "2,583,431",
+    "total_discoveries": 135,
+    "total_stars": 2584525,
+    "total_stars_formatted": "2,584,525",
     "categories_count": {
+      "🧠 LLM & Frameworks": 12,
       "🤖 Agents": 75,
       "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "💡 AI Tool": 22,
-      "🧠 LLM & Frameworks": 11,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 102,
       "TypeScript": 7,
       "Go": 7,
       "Rust": 6,
       "Java": 4,
       "Ruby": 1,
-      "Python": 101,
       "Lean": 1,
       "JavaScript": 3,
       "HTML": 1,
@@ -38,6 +38,16 @@
     "stars_formatted": "164,358"
   },
   "discoveries": [
+    {
+      "date": "2026-08-29",
+      "name": "berylliumsec/nebula",
+      "url": "https://github.com/berylliumsec/nebula",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.",
+      "stars": 1094,
+      "stars_formatted": "1,094"
+    },
     {
       "date": "2026-08-28",
       "name": "jnMetaCode/agency-orchestrator",
