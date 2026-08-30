@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)**
+The most popular discovery lately: **[affaan-m/ECC](https://github.com/affaan-m/ECC)**
 <!-- FEATURED_END -->
 
 ---
@@ -155,3 +155,4 @@ The most popular discovery lately: **[tensorflow/tensorflow](https://github.com/
 | 2026-08-29 | [berylliumsec/nebula](https://github.com/berylliumsec/nebula) | Python | 🧠 LLM & Frameworks | AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis. | ⭐ 1,094 |
 | 2026-08-29 | [micro/mu](https://github.com/micro/mu) | Go | 🤖 Agents | A home for humans, agents and services | ⭐ 398 |
 | 2026-08-29 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 🤖 Agents | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | ⭐ 244,140 |
+| 2026-08-30 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 🤖 Agents | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. | ⭐ 68,026 |

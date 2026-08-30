@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T19:09:30Z",
+  "generated_at": "2026-08-30T03:29:28Z",
   "stats": {
-    "total_discoveries": 137,
-    "total_stars": 2829063,
-    "total_stars_formatted": "2,829,063",
+    "total_discoveries": 138,
+    "total_stars": 2897089,
+    "total_stars_formatted": "2,897,089",
     "categories_count": {
-      "🤖 Agents": 77,
+      "🤖 Agents": 78,
       "🧠 LLM & Frameworks": 12,
       "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 103,
       "JavaScript": 4,
-      "Python": 102,
       "Go": 8,
       "TypeScript": 7,
       "Rust": 6,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-08-30",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 68026,
+      "stars_formatted": "68,026"
+    },
     {
       "date": "2026-08-29",
       "name": "affaan-m/ECC",
