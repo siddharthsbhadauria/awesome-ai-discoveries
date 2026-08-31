@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T19:01:14Z",
+  "generated_at": "2026-08-31T03:27:40Z",
   "stats": {
-    "total_discoveries": 140,
-    "total_stars": 3010049,
-    "total_stars_formatted": "3,010,049",
+    "total_discoveries": 141,
+    "total_stars": 3011056,
+    "total_stars_formatted": "3,011,056",
     "categories_count": {
-      "🤖 Agents": 80,
+      "🤖 Agents": 81,
       "🧠 LLM & Frameworks": 12,
       "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
@@ -14,7 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 105,
+      "Python": 106,
       "JavaScript": 4,
       "Go": 8,
       "TypeScript": 7,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-08-31",
+      "name": "fancyboi999/ai-engineering-from-scratch-zh",
+      "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "stars": 1007,
+      "stars_formatted": "1,007"
+    },
     {
       "date": "2026-08-30",
       "name": "browser-use/browser-use",
