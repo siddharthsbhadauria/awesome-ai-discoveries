@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-31T03:27:40Z",
+  "generated_at": "2026-08-31T15:48:37Z",
   "stats": {
-    "total_discoveries": 141,
-    "total_stars": 3011056,
-    "total_stars_formatted": "3,011,056",
+    "total_discoveries": 142,
+    "total_stars": 3027826,
+    "total_stars_formatted": "3,027,826",
     "categories_count": {
+      "🔍 RAG & Search": 17,
       "🤖 Agents": 81,
       "🧠 LLM & Frameworks": 12,
-      "🔍 RAG & Search": 16,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "💡 AI Tool": 22,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 9,
       "Python": 106,
       "JavaScript": 4,
-      "Go": 8,
       "TypeScript": 7,
       "Rust": 6,
       "Java": 4,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-08-31",
+      "name": "weaviate/weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "language": "Go",
+      "category": "🔍 RAG & Search",
+      "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+      "stars": 16770,
+      "stars_formatted": "16,770"
+    },
     {
       "date": "2026-08-31",
       "name": "fancyboi999/ai-engineering-from-scratch-zh",
