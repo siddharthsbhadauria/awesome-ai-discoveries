@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T03:27:10Z",
+  "generated_at": "2026-09-01T13:02:58Z",
   "stats": {
-    "total_discoveries": 144,
-    "total_stars": 3030005,
-    "total_stars_formatted": "3,030,005",
+    "total_discoveries": 145,
+    "total_stars": 3030855,
+    "total_stars_formatted": "3,030,855",
     "categories_count": {
-      "🤖 Agents": 83,
+      "🤖 Agents": 84,
       "🔍 RAG & Search": 17,
       "🧠 LLM & Frameworks": 12,
       "🎨 Multimodal": 4,
@@ -14,10 +14,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 8,
       "Go": 10,
       "Python": 107,
       "JavaScript": 4,
-      "TypeScript": 7,
       "Rust": 6,
       "Java": 4,
       "Ruby": 1,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-01",
+      "name": "LodyAI/Lody",
+      "url": "https://github.com/LodyAI/Lody",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Share coding agents with your team on phone and desktop",
+      "stars": 850,
+      "stars_formatted": "850"
+    },
     {
       "date": "2026-09-01",
       "name": "kdlbs/kandev",
