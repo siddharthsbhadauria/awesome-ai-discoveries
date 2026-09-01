@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T21:17:10Z",
+  "generated_at": "2026-09-01T03:27:10Z",
   "stats": {
-    "total_discoveries": 143,
-    "total_stars": 3029286,
-    "total_stars_formatted": "3,029,286",
+    "total_discoveries": 144,
+    "total_stars": 3030005,
+    "total_stars_formatted": "3,030,005",
     "categories_count": {
+      "🤖 Agents": 83,
       "🔍 RAG & Search": 17,
-      "🤖 Agents": 82,
       "🧠 LLM & Frameworks": 12,
       "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
@@ -14,7 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Go": 9,
+      "Go": 10,
       "Python": 107,
       "JavaScript": 4,
       "TypeScript": 7,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-01",
+      "name": "kdlbs/kandev",
+      "url": "https://github.com/kdlbs/kandev",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "stars": 719,
+      "stars_formatted": "719"
+    },
     {
       "date": "2026-08-31",
       "name": "weaviate/weaviate",
