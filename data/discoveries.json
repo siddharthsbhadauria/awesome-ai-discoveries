@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-01T13:02:58Z",
+  "generated_at": "2026-09-01T19:11:03Z",
   "stats": {
-    "total_discoveries": 145,
-    "total_stars": 3030855,
-    "total_stars_formatted": "3,030,855",
+    "total_discoveries": 146,
+    "total_stars": 3032128,
+    "total_stars_formatted": "3,032,128",
     "categories_count": {
+      "🎨 Multimodal": 5,
       "🤖 Agents": 84,
       "🔍 RAG & Search": 17,
       "🧠 LLM & Frameworks": 12,
-      "🎨 Multimodal": 4,
       "🔌 MCP & Tools": 5,
       "💡 AI Tool": 22,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 108,
       "TypeScript": 8,
       "Go": 10,
-      "Python": 107,
       "JavaScript": 4,
       "Rust": 6,
       "Java": 4,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-01",
+      "name": "PrunaAI/pruna",
+      "url": "https://github.com/PrunaAI/pruna",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead.",
+      "stars": 1273,
+      "stars_formatted": "1,273"
+    },
     {
       "date": "2026-09-01",
       "name": "LodyAI/Lody",

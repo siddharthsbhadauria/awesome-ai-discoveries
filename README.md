@@ -117,3 +117,4 @@ The most popular discovery lately: **[affaan-m/ECC](https://github.com/affaan-m/
 | 2026-08-31 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | Python | 🤖 Agents | The open document intelligence platform for builders and hackers - DMS for the agentic world | ⭐ 1,460 |
 | 2026-09-01 | [kdlbs/kandev](https://github.com/kdlbs/kandev) | Go | 🤖 Agents | AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. | ⭐ 719 |
 | 2026-09-01 | [LodyAI/Lody](https://github.com/LodyAI/Lody) | TypeScript | 🤖 Agents | Share coding agents with your team on phone and desktop | ⭐ 850 |
+| 2026-09-01 | [PrunaAI/pruna](https://github.com/PrunaAI/pruna) | Python | 🎨 Multimodal | Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead. | ⭐ 1,273 |
