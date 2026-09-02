@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T02:45:10Z",
+  "generated_at": "2026-09-02T12:30:51Z",
   "stats": {
-    "total_discoveries": 147,
-    "total_stars": 3033209,
-    "total_stars_formatted": "3,033,209",
+    "total_discoveries": 148,
+    "total_stars": 3079971,
+    "total_stars_formatted": "3,079,971",
     "categories_count": {
-      "🤖 Agents": 85,
+      "🤖 Agents": 86,
       "🎨 Multimodal": 5,
       "🔍 RAG & Search": 17,
       "🧠 LLM & Frameworks": 12,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 109,
       "Rust": 7,
-      "Python": 108,
       "TypeScript": 8,
       "Go": 10,
       "JavaScript": 4,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-02",
+      "name": "zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46762,
+      "stars_formatted": "46,762"
+    },
     {
       "date": "2026-09-02",
       "name": "xuzhougeng/wisp-science",
