@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T19:11:03Z",
+  "generated_at": "2026-09-02T02:45:10Z",
   "stats": {
-    "total_discoveries": 146,
-    "total_stars": 3032128,
-    "total_stars_formatted": "3,032,128",
+    "total_discoveries": 147,
+    "total_stars": 3033209,
+    "total_stars_formatted": "3,033,209",
     "categories_count": {
+      "🤖 Agents": 85,
       "🎨 Multimodal": 5,
-      "🤖 Agents": 84,
       "🔍 RAG & Search": 17,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
@@ -14,11 +14,11 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 7,
       "Python": 108,
       "TypeScript": 8,
       "Go": 10,
       "JavaScript": 4,
-      "Rust": 6,
       "Java": 4,
       "Ruby": 1,
       "Lean": 1,
@@ -38,6 +38,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-02",
+      "name": "xuzhougeng/wisp-science",
+      "url": "https://github.com/xuzhougeng/wisp-science",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
+      "stars": 1081,
+      "stars_formatted": "1,081"
+    },
     {
       "date": "2026-09-01",
       "name": "PrunaAI/pruna",
