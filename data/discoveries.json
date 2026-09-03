@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-09-02T19:12:07Z",
+  "generated_at": "2026-09-03T02:49:56Z",
   "stats": {
-    "total_discoveries": 149,
-    "total_stars": 3086365,
-    "total_stars_formatted": "3,086,365",
+    "total_discoveries": 150,
+    "total_stars": 3087983,
+    "total_stars_formatted": "3,087,983",
     "categories_count": {
+      "💡 AI Tool": 23,
       "🤖 Agents": 87,
       "🎨 Multimodal": 5,
       "🔍 RAG & Search": 17,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
-      "💡 AI Tool": 22,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Jupyter Notebook": 1,
       "Python": 109,
       "TypeScript": 9,
       "Rust": 7,
@@ -38,6 +39,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-03",
+      "name": "csinva/imodels",
+      "url": "https://github.com/csinva/imodels",
+      "language": "Jupyter Notebook",
+      "category": "💡 AI Tool",
+      "description": "Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).",
+      "stars": 1618,
+      "stars_formatted": "1,618"
+    },
     {
       "date": "2026-09-02",
       "name": "zhayujie/CowAgent",
