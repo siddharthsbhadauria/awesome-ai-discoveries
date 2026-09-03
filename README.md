@@ -123,3 +123,4 @@ The most popular discovery lately: **[affaan-m/ECC](https://github.com/affaan-m/
 | 2026-09-02 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | TypeScript | 🤖 Agents | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google | ⭐ 6,394 |
 | 2026-09-03 | [csinva/imodels](https://github.com/csinva/imodels) | Jupyter Notebook | 💡 AI Tool | Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible). | ⭐ 1,618 |
 | 2026-09-03 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | Python | 🤖 Agents | A persistent workspace for development work that self-improves and continues beyond one session. | ⭐ 3,590 |
+| 2026-09-03 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | Jupyter Notebook | 🔍 RAG & Search | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | ⭐ 3,040 |

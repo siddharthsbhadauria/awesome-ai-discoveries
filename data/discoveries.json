@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-03T12:33:58Z",
+  "generated_at": "2026-09-03T19:04:18Z",
   "stats": {
-    "total_discoveries": 151,
-    "total_stars": 3091573,
-    "total_stars_formatted": "3,091,573",
+    "total_discoveries": 152,
+    "total_stars": 3094613,
+    "total_stars_formatted": "3,094,613",
     "categories_count": {
       "🤖 Agents": 88,
+      "🔍 RAG & Search": 18,
       "💡 AI Tool": 23,
       "🎨 Multimodal": 5,
-      "🔍 RAG & Search": 17,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
       "Python": 110,
-      "Jupyter Notebook": 1,
+      "Jupyter Notebook": 2,
       "TypeScript": 9,
       "Rust": 7,
       "Go": 10,
@@ -48,6 +48,16 @@
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "stars": 3590,
       "stars_formatted": "3,590"
+    },
+    {
+      "date": "2026-09-03",
+      "name": "pinecone-io/examples",
+      "url": "https://github.com/pinecone-io/examples",
+      "language": "Jupyter Notebook",
+      "category": "🔍 RAG & Search",
+      "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+      "stars": 3040,
+      "stars_formatted": "3,040"
     },
     {
       "date": "2026-09-03",
