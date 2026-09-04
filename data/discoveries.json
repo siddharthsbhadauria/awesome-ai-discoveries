@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T02:48:28Z",
+  "generated_at": "2026-09-04T12:28:32Z",
   "stats": {
-    "total_discoveries": 153,
-    "total_stars": 3099314,
-    "total_stars_formatted": "3,099,314",
+    "total_discoveries": 154,
+    "total_stars": 3112203,
+    "total_stars_formatted": "3,112,203",
     "categories_count": {
+      "🤖 Agents": 89,
       "🔍 RAG & Search": 19,
-      "🤖 Agents": 88,
       "💡 AI Tool": 23,
       "🎨 Multimodal": 5,
       "🧠 LLM & Frameworks": 12,
@@ -14,8 +14,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 111,
       "C++": 3,
-      "Python": 110,
       "Jupyter Notebook": 2,
       "TypeScript": 9,
       "Rust": 7,
@@ -39,6 +39,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-04",
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 12889,
+      "stars_formatted": "12,889"
+    },
     {
       "date": "2026-09-04",
       "name": "infiniflow/infinity",
