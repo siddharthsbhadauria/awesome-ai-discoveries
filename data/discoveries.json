@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T19:04:18Z",
+  "generated_at": "2026-09-04T02:48:28Z",
   "stats": {
-    "total_discoveries": 152,
-    "total_stars": 3094613,
-    "total_stars_formatted": "3,094,613",
+    "total_discoveries": 153,
+    "total_stars": 3099314,
+    "total_stars_formatted": "3,099,314",
     "categories_count": {
+      "🔍 RAG & Search": 19,
       "🤖 Agents": 88,
-      "🔍 RAG & Search": 18,
       "💡 AI Tool": 23,
       "🎨 Multimodal": 5,
       "🧠 LLM & Frameworks": 12,
@@ -14,6 +14,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "C++": 3,
       "Python": 110,
       "Jupyter Notebook": 2,
       "TypeScript": 9,
@@ -24,7 +25,6 @@
       "Ruby": 1,
       "Lean": 1,
       "HTML": 1,
-      "C++": 2,
       "Shell": 1
     }
   },
@@ -39,6 +39,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-04",
+      "name": "infiniflow/infinity",
+      "url": "https://github.com/infiniflow/infinity",
+      "language": "C++",
+      "category": "🔍 RAG & Search",
+      "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+      "stars": 4701,
+      "stars_formatted": "4,701"
+    },
     {
       "date": "2026-09-03",
       "name": "kirodotdev/KiroCrew",
