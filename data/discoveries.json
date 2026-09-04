@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-04T12:28:32Z",
+  "generated_at": "2026-09-04T18:47:43Z",
   "stats": {
-    "total_discoveries": 154,
-    "total_stars": 3112203,
-    "total_stars_formatted": "3,112,203",
+    "total_discoveries": 155,
+    "total_stars": 3214963,
+    "total_stars_formatted": "3,214,963",
     "categories_count": {
+      "💡 AI Tool": 24,
       "🤖 Agents": 89,
       "🔍 RAG & Search": 19,
-      "💡 AI Tool": 23,
       "🎨 Multimodal": 5,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 111,
+      "Python": 112,
       "C++": 3,
       "Jupyter Notebook": 2,
       "TypeScript": 9,
@@ -39,6 +39,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-04",
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 102760,
+      "stars_formatted": "102,760"
+    },
     {
       "date": "2026-09-04",
       "name": "ifixai-ai/iFixAi",
