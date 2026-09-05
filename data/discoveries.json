@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-09-05T02:50:20Z",
+  "generated_at": "2026-09-05T11:36:18Z",
   "stats": {
-    "total_discoveries": 156,
-    "total_stars": 3216112,
-    "total_stars_formatted": "3,216,112",
+    "total_discoveries": 157,
+    "total_stars": 3217730,
+    "total_stars_formatted": "3,217,730",
     "categories_count": {
+      "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
       "🤖 Agents": 89,
@@ -14,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 113,
+      "Python": 114,
       "C++": 3,
       "Jupyter Notebook": 2,
       "TypeScript": 9,
@@ -39,6 +40,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-05",
+      "name": "pixeltable/pixeltable",
+      "url": "https://github.com/pixeltable/pixeltable",
+      "language": "Python",
+      "category": "🗄️ Vector DB",
+      "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+      "stars": 1618,
+      "stars_formatted": "1,618"
+    },
     {
       "date": "2026-09-05",
       "name": "lhotse-speech/lhotse",
