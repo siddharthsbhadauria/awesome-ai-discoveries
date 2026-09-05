@@ -129,3 +129,4 @@ The most popular discovery lately: **[affaan-m/ECC](https://github.com/affaan-m/
 | 2026-09-04 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 💡 AI Tool | Tensors and Dynamic neural networks in Python with strong GPU acceleration | ⭐ 102,760 |
 | 2026-09-05 | [lhotse-speech/lhotse](https://github.com/lhotse-speech/lhotse) | Python | 🎨 Multimodal | Tools for handling multimodal data in machine learning projects. | ⭐ 1,149 |
 | 2026-09-05 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | Python | 🗄️ Vector DB | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. | ⭐ 1,618 |
+| 2026-09-05 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | TypeScript | 🤖 Agents | Agenta is a workspace where you and your team build agents and automations. | ⭐ 4,684 |

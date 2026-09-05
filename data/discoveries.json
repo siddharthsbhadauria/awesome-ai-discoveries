@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-05T11:36:18Z",
+  "generated_at": "2026-09-05T17:54:01Z",
   "stats": {
-    "total_discoveries": 157,
-    "total_stars": 3217730,
-    "total_stars_formatted": "3,217,730",
+    "total_discoveries": 158,
+    "total_stars": 3222414,
+    "total_stars_formatted": "3,222,414",
     "categories_count": {
+      "🤖 Agents": 90,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
-      "🤖 Agents": 89,
       "🔍 RAG & Search": 19,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 10,
       "Python": 114,
       "C++": 3,
       "Jupyter Notebook": 2,
-      "TypeScript": 9,
       "Rust": 7,
       "Go": 10,
       "JavaScript": 4,
@@ -40,6 +40,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-05",
+      "name": "Agenta-AI/agenta",
+      "url": "https://github.com/Agenta-AI/agenta",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Agenta is a workspace where you and your team build agents and automations.",
+      "stars": 4684,
+      "stars_formatted": "4,684"
+    },
     {
       "date": "2026-09-05",
       "name": "pixeltable/pixeltable",
