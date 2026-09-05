@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-04T18:47:43Z",
+  "generated_at": "2026-09-05T02:50:20Z",
   "stats": {
-    "total_discoveries": 155,
-    "total_stars": 3214963,
-    "total_stars_formatted": "3,214,963",
+    "total_discoveries": 156,
+    "total_stars": 3216112,
+    "total_stars_formatted": "3,216,112",
     "categories_count": {
+      "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
       "🤖 Agents": 89,
       "🔍 RAG & Search": 19,
-      "🎨 Multimodal": 5,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 112,
+      "Python": 113,
       "C++": 3,
       "Jupyter Notebook": 2,
       "TypeScript": 9,
@@ -39,6 +39,16 @@
     "stars_formatted": "244,140"
   },
   "discoveries": [
+    {
+      "date": "2026-09-05",
+      "name": "lhotse-speech/lhotse",
+      "url": "https://github.com/lhotse-speech/lhotse",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "Tools for handling multimodal data in machine learning projects.",
+      "stars": 1149,
+      "stars_formatted": "1,149"
+    },
     {
       "date": "2026-09-04",
       "name": "pytorch/pytorch",
