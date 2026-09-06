@@ -132,3 +132,4 @@ The most popular discovery lately: **[browser-use/browser-use](https://github.co
 | 2026-09-05 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | TypeScript | 🤖 Agents | Agenta is a workspace where you and your team build agents and automations. | ⭐ 4,684 |
 | 2026-09-06 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | Python | 🤖 Agents | Not only memory but a full story. | ⭐ 943 |
 | 2026-09-06 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 🤖 Agents | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | ⭐ 35,546 |
+| 2026-09-06 | [zhnt/loushang](https://github.com/zhnt/loushang) | Python | 🤖 Agents | AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax. | ⭐ 1,368 |

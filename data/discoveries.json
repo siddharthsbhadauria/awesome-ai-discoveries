@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T11:55:50Z",
+  "generated_at": "2026-09-06T17:59:12Z",
   "stats": {
-    "total_discoveries": 160,
-    "total_stars": 3258903,
-    "total_stars_formatted": "3,258,903",
+    "total_discoveries": 161,
+    "total_stars": 3260271,
+    "total_stars_formatted": "3,260,271",
     "categories_count": {
-      "🤖 Agents": 92,
+      "🤖 Agents": 93,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 116,
+      "Python": 117,
       "TypeScript": 10,
       "C++": 3,
       "Jupyter Notebook": 2,
@@ -49,6 +49,16 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "stars": 35546,
       "stars_formatted": "35,546"
+    },
+    {
+      "date": "2026-09-06",
+      "name": "zhnt/loushang",
+      "url": "https://github.com/zhnt/loushang",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.",
+      "stars": 1368,
+      "stars_formatted": "1,368"
     },
     {
       "date": "2026-09-06",
