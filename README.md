@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[affaan-m/ECC](https://github.com/affaan-m/ECC)**
+The most popular discovery lately: **[browser-use/browser-use](https://github.com/browser-use/browser-use)**
 <!-- FEATURED_END -->
 
 ---
@@ -131,3 +131,4 @@ The most popular discovery lately: **[affaan-m/ECC](https://github.com/affaan-m/
 | 2026-09-05 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | Python | 🗄️ Vector DB | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. | ⭐ 1,618 |
 | 2026-09-05 | [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | TypeScript | 🤖 Agents | Agenta is a workspace where you and your team build agents and automations. | ⭐ 4,684 |
 | 2026-09-06 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | Python | 🤖 Agents | Not only memory but a full story. | ⭐ 943 |
+| 2026-09-06 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 🤖 Agents | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | ⭐ 35,546 |

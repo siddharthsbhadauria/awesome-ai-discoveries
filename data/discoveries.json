@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T02:48:21Z",
+  "generated_at": "2026-09-06T11:55:50Z",
   "stats": {
-    "total_discoveries": 159,
-    "total_stars": 3223357,
-    "total_stars_formatted": "3,223,357",
+    "total_discoveries": 160,
+    "total_stars": 3258903,
+    "total_stars_formatted": "3,258,903",
     "categories_count": {
-      "🤖 Agents": 91,
+      "🤖 Agents": 92,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 115,
+      "Python": 116,
       "TypeScript": 10,
       "C++": 3,
       "Jupyter Notebook": 2,
@@ -40,6 +40,16 @@
     "stars_formatted": "111,718"
   },
   "discoveries": [
+    {
+      "date": "2026-09-06",
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 35546,
+      "stars_formatted": "35,546"
+    },
     {
       "date": "2026-09-06",
       "name": "oceanbase/powercontext",
