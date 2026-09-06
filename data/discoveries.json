@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-05T17:54:01Z",
+  "generated_at": "2026-09-06T02:48:21Z",
   "stats": {
-    "total_discoveries": 158,
-    "total_stars": 3222414,
-    "total_stars_formatted": "3,222,414",
+    "total_discoveries": 159,
+    "total_stars": 3223357,
+    "total_stars_formatted": "3,223,357",
     "categories_count": {
-      "🤖 Agents": 90,
+      "🤖 Agents": 91,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 115,
       "TypeScript": 10,
-      "Python": 114,
       "C++": 3,
       "Jupyter Notebook": 2,
       "Rust": 7,
@@ -30,16 +30,26 @@
     }
   },
   "featured": {
-    "date": "2026-08-29",
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "language": "JavaScript",
+    "date": "2026-08-30",
+    "name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "language": "Python",
     "category": "🤖 Agents",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "stars": 244140,
-    "stars_formatted": "244,140"
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "stars": 111718,
+    "stars_formatted": "111,718"
   },
   "discoveries": [
+    {
+      "date": "2026-09-06",
+      "name": "oceanbase/powercontext",
+      "url": "https://github.com/oceanbase/powercontext",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Not only memory but a full story.",
+      "stars": 943,
+      "stars_formatted": "943"
+    },
     {
       "date": "2026-09-05",
       "name": "Agenta-AI/agenta",
