@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T02:46:21Z",
+  "generated_at": "2026-09-07T13:57:06Z",
   "stats": {
-    "total_discoveries": 162,
-    "total_stars": 3260901,
-    "total_stars_formatted": "3,260,901",
+    "total_discoveries": 163,
+    "total_stars": 3262785,
+    "total_stars_formatted": "3,262,785",
     "categories_count": {
-      "🤖 Agents": 94,
+      "🤖 Agents": 95,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -15,12 +15,12 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 11,
       "Python": 118,
       "TypeScript": 10,
       "C++": 3,
       "Jupyter Notebook": 2,
       "Rust": 7,
-      "Go": 10,
       "JavaScript": 4,
       "Java": 4,
       "Ruby": 1,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-07",
+      "name": "matrixorigin/matrixone",
+      "url": "https://github.com/matrixorigin/matrixone",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.",
+      "stars": 1884,
+      "stars_formatted": "1,884"
+    },
     {
       "date": "2026-09-07",
       "name": "henrydaum/second-brain",
