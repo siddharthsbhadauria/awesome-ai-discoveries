@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T17:59:12Z",
+  "generated_at": "2026-09-07T02:46:21Z",
   "stats": {
-    "total_discoveries": 161,
-    "total_stars": 3260271,
-    "total_stars_formatted": "3,260,271",
+    "total_discoveries": 162,
+    "total_stars": 3260901,
+    "total_stars_formatted": "3,260,901",
     "categories_count": {
-      "🤖 Agents": 93,
+      "🤖 Agents": 94,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 117,
+      "Python": 118,
       "TypeScript": 10,
       "C++": 3,
       "Jupyter Notebook": 2,
@@ -30,16 +30,26 @@
     }
   },
   "featured": {
-    "date": "2026-08-30",
-    "name": "browser-use/browser-use",
-    "url": "https://github.com/browser-use/browser-use",
+    "date": "2026-09-04",
+    "name": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
     "language": "Python",
-    "category": "🤖 Agents",
-    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-    "stars": 111718,
-    "stars_formatted": "111,718"
+    "category": "💡 AI Tool",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "stars": 102760,
+    "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-07",
+      "name": "henrydaum/second-brain",
+      "url": "https://github.com/henrydaum/second-brain",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messaging platforms.",
+      "stars": 630,
+      "stars_formatted": "630"
+    },
     {
       "date": "2026-09-06",
       "name": "VectifyAI/PageIndex",
