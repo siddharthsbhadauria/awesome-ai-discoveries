@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T13:57:06Z",
+  "generated_at": "2026-09-07T19:34:25Z",
   "stats": {
-    "total_discoveries": 163,
-    "total_stars": 3262785,
-    "total_stars_formatted": "3,262,785",
+    "total_discoveries": 164,
+    "total_stars": 3263318,
+    "total_stars_formatted": "3,263,318",
     "categories_count": {
-      "🤖 Agents": 95,
+      "🤖 Agents": 96,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -17,7 +17,7 @@
     "languages_count": {
       "Go": 11,
       "Python": 118,
-      "TypeScript": 10,
+      "TypeScript": 11,
       "C++": 3,
       "Jupyter Notebook": 2,
       "Rust": 7,
@@ -59,6 +59,16 @@
       "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messaging platforms.",
       "stars": 630,
       "stars_formatted": "630"
+    },
+    {
+      "date": "2026-09-07",
+      "name": "decionis/agent-safe-pipeline",
+      "url": "https://github.com/decionis/agent-safe-pipeline",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+      "stars": 533,
+      "stars_formatted": "533"
     },
     {
       "date": "2026-09-06",
