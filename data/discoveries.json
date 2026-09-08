@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T12:36:09Z",
+  "generated_at": "2026-09-08T19:14:18Z",
   "stats": {
-    "total_discoveries": 166,
-    "total_stars": 3286440,
-    "total_stars_formatted": "3,286,440",
+    "total_discoveries": 167,
+    "total_stars": 3287462,
+    "total_stars_formatted": "3,287,462",
     "categories_count": {
       "🎨 Multimodal": 7,
-      "🤖 Agents": 97,
+      "🤖 Agents": 98,
       "🗄️ Vector DB": 1,
       "💡 AI Tool": 24,
       "🔍 RAG & Search": 19,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 120,
+      "Python": 121,
       "Go": 11,
       "TypeScript": 11,
       "C++": 3,
@@ -59,6 +59,16 @@
       "description": "The Best AI Agent Framework for Agent Collaboration.",
       "stars": 1480,
       "stars_formatted": "1,480"
+    },
+    {
+      "date": "2026-09-08",
+      "name": "ArcadeAI/arcade-mcp",
+      "url": "https://github.com/ArcadeAI/arcade-mcp",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "MCP Server Framework and Tool Development library for building custom capabilities into agents.",
+      "stars": 1022,
+      "stars_formatted": "1,022"
     },
     {
       "date": "2026-09-07",
