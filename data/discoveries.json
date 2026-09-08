@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T19:34:25Z",
+  "generated_at": "2026-09-08T02:56:57Z",
   "stats": {
-    "total_discoveries": 164,
-    "total_stars": 3263318,
-    "total_stars_formatted": "3,263,318",
+    "total_discoveries": 165,
+    "total_stars": 3264798,
+    "total_stars_formatted": "3,264,798",
     "categories_count": {
-      "🤖 Agents": 96,
+      "🤖 Agents": 97,
       "🗄️ Vector DB": 1,
       "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 119,
       "Go": 11,
-      "Python": 118,
       "TypeScript": 11,
       "C++": 3,
       "Jupyter Notebook": 2,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-08",
+      "name": "openonion/connectonion",
+      "url": "https://github.com/openonion/connectonion",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "The Best AI Agent Framework for Agent Collaboration.",
+      "stars": 1480,
+      "stars_formatted": "1,480"
+    },
     {
       "date": "2026-09-07",
       "name": "matrixorigin/matrixone",
