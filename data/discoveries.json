@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T02:56:57Z",
+  "generated_at": "2026-09-08T12:36:09Z",
   "stats": {
-    "total_discoveries": 165,
-    "total_stars": 3264798,
-    "total_stars_formatted": "3,264,798",
+    "total_discoveries": 166,
+    "total_stars": 3286440,
+    "total_stars_formatted": "3,286,440",
     "categories_count": {
+      "🎨 Multimodal": 7,
       "🤖 Agents": 97,
       "🗄️ Vector DB": 1,
-      "🎨 Multimodal": 6,
       "💡 AI Tool": 24,
       "🔍 RAG & Search": 19,
       "🧠 LLM & Frameworks": 12,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 119,
+      "Python": 120,
       "Go": 11,
       "TypeScript": 11,
       "C++": 3,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-08",
+      "name": "huggingface/peft",
+      "url": "https://github.com/huggingface/peft",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "stars": 21642,
+      "stars_formatted": "21,642"
+    },
     {
       "date": "2026-09-08",
       "name": "openonion/connectonion",
