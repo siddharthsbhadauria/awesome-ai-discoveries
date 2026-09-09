@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-08T19:14:18Z",
+  "generated_at": "2026-09-09T02:57:38Z",
   "stats": {
-    "total_discoveries": 167,
-    "total_stars": 3287462,
-    "total_stars_formatted": "3,287,462",
+    "total_discoveries": 168,
+    "total_stars": 3298526,
+    "total_stars_formatted": "3,298,526",
     "categories_count": {
+      "🔍 RAG & Search": 20,
       "🎨 Multimodal": 7,
       "🤖 Agents": 98,
       "🗄️ Vector DB": 1,
       "💡 AI Tool": 24,
-      "🔍 RAG & Search": 19,
       "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 12,
       "Python": 121,
       "Go": 11,
-      "TypeScript": 11,
       "C++": 3,
       "Jupyter Notebook": 2,
       "Rust": 7,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-09",
+      "name": "voxel51/fiftyone",
+      "url": "https://github.com/voxel51/fiftyone",
+      "language": "TypeScript",
+      "category": "🔍 RAG & Search",
+      "description": "Refine high-quality datasets and visual AI models",
+      "stars": 11064,
+      "stars_formatted": "11,064"
+    },
     {
       "date": "2026-09-08",
       "name": "huggingface/peft",
