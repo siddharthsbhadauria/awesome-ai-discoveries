@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-09T02:57:38Z",
+  "generated_at": "2026-09-09T12:42:33Z",
   "stats": {
-    "total_discoveries": 168,
-    "total_stars": 3298526,
-    "total_stars_formatted": "3,298,526",
+    "total_discoveries": 169,
+    "total_stars": 3299628,
+    "total_stars_formatted": "3,299,628",
     "categories_count": {
       "🔍 RAG & Search": 20,
+      "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
       "🤖 Agents": 98,
       "🗄️ Vector DB": 1,
       "💡 AI Tool": 24,
-      "🧠 LLM & Frameworks": 12,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
       "TypeScript": 12,
+      "Rust": 8,
       "Python": 121,
       "Go": 11,
       "C++": 3,
       "Jupyter Notebook": 2,
-      "Rust": 7,
       "JavaScript": 4,
       "Java": 4,
       "Ruby": 1,
@@ -49,6 +49,16 @@
       "description": "Refine high-quality datasets and visual AI models",
       "stars": 11064,
       "stars_formatted": "11,064"
+    },
+    {
+      "date": "2026-09-09",
+      "name": "nobodywho-ooo/nobodywho",
+      "url": "https://github.com/nobodywho-ooo/nobodywho",
+      "language": "Rust",
+      "category": "🧠 LLM & Frameworks",
+      "description": "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.",
+      "stars": 1102,
+      "stars_formatted": "1,102"
     },
     {
       "date": "2026-09-08",
