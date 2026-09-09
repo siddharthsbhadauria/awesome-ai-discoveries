@@ -141,3 +141,4 @@ The most popular discovery lately: **[browser-use/browser-use](https://github.co
 | 2026-09-08 | [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) | Python | 🤖 Agents | MCP Server Framework and Tool Development library for building custom capabilities into agents. | ⭐ 1,022 |
 | 2026-09-09 | [voxel51/fiftyone](https://github.com/voxel51/fiftyone) | TypeScript | 🔍 RAG & Search | Refine high-quality datasets and visual AI models | ⭐ 11,064 |
 | 2026-09-09 | [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) | Rust | 🧠 LLM & Frameworks | NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device. | ⭐ 1,102 |
+| 2026-09-09 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | Rust | 🤖 Agents | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | ⭐ 40,934 |

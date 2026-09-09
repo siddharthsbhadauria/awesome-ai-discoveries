@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-09T12:42:33Z",
+  "generated_at": "2026-09-09T19:03:09Z",
   "stats": {
-    "total_discoveries": 169,
-    "total_stars": 3299628,
-    "total_stars_formatted": "3,299,628",
+    "total_discoveries": 170,
+    "total_stars": 3340562,
+    "total_stars_formatted": "3,340,562",
     "categories_count": {
+      "🤖 Agents": 99,
       "🔍 RAG & Search": 20,
       "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
-      "🤖 Agents": 98,
       "🗄️ Vector DB": 1,
       "💡 AI Tool": 24,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 9,
       "TypeScript": 12,
-      "Rust": 8,
       "Python": 121,
       "Go": 11,
       "C++": 3,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-09",
+      "name": "Hmbown/Codewhale",
+      "url": "https://github.com/Hmbown/Codewhale",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "stars": 40934,
+      "stars_formatted": "40,934"
+    },
     {
       "date": "2026-09-09",
       "name": "voxel51/fiftyone",
