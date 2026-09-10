@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T12:40:54Z",
+  "generated_at": "2026-09-10T18:55:23Z",
   "stats": {
-    "total_discoveries": 172,
-    "total_stars": 3417597,
-    "total_stars_formatted": "3,417,597",
+    "total_discoveries": 173,
+    "total_stars": 3418452,
+    "total_stars_formatted": "3,418,452",
     "categories_count": {
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
-      "🤖 Agents": 99,
+      "🤖 Agents": 100,
       "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
       "🗄️ Vector DB": 1,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Python": 123,
+      "TypeScript": 13,
       "Rust": 9,
-      "TypeScript": 12,
       "Go": 11,
       "C++": 3,
       "Jupyter Notebook": 2,
@@ -59,6 +59,16 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "stars": 31308,
       "stars_formatted": "31,308"
+    },
+    {
+      "date": "2026-09-10",
+      "name": "Intrect-io/OpenSwarm",
+      "url": "https://github.com/Intrect-io/OpenSwarm",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
+      "stars": 855,
+      "stars_formatted": "855"
     },
     {
       "date": "2026-09-09",
