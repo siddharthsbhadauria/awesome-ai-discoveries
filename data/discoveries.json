@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T02:58:10Z",
+  "generated_at": "2026-09-10T12:40:54Z",
   "stats": {
-    "total_discoveries": 171,
-    "total_stars": 3386289,
-    "total_stars_formatted": "3,386,289",
+    "total_discoveries": 172,
+    "total_stars": 3417597,
+    "total_stars_formatted": "3,417,597",
     "categories_count": {
       "💡 AI Tool": 25,
+      "🔍 RAG & Search": 21,
       "🤖 Agents": 99,
-      "🔍 RAG & Search": 20,
       "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
       "🗄️ Vector DB": 1,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 122,
+      "Python": 123,
       "Rust": 9,
       "TypeScript": 12,
       "Go": 11,
@@ -49,6 +49,16 @@
       "description": "Streamlit — A faster way to build and share data apps.",
       "stars": 45727,
       "stars_formatted": "45,727"
+    },
+    {
+      "date": "2026-09-10",
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 31308,
+      "stars_formatted": "31,308"
     },
     {
       "date": "2026-09-09",
