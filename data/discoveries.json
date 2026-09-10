@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-09T19:03:09Z",
+  "generated_at": "2026-09-10T02:58:10Z",
   "stats": {
-    "total_discoveries": 170,
-    "total_stars": 3340562,
-    "total_stars_formatted": "3,340,562",
+    "total_discoveries": 171,
+    "total_stars": 3386289,
+    "total_stars_formatted": "3,386,289",
     "categories_count": {
+      "💡 AI Tool": 25,
       "🤖 Agents": 99,
       "🔍 RAG & Search": 20,
       "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
       "🗄️ Vector DB": 1,
-      "💡 AI Tool": 24,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 122,
       "Rust": 9,
       "TypeScript": 12,
-      "Python": 121,
       "Go": 11,
       "C++": 3,
       "Jupyter Notebook": 2,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-10",
+      "name": "streamlit/streamlit",
+      "url": "https://github.com/streamlit/streamlit",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Streamlit — A faster way to build and share data apps.",
+      "stars": 45727,
+      "stars_formatted": "45,727"
+    },
     {
       "date": "2026-09-09",
       "name": "Hmbown/Codewhale",
