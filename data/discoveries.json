@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T02:53:28Z",
+  "generated_at": "2026-09-11T12:34:50Z",
   "stats": {
-    "total_discoveries": 174,
-    "total_stars": 3421672,
-    "total_stars_formatted": "3,421,672",
+    "total_discoveries": 175,
+    "total_stars": 3428732,
+    "total_stars_formatted": "3,428,732",
     "categories_count": {
-      "🤖 Agents": 101,
+      "🤖 Agents": 102,
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 14,
       "Python": 124,
-      "TypeScript": 13,
       "Rust": 9,
       "Go": 11,
       "C++": 3,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-11",
+      "name": "trailhq/Graft",
+      "url": "https://github.com/trailhq/Graft",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+      "stars": 7060,
+      "stars_formatted": "7,060"
+    },
     {
       "date": "2026-09-11",
       "name": "MemMachine/MemMachine",
