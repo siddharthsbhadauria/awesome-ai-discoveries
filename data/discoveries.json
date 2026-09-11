@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T18:55:23Z",
+  "generated_at": "2026-09-11T02:53:28Z",
   "stats": {
-    "total_discoveries": 173,
-    "total_stars": 3418452,
-    "total_stars_formatted": "3,418,452",
+    "total_discoveries": 174,
+    "total_stars": 3421672,
+    "total_stars_formatted": "3,421,672",
     "categories_count": {
+      "🤖 Agents": 101,
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
-      "🤖 Agents": 100,
       "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
       "🗄️ Vector DB": 1,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 123,
+      "Python": 124,
       "TypeScript": 13,
       "Rust": 9,
       "Go": 11,
@@ -40,6 +40,16 @@
     "stars_formatted": "102,760"
   },
   "discoveries": [
+    {
+      "date": "2026-09-11",
+      "name": "MemMachine/MemMachine",
+      "url": "https://github.com/MemMachine/MemMachine",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+      "stars": 3220,
+      "stars_formatted": "3,220"
+    },
     {
       "date": "2026-09-10",
       "name": "streamlit/streamlit",
