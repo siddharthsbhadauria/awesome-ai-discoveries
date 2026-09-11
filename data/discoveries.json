@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T12:34:50Z",
+  "generated_at": "2026-09-11T18:57:29Z",
   "stats": {
-    "total_discoveries": 175,
-    "total_stars": 3428732,
-    "total_stars_formatted": "3,428,732",
+    "total_discoveries": 176,
+    "total_stars": 3431884,
+    "total_stars_formatted": "3,431,884",
     "categories_count": {
-      "🤖 Agents": 102,
+      "🤖 Agents": 103,
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "TypeScript": 14,
-      "Python": 124,
+      "Python": 125,
       "Rust": 9,
       "Go": 11,
       "C++": 3,
@@ -59,6 +59,16 @@
       "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
       "stars": 3220,
       "stars_formatted": "3,220"
+    },
+    {
+      "date": "2026-09-11",
+      "name": "Ontos-AI/knowhere",
+      "url": "https://github.com/Ontos-AI/knowhere",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+      "stars": 3152,
+      "stars_formatted": "3,152"
     },
     {
       "date": "2026-09-10",
