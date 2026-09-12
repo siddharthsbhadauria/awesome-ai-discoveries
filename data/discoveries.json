@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T11:57:11Z",
+  "generated_at": "2026-09-12T18:04:07Z",
   "stats": {
-    "total_discoveries": 178,
-    "total_stars": 3435701,
-    "total_stars_formatted": "3,435,701",
+    "total_discoveries": 179,
+    "total_stars": 3442714,
+    "total_stars_formatted": "3,442,714",
     "categories_count": {
-      "🤖 Agents": 105,
+      "🤖 Agents": 106,
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 126,
       "Rust": 10,
       "C++": 4,
       "TypeScript": 14,
-      "Python": 125,
       "Go": 11,
       "Jupyter Notebook": 2,
       "JavaScript": 4,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-12",
+      "name": "TokenRhythm/opensquilla",
+      "url": "https://github.com/TokenRhythm/opensquilla",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "stars": 7013,
+      "stars_formatted": "7,013"
+    },
     {
       "date": "2026-09-12",
       "name": "xerj-org/xerj",
