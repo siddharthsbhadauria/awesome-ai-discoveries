@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T03:00:46Z",
+  "generated_at": "2026-09-12T11:57:11Z",
   "stats": {
-    "total_discoveries": 177,
-    "total_stars": 3433792,
-    "total_stars_formatted": "3,433,792",
+    "total_discoveries": 178,
+    "total_stars": 3435701,
+    "total_stars_formatted": "3,435,701",
     "categories_count": {
-      "🤖 Agents": 104,
+      "🤖 Agents": 105,
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 10,
       "C++": 4,
       "TypeScript": 14,
       "Python": 125,
-      "Rust": 9,
       "Go": 11,
       "Jupyter Notebook": 2,
       "JavaScript": 4,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-12",
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": 1909,
+      "stars_formatted": "1,909"
+    },
     {
       "date": "2026-09-12",
       "name": "redhat-et/ripwire",
