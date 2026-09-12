@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T18:57:29Z",
+  "generated_at": "2026-09-12T03:00:46Z",
   "stats": {
-    "total_discoveries": 176,
-    "total_stars": 3431884,
-    "total_stars_formatted": "3,431,884",
+    "total_discoveries": 177,
+    "total_stars": 3433792,
+    "total_stars_formatted": "3,433,792",
     "categories_count": {
-      "🤖 Agents": 103,
+      "🤖 Agents": 104,
       "💡 AI Tool": 25,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,11 +15,11 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "C++": 4,
       "TypeScript": 14,
       "Python": 125,
       "Rust": 9,
       "Go": 11,
-      "C++": 3,
       "Jupyter Notebook": 2,
       "JavaScript": 4,
       "Java": 4,
@@ -30,16 +30,26 @@
     }
   },
   "featured": {
-    "date": "2026-09-04",
-    "name": "pytorch/pytorch",
-    "url": "https://github.com/pytorch/pytorch",
+    "date": "2026-09-10",
+    "name": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
     "language": "Python",
     "category": "💡 AI Tool",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "stars": 102760,
-    "stars_formatted": "102,760"
+    "description": "Streamlit — A faster way to build and share data apps.",
+    "stars": 45727,
+    "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-12",
+      "name": "redhat-et/ripwire",
+      "url": "https://github.com/redhat-et/ripwire",
+      "language": "C++",
+      "category": "🤖 Agents",
+      "description": "The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.",
+      "stars": 1908,
+      "stars_formatted": "1,908"
+    },
     {
       "date": "2026-09-11",
       "name": "trailhq/Graft",
