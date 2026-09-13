@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[browser-use/browser-use](https://github.com/browser-use/browser-use)**
+The most popular discovery lately: **[streamlit/streamlit](https://github.com/streamlit/streamlit)**
 <!-- FEATURED_END -->
 
 ---
@@ -151,3 +151,4 @@ The most popular discovery lately: **[browser-use/browser-use](https://github.co
 | 2026-09-12 | [redhat-et/ripwire](https://github.com/redhat-et/ripwire) | C++ | 🤖 Agents | The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map. | ⭐ 1,908 |
 | 2026-09-12 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | 🤖 Agents | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. | ⭐ 1,909 |
 | 2026-09-12 | [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla) | Python | 🤖 Agents | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | ⭐ 7,013 |
+| 2026-09-13 | [a-r-j/graphein](https://github.com/a-r-j/graphein) | Jupyter Notebook | 💡 AI Tool | Protein Graph Library | ⭐ 1,192 |
