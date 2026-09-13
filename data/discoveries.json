@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-13T03:00:44Z",
+  "generated_at": "2026-09-13T13:05:05Z",
   "stats": {
-    "total_discoveries": 180,
-    "total_stars": 3443906,
-    "total_stars_formatted": "3,443,906",
+    "total_discoveries": 181,
+    "total_stars": 3448052,
+    "total_stars_formatted": "3,448,052",
     "categories_count": {
+      "🤖 Agents": 107,
       "💡 AI Tool": 26,
-      "🤖 Agents": 106,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
       "🎨 Multimodal": 7,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 127,
       "Jupyter Notebook": 3,
-      "Python": 126,
       "Rust": 10,
       "C++": 4,
       "TypeScript": 14,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-13",
+      "name": "SenteLabsAI/OpenExecutive",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).",
+      "stars": 4146,
+      "stars_formatted": "4,146"
+    },
     {
       "date": "2026-09-13",
       "name": "a-r-j/graphein",
