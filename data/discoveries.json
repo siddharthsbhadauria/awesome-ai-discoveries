@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T13:05:05Z",
+  "generated_at": "2026-09-13T18:30:54Z",
   "stats": {
-    "total_discoveries": 181,
-    "total_stars": 3448052,
-    "total_stars_formatted": "3,448,052",
+    "total_discoveries": 182,
+    "total_stars": 3451984,
+    "total_stars_formatted": "3,451,984",
     "categories_count": {
-      "🤖 Agents": 107,
+      "🤖 Agents": 108,
       "💡 AI Tool": 26,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 127,
+      "Python": 128,
       "Jupyter Notebook": 3,
       "Rust": 10,
       "C++": 4,
@@ -49,6 +49,16 @@
       "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).",
       "stars": 4146,
       "stars_formatted": "4,146"
+    },
+    {
+      "date": "2026-09-13",
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "stars": 3932,
+      "stars_formatted": "3,932"
     },
     {
       "date": "2026-09-13",

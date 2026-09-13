@@ -153,3 +153,4 @@ The most popular discovery lately: **[streamlit/streamlit](https://github.com/st
 | 2026-09-12 | [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla) | Python | 🤖 Agents | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | ⭐ 7,013 |
 | 2026-09-13 | [a-r-j/graphein](https://github.com/a-r-j/graphein) | Jupyter Notebook | 💡 AI Tool | Protein Graph Library | ⭐ 1,192 |
 | 2026-09-13 | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | Python | 🤖 Agents | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js). | ⭐ 4,146 |
+| 2026-09-13 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | 🤖 Agents | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. | ⭐ 3,932 |
