@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T03:14:57Z",
+  "generated_at": "2026-09-14T14:42:03Z",
   "stats": {
-    "total_discoveries": 183,
-    "total_stars": 3453202,
-    "total_stars_formatted": "3,453,202",
+    "total_discoveries": 184,
+    "total_stars": 3457565,
+    "total_stars_formatted": "3,457,565",
     "categories_count": {
-      "🤖 Agents": 109,
+      "🤖 Agents": 110,
       "💡 AI Tool": 26,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Ruby": 2,
       "Python": 129,
       "Jupyter Notebook": 3,
       "Rust": 10,
@@ -23,7 +24,6 @@
       "Go": 11,
       "JavaScript": 4,
       "Java": 4,
-      "Ruby": 1,
       "Lean": 1,
       "HTML": 1,
       "Shell": 1
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-14",
+      "name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "language": "Ruby",
+      "category": "🤖 Agents",
+      "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.",
+      "stars": 4363,
+      "stars_formatted": "4,363"
+    },
     {
       "date": "2026-09-14",
       "name": "wanxingai/LightAgent",
