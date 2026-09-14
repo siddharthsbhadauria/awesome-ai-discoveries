@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T14:42:03Z",
+  "generated_at": "2026-09-14T20:08:22Z",
   "stats": {
-    "total_discoveries": 184,
-    "total_stars": 3457565,
-    "total_stars_formatted": "3,457,565",
+    "total_discoveries": 185,
+    "total_stars": 3457974,
+    "total_stars_formatted": "3,457,974",
     "categories_count": {
-      "🤖 Agents": 110,
+      "🤖 Agents": 111,
       "💡 AI Tool": 26,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -17,10 +17,10 @@
     "languages_count": {
       "Ruby": 2,
       "Python": 129,
+      "TypeScript": 15,
       "Jupyter Notebook": 3,
       "Rust": 10,
       "C++": 4,
-      "TypeScript": 14,
       "Go": 11,
       "JavaScript": 4,
       "Java": 4,
@@ -59,6 +59,16 @@
       "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle hooks, multi-agent collaboration, and workflows.",
       "stars": 1218,
       "stars_formatted": "1,218"
+    },
+    {
+      "date": "2026-09-14",
+      "name": "caipe-io/ai-platform-engineering",
+      "url": "https://github.com/caipe-io/ai-platform-engineering",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "stars": 409,
+      "stars_formatted": "409"
     },
     {
       "date": "2026-09-13",
