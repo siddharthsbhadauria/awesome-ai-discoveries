@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T18:30:54Z",
+  "generated_at": "2026-09-14T03:14:57Z",
   "stats": {
-    "total_discoveries": 182,
-    "total_stars": 3451984,
-    "total_stars_formatted": "3,451,984",
+    "total_discoveries": 183,
+    "total_stars": 3453202,
+    "total_stars_formatted": "3,453,202",
     "categories_count": {
-      "🤖 Agents": 108,
+      "🤖 Agents": 109,
       "💡 AI Tool": 26,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 128,
+      "Python": 129,
       "Jupyter Notebook": 3,
       "Rust": 10,
       "C++": 4,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-14",
+      "name": "wanxingai/LightAgent",
+      "url": "https://github.com/wanxingai/LightAgent",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle hooks, multi-agent collaboration, and workflows.",
+      "stars": 1218,
+      "stars_formatted": "1,218"
+    },
     {
       "date": "2026-09-13",
       "name": "SenteLabsAI/OpenExecutive",
