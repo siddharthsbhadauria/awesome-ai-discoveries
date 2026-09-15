@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-14T20:08:22Z",
+  "generated_at": "2026-09-15T03:16:59Z",
   "stats": {
-    "total_discoveries": 185,
-    "total_stars": 3457974,
-    "total_stars_formatted": "3,457,974",
+    "total_discoveries": 186,
+    "total_stars": 3458975,
+    "total_stars_formatted": "3,458,975",
     "categories_count": {
+      "🎨 Multimodal": 8,
       "🤖 Agents": 111,
       "💡 AI Tool": 26,
       "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
-      "🎨 Multimodal": 7,
       "🗄️ Vector DB": 1,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 130,
       "Ruby": 2,
-      "Python": 129,
       "TypeScript": 15,
       "Jupyter Notebook": 3,
       "Rust": 10,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-15",
+      "name": "yurijmikhalevich/rclip",
+      "url": "https://github.com/yurijmikhalevich/rclip",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "grep for images – local, offline image search for the terminal",
+      "stars": 1001,
+      "stars_formatted": "1,001"
+    },
     {
       "date": "2026-09-14",
       "name": "crmne/ruby_llm",
