@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T13:06:39Z",
+  "generated_at": "2026-09-15T19:30:41Z",
   "stats": {
-    "total_discoveries": 187,
-    "total_stars": 3466826,
-    "total_stars_formatted": "3,466,826",
+    "total_discoveries": 188,
+    "total_stars": 3468237,
+    "total_stars_formatted": "3,468,237",
     "categories_count": {
       "🔍 RAG & Search": 22,
+      "🤖 Agents": 112,
       "🎨 Multimodal": 8,
-      "🤖 Agents": 111,
       "💡 AI Tool": 26,
       "🧠 LLM & Frameworks": 13,
       "🗄️ Vector DB": 1,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Jupyter Notebook": 4,
-      "Python": 130,
+      "Python": 131,
       "Ruby": 2,
       "TypeScript": 15,
       "Rust": 10,
@@ -49,6 +49,16 @@
       "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
       "stars": 7851,
       "stars_formatted": "7,851"
+    },
+    {
+      "date": "2026-09-15",
+      "name": "Jwuthri/Tracely-ai",
+      "url": "https://github.com/Jwuthri/Tracely-ai",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0.",
+      "stars": 1411,
+      "stars_formatted": "1,411"
     },
     {
       "date": "2026-09-15",
