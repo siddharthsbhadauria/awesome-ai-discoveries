@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-15T03:16:59Z",
+  "generated_at": "2026-09-15T13:06:39Z",
   "stats": {
-    "total_discoveries": 186,
-    "total_stars": 3458975,
-    "total_stars_formatted": "3,458,975",
+    "total_discoveries": 187,
+    "total_stars": 3466826,
+    "total_stars_formatted": "3,466,826",
     "categories_count": {
+      "🔍 RAG & Search": 22,
       "🎨 Multimodal": 8,
       "🤖 Agents": 111,
       "💡 AI Tool": 26,
-      "🔍 RAG & Search": 21,
       "🧠 LLM & Frameworks": 13,
       "🗄️ Vector DB": 1,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Jupyter Notebook": 4,
       "Python": 130,
       "Ruby": 2,
       "TypeScript": 15,
-      "Jupyter Notebook": 3,
       "Rust": 10,
       "C++": 4,
       "Go": 11,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-15",
+      "name": "NirDiamant/Prompt_Engineering",
+      "url": "https://github.com/NirDiamant/Prompt_Engineering",
+      "language": "Jupyter Notebook",
+      "category": "🔍 RAG & Search",
+      "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
+      "stars": 7851,
+      "stars_formatted": "7,851"
+    },
     {
       "date": "2026-09-15",
       "name": "yurijmikhalevich/rclip",
