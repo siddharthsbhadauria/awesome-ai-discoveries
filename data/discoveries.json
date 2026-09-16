@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T03:13:09Z",
+  "generated_at": "2026-09-16T13:05:16Z",
   "stats": {
-    "total_discoveries": 189,
-    "total_stars": 3478267,
-    "total_stars_formatted": "3,478,267",
+    "total_discoveries": 190,
+    "total_stars": 3485298,
+    "total_stars_formatted": "3,485,298",
     "categories_count": {
       "💡 AI Tool": 27,
+      "🤖 Agents": 113,
       "🔍 RAG & Search": 22,
-      "🤖 Agents": 112,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
       "🗄️ Vector DB": 1,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 132,
+      "Python": 133,
       "Jupyter Notebook": 4,
       "Ruby": 2,
       "TypeScript": 15,
@@ -49,6 +49,16 @@
       "description": "Perform data science on data that remains in someone else's server",
       "stars": 10030,
       "stars_formatted": "10,030"
+    },
+    {
+      "date": "2026-09-16",
+      "name": "xerrors/Yuxi",
+      "url": "https://github.com/xerrors/Yuxi",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
+      "stars": 7031,
+      "stars_formatted": "7,031"
     },
     {
       "date": "2026-09-15",
