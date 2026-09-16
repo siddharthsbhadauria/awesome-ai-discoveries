@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-15T19:30:41Z",
+  "generated_at": "2026-09-16T03:13:09Z",
   "stats": {
-    "total_discoveries": 188,
-    "total_stars": 3468237,
-    "total_stars_formatted": "3,468,237",
+    "total_discoveries": 189,
+    "total_stars": 3478267,
+    "total_stars_formatted": "3,478,267",
     "categories_count": {
+      "💡 AI Tool": 27,
       "🔍 RAG & Search": 22,
       "🤖 Agents": 112,
       "🎨 Multimodal": 8,
-      "💡 AI Tool": 26,
       "🧠 LLM & Frameworks": 13,
       "🗄️ Vector DB": 1,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 132,
       "Jupyter Notebook": 4,
-      "Python": 131,
       "Ruby": 2,
       "TypeScript": 15,
       "Rust": 10,
@@ -40,6 +40,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-16",
+      "name": "OpenMined/PySyft",
+      "url": "https://github.com/OpenMined/PySyft",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Perform data science on data that remains in someone else's server",
+      "stars": 10030,
+      "stars_formatted": "10,030"
+    },
     {
       "date": "2026-09-15",
       "name": "NirDiamant/Prompt_Engineering",
