@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T13:05:16Z",
+  "generated_at": "2026-09-16T19:21:12Z",
   "stats": {
-    "total_discoveries": 190,
-    "total_stars": 3485298,
-    "total_stars_formatted": "3,485,298",
+    "total_discoveries": 191,
+    "total_stars": 3486095,
+    "total_stars_formatted": "3,486,095",
     "categories_count": {
       "💡 AI Tool": 27,
-      "🤖 Agents": 113,
+      "🤖 Agents": 114,
       "🔍 RAG & Search": 22,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 133,
+      "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
       "TypeScript": 15,
@@ -59,6 +60,16 @@
       "description": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
       "stars": 7031,
       "stars_formatted": "7,031"
+    },
+    {
+      "date": "2026-09-16",
+      "name": "christopherkarani/Wax",
+      "url": "https://github.com/christopherkarani/Wax",
+      "language": "Swift",
+      "category": "🤖 Agents",
+      "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift",
+      "stars": 797,
+      "stars_formatted": "797"
     },
     {
       "date": "2026-09-15",
