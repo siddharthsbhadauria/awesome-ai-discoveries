@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-17T03:18:19Z",
+  "generated_at": "2026-09-17T13:01:10Z",
   "stats": {
-    "total_discoveries": 192,
-    "total_stars": 3510406,
-    "total_stars_formatted": "3,510,406",
+    "total_discoveries": 193,
+    "total_stars": 3512615,
+    "total_stars_formatted": "3,512,615",
     "categories_count": {
       "🤖 Agents": 115,
+      "🔍 RAG & Search": 23,
       "💡 AI Tool": 27,
-      "🔍 RAG & Search": 22,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
       "🗄️ Vector DB": 1,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "TypeScript": 16,
-      "Python": 133,
+      "Python": 134,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -50,6 +50,16 @@
       "description": "The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web",
       "stars": 24311,
       "stars_formatted": "24,311"
+    },
+    {
+      "date": "2026-09-17",
+      "name": "MinishLab/model2vec",
+      "url": "https://github.com/MinishLab/model2vec",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "Fast State-of-the-Art Static Embeddings",
+      "stars": 2209,
+      "stars_formatted": "2,209"
     },
     {
       "date": "2026-09-16",

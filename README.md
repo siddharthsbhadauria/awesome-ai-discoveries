@@ -164,3 +164,4 @@ The most popular discovery lately: **[streamlit/streamlit](https://github.com/st
 | 2026-09-16 | [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | Python | 🤖 Agents | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows. | ⭐ 7,031 |
 | 2026-09-16 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | Swift | 🤖 Agents | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift | ⭐ 797 |
 | 2026-09-17 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | TypeScript | 🤖 Agents | The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web | ⭐ 24,311 |
+| 2026-09-17 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | Python | 🔍 RAG & Search | Fast State-of-the-Art Static Embeddings | ⭐ 2,209 |
