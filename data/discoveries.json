@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T13:01:10Z",
+  "generated_at": "2026-09-17T19:30:41Z",
   "stats": {
-    "total_discoveries": 193,
-    "total_stars": 3512615,
-    "total_stars_formatted": "3,512,615",
+    "total_discoveries": 194,
+    "total_stars": 3515940,
+    "total_stars_formatted": "3,515,940",
     "categories_count": {
-      "🤖 Agents": 115,
+      "🤖 Agents": 116,
       "🔍 RAG & Search": 23,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "TypeScript": 16,
-      "Python": 134,
+      "Python": 135,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -50,6 +50,16 @@
       "description": "The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web",
       "stars": 24311,
       "stars_formatted": "24,311"
+    },
+    {
+      "date": "2026-09-17",
+      "name": "NVIDIA/skills",
+      "url": "https://github.com/NVIDIA/skills",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+      "stars": 3325,
+      "stars_formatted": "3,325"
     },
     {
       "date": "2026-09-17",
