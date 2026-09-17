@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T19:21:12Z",
+  "generated_at": "2026-09-17T03:18:19Z",
   "stats": {
-    "total_discoveries": 191,
-    "total_stars": 3486095,
-    "total_stars_formatted": "3,486,095",
+    "total_discoveries": 192,
+    "total_stars": 3510406,
+    "total_stars_formatted": "3,510,406",
     "categories_count": {
+      "🤖 Agents": 115,
       "💡 AI Tool": 27,
-      "🤖 Agents": 114,
       "🔍 RAG & Search": 22,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
@@ -15,11 +15,11 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 16,
       "Python": 133,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
-      "TypeScript": 15,
       "Rust": 10,
       "C++": 4,
       "Go": 11,
@@ -41,6 +41,16 @@
     "stars_formatted": "45,727"
   },
   "discoveries": [
+    {
+      "date": "2026-09-17",
+      "name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web",
+      "stars": 24311,
+      "stars_formatted": "24,311"
+    },
     {
       "date": "2026-09-16",
       "name": "OpenMined/PySyft",
