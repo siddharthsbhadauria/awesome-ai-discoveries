@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T19:30:41Z",
+  "generated_at": "2026-09-18T03:04:34Z",
   "stats": {
-    "total_discoveries": 194,
-    "total_stars": 3515940,
-    "total_stars_formatted": "3,515,940",
+    "total_discoveries": 195,
+    "total_stars": 3568144,
+    "total_stars_formatted": "3,568,144",
     "categories_count": {
-      "🤖 Agents": 116,
+      "🤖 Agents": 117,
       "🔍 RAG & Search": 23,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 136,
       "TypeScript": 16,
-      "Python": 135,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -31,16 +31,26 @@
     }
   },
   "featured": {
-    "date": "2026-09-10",
-    "name": "streamlit/streamlit",
-    "url": "https://github.com/streamlit/streamlit",
+    "date": "2026-09-18",
+    "name": "run-llama/llama_index",
+    "url": "https://github.com/run-llama/llama_index",
     "language": "Python",
-    "category": "💡 AI Tool",
-    "description": "Streamlit — A faster way to build and share data apps.",
-    "stars": 45727,
-    "stars_formatted": "45,727"
+    "category": "🤖 Agents",
+    "description": "LlamaIndex is the document processing platform for AI",
+    "stars": 52204,
+    "stars_formatted": "52,204"
   },
   "discoveries": [
+    {
+      "date": "2026-09-18",
+      "name": "run-llama/llama_index",
+      "url": "https://github.com/run-llama/llama_index",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "LlamaIndex is the document processing platform for AI",
+      "stars": 52204,
+      "stars_formatted": "52,204"
+    },
     {
       "date": "2026-09-17",
       "name": "browserbase/stagehand",
