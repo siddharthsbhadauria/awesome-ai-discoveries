@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T12:40:15Z",
+  "generated_at": "2026-09-18T18:50:52Z",
   "stats": {
-    "total_discoveries": 196,
-    "total_stars": 3574066,
-    "total_stars_formatted": "3,574,066",
+    "total_discoveries": 197,
+    "total_stars": 3585526,
+    "total_stars_formatted": "3,585,526",
     "categories_count": {
       "🤖 Agents": 117,
-      "🔍 RAG & Search": 24,
+      "🔍 RAG & Search": 25,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Python": 136,
-      "Rust": 11,
+      "Rust": 12,
       "TypeScript": 16,
       "Swift": 1,
       "Jupyter Notebook": 4,
@@ -50,6 +50,16 @@
       "description": "LlamaIndex is the document processing platform for AI",
       "stars": 52204,
       "stars_formatted": "52,204"
+    },
+    {
+      "date": "2026-09-18",
+      "name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "language": "Rust",
+      "category": "🔍 RAG & Search",
+      "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+      "stars": 11460,
+      "stars_formatted": "11,460"
     },
     {
       "date": "2026-09-18",
