@@ -167,3 +167,4 @@ The most popular discovery lately: **[streamlit/streamlit](https://github.com/st
 | 2026-09-17 | [MinishLab/model2vec](https://github.com/MinishLab/model2vec) | Python | 🔍 RAG & Search | Fast State-of-the-Art Static Embeddings | ⭐ 2,209 |
 | 2026-09-17 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | Python | 🤖 Agents | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. | ⭐ 3,325 |
 | 2026-09-18 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | Python | 🤖 Agents | LlamaIndex is the document processing platform for AI | ⭐ 52,204 |
+| 2026-09-18 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | Rust | 🔍 RAG & Search | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. | ⭐ 5,922 |

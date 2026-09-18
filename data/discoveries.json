@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T03:04:34Z",
+  "generated_at": "2026-09-18T12:40:15Z",
   "stats": {
-    "total_discoveries": 195,
-    "total_stars": 3568144,
-    "total_stars_formatted": "3,568,144",
+    "total_discoveries": 196,
+    "total_stars": 3574066,
+    "total_stars_formatted": "3,574,066",
     "categories_count": {
       "🤖 Agents": 117,
-      "🔍 RAG & Search": 23,
+      "🔍 RAG & Search": 24,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
@@ -16,11 +16,11 @@
     },
     "languages_count": {
       "Python": 136,
+      "Rust": 11,
       "TypeScript": 16,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
-      "Rust": 10,
       "C++": 4,
       "Go": 11,
       "JavaScript": 4,
@@ -50,6 +50,16 @@
       "description": "LlamaIndex is the document processing platform for AI",
       "stars": 52204,
       "stars_formatted": "52,204"
+    },
+    {
+      "date": "2026-09-18",
+      "name": "HelixDB/helix-db",
+      "url": "https://github.com/HelixDB/helix-db",
+      "language": "Rust",
+      "category": "🔍 RAG & Search",
+      "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+      "stars": 5922,
+      "stars_formatted": "5,922"
     },
     {
       "date": "2026-09-17",
