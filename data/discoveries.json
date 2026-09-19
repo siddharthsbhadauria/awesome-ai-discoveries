@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T18:50:52Z",
+  "generated_at": "2026-09-19T03:01:06Z",
   "stats": {
-    "total_discoveries": 197,
-    "total_stars": 3585526,
-    "total_stars_formatted": "3,585,526",
+    "total_discoveries": 198,
+    "total_stars": 3593834,
+    "total_stars_formatted": "3,593,834",
     "categories_count": {
-      "🤖 Agents": 117,
+      "🤖 Agents": 118,
       "🔍 RAG & Search": 25,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 13,
       "Python": 136,
-      "Rust": 12,
       "TypeScript": 16,
       "Swift": 1,
       "Jupyter Notebook": 4,
@@ -41,6 +41,16 @@
     "stars_formatted": "52,204"
   },
   "discoveries": [
+    {
+      "date": "2026-09-19",
+      "name": "deeplethe/utopia",
+      "url": "https://github.com/deeplethe/utopia",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "World's first open-source enterprise world model.",
+      "stars": 8308,
+      "stars_formatted": "8,308"
+    },
     {
       "date": "2026-09-18",
       "name": "run-llama/llama_index",
