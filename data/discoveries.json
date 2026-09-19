@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-19T03:01:06Z",
+  "generated_at": "2026-09-19T12:17:19Z",
   "stats": {
-    "total_discoveries": 198,
-    "total_stars": 3593834,
-    "total_stars_formatted": "3,593,834",
+    "total_discoveries": 199,
+    "total_stars": 3597933,
+    "total_stars_formatted": "3,597,933",
     "categories_count": {
-      "🤖 Agents": 118,
+      "🤖 Agents": 119,
       "🔍 RAG & Search": 25,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Rust": 13,
-      "Python": 136,
+      "Python": 137,
       "TypeScript": 16,
       "Swift": 1,
       "Jupyter Notebook": 4,
@@ -50,6 +50,16 @@
       "description": "World's first open-source enterprise world model.",
       "stars": 8308,
       "stars_formatted": "8,308"
+    },
+    {
+      "date": "2026-09-19",
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 4099,
+      "stars_formatted": "4,099"
     },
     {
       "date": "2026-09-18",

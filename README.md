@@ -170,3 +170,4 @@ The most popular discovery lately: **[streamlit/streamlit](https://github.com/st
 | 2026-09-18 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | Rust | 🔍 RAG & Search | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. | ⭐ 5,922 |
 | 2026-09-18 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | Rust | 🔍 RAG & Search | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. | ⭐ 11,460 |
 | 2026-09-19 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust | 🤖 Agents | World's first open-source enterprise world model. | ⭐ 8,308 |
+| 2026-09-19 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | 🤖 Agents | A smarter, self-hosted AI assistant — multi-user, multi-agent. | ⭐ 4,099 |
