@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[streamlit/streamlit](https://github.com/streamlit/streamlit)**
+The most popular discovery lately: **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)**
 <!-- FEATURED_END -->
 
 ---
@@ -172,3 +172,4 @@ The most popular discovery lately: **[streamlit/streamlit](https://github.com/st
 | 2026-09-19 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | Rust | 🤖 Agents | World's first open-source enterprise world model. | ⭐ 8,308 |
 | 2026-09-19 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | 🤖 Agents | A smarter, self-hosted AI assistant — multi-user, multi-agent. | ⭐ 4,099 |
 | 2026-09-19 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 🤖 Agents | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | ⭐ 79,905 |
+| 2026-09-20 | [databendlabs/databend](https://github.com/databendlabs/databend) | Rust | 🤖 Agents | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3. | ⭐ 9,444 |

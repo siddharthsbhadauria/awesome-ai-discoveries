@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-19T18:23:42Z",
+  "generated_at": "2026-09-20T03:16:43Z",
   "stats": {
-    "total_discoveries": 200,
-    "total_stars": 3677838,
-    "total_stars_formatted": "3,677,838",
+    "total_discoveries": 201,
+    "total_stars": 3687282,
+    "total_stars_formatted": "3,687,282",
     "categories_count": {
-      "🤖 Agents": 120,
+      "🤖 Agents": 121,
       "🔍 RAG & Search": 25,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 14,
       "Python": 138,
-      "Rust": 13,
       "TypeScript": 16,
       "Swift": 1,
       "Jupyter Notebook": 4,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-20",
+      "name": "databendlabs/databend",
+      "url": "https://github.com/databendlabs/databend",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
+      "stars": 9444,
+      "stars_formatted": "9,444"
+    },
     {
       "date": "2026-09-19",
       "name": "datawhalechina/hello-agents",
