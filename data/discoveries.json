@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T12:50:19Z",
+  "generated_at": "2026-09-20T18:27:46Z",
   "stats": {
-    "total_discoveries": 202,
-    "total_stars": 3687813,
-    "total_stars_formatted": "3,687,813",
+    "total_discoveries": 203,
+    "total_stars": 3691127,
+    "total_stars_formatted": "3,691,127",
     "categories_count": {
       "🤖 Agents": 122,
-      "🔍 RAG & Search": 25,
+      "🔍 RAG & Search": 26,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🧠 LLM & Frameworks": 13,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Rust": 14,
-      "TypeScript": 17,
+      "TypeScript": 18,
       "Python": 138,
       "Swift": 1,
       "Jupyter Notebook": 4,
@@ -50,6 +50,16 @@
       "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
       "stars": 9444,
       "stars_formatted": "9,444"
+    },
+    {
+      "date": "2026-09-20",
+      "name": "giancarloerra/SocratiCode",
+      "url": "https://github.com/giancarloerra/SocratiCode",
+      "language": "TypeScript",
+      "category": "🔍 RAG & Search",
+      "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in beta.",
+      "stars": 3314,
+      "stars_formatted": "3,314"
     },
     {
       "date": "2026-09-20",
