@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T03:16:43Z",
+  "generated_at": "2026-09-20T12:50:19Z",
   "stats": {
-    "total_discoveries": 201,
-    "total_stars": 3687282,
-    "total_stars_formatted": "3,687,282",
+    "total_discoveries": 202,
+    "total_stars": 3687813,
+    "total_stars_formatted": "3,687,813",
     "categories_count": {
-      "🤖 Agents": 121,
+      "🤖 Agents": 122,
       "🔍 RAG & Search": 25,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Rust": 14,
+      "TypeScript": 17,
       "Python": 138,
-      "TypeScript": 16,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -50,6 +50,16 @@
       "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
       "stars": 9444,
       "stars_formatted": "9,444"
+    },
+    {
+      "date": "2026-09-20",
+      "name": "QuintinShaw/pi-dynamic-workflows",
+      "url": "https://github.com/QuintinShaw/pi-dynamic-workflows",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standing opt-in, and deep research.",
+      "stars": 531,
+      "stars_formatted": "531"
     },
     {
       "date": "2026-09-19",
