@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-21T14:49:11Z",
+  "generated_at": "2026-09-21T20:15:11Z",
   "stats": {
-    "total_discoveries": 205,
-    "total_stars": 3700002,
-    "total_stars_formatted": "3,700,002",
+    "total_discoveries": 206,
+    "total_stars": 3703548,
+    "total_stars_formatted": "3,703,548",
     "categories_count": {
       "🔍 RAG & Search": 27,
+      "🧠 LLM & Frameworks": 14,
       "🤖 Agents": 123,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
-      "🧠 LLM & Frameworks": 13,
       "🗄️ Vector DB": 1,
       "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
       "C++": 5,
+      "Python": 139,
       "TypeScript": 19,
       "Rust": 14,
-      "Python": 138,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -50,6 +50,16 @@
       "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
       "stars": 8251,
       "stars_formatted": "8,251"
+    },
+    {
+      "date": "2026-09-21",
+      "name": "NVIDIA/TransformerEngine",
+      "url": "https://github.com/NVIDIA/TransformerEngine",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+      "stars": 3546,
+      "stars_formatted": "3,546"
     },
     {
       "date": "2026-09-21",
