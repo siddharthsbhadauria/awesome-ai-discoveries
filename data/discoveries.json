@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T03:11:25Z",
+  "generated_at": "2026-09-22T13:03:25Z",
   "stats": {
-    "total_discoveries": 207,
-    "total_stars": 3719536,
-    "total_stars_formatted": "3,719,536",
+    "total_discoveries": 208,
+    "total_stars": 3721740,
+    "total_stars_formatted": "3,721,740",
     "categories_count": {
       "🤖 Agents": 124,
+      "🧠 LLM & Frameworks": 15,
       "🔍 RAG & Search": 27,
-      "🧠 LLM & Frameworks": 14,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🗄️ Vector DB": 1,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "C++": 6,
-      "Python": 139,
+      "Python": 140,
       "TypeScript": 19,
       "Rust": 14,
       "Swift": 1,
@@ -50,6 +50,16 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "stars": 15988,
       "stars_formatted": "15,988"
+    },
+    {
+      "date": "2026-09-22",
+      "name": "mozilla-ai/any-llm",
+      "url": "https://github.com/mozilla-ai/any-llm",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "Communicate with an LLM provider using a single interface",
+      "stars": 2204,
+      "stars_formatted": "2,204"
     },
     {
       "date": "2026-09-21",
