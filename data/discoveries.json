@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-22T13:03:25Z",
+  "generated_at": "2026-09-22T19:32:55Z",
   "stats": {
-    "total_discoveries": 208,
-    "total_stars": 3721740,
-    "total_stars_formatted": "3,721,740",
+    "total_discoveries": 209,
+    "total_stars": 3723468,
+    "total_stars_formatted": "3,723,468",
     "categories_count": {
       "🤖 Agents": 124,
       "🧠 LLM & Frameworks": 15,
+      "🔌 MCP & Tools": 6,
       "🔍 RAG & Search": 27,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🗄️ Vector DB": 1,
-      "🔌 MCP & Tools": 5,
       "⚡ Observability": 1
     },
     "languages_count": {
       "C++": 6,
       "Python": 140,
+      "Rust": 15,
       "TypeScript": 19,
-      "Rust": 14,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -60,6 +60,16 @@
       "description": "Communicate with an LLM provider using a single interface",
       "stars": 2204,
       "stars_formatted": "2,204"
+    },
+    {
+      "date": "2026-09-22",
+      "name": "pawurb/hotpath-rs",
+      "url": "https://github.com/pawurb/hotpath-rs",
+      "language": "Rust",
+      "category": "🔌 MCP & Tools",
+      "description": "Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.",
+      "stars": 1728,
+      "stars_formatted": "1,728"
     },
     {
       "date": "2026-09-21",
