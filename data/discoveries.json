@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T20:15:11Z",
+  "generated_at": "2026-09-22T03:11:25Z",
   "stats": {
-    "total_discoveries": 206,
-    "total_stars": 3703548,
-    "total_stars_formatted": "3,703,548",
+    "total_discoveries": 207,
+    "total_stars": 3719536,
+    "total_stars_formatted": "3,719,536",
     "categories_count": {
+      "🤖 Agents": 124,
       "🔍 RAG & Search": 27,
       "🧠 LLM & Frameworks": 14,
-      "🤖 Agents": 123,
       "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🗄️ Vector DB": 1,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "C++": 5,
+      "C++": 6,
       "Python": 139,
       "TypeScript": 19,
       "Rust": 14,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-22",
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "language": "C++",
+      "category": "🤖 Agents",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 15988,
+      "stars_formatted": "15,988"
+    },
     {
       "date": "2026-09-21",
       "name": "MariaDB/server",
