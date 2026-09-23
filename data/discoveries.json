@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T13:19:43Z",
+  "generated_at": "2026-09-23T19:25:31Z",
   "stats": {
-    "total_discoveries": 211,
-    "total_stars": 3728660,
-    "total_stars_formatted": "3,728,660",
+    "total_discoveries": 212,
+    "total_stars": 3728962,
+    "total_stars_formatted": "3,728,962",
     "categories_count": {
       "💡 AI Tool": 28,
-      "🤖 Agents": 125,
+      "🤖 Agents": 126,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
       "🔍 RAG & Search": 27,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 142,
+      "Python": 143,
       "C++": 6,
       "Rust": 15,
       "TypeScript": 19,
@@ -60,6 +60,16 @@
       "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
       "stars": 582,
       "stars_formatted": "582"
+    },
+    {
+      "date": "2026-09-23",
+      "name": "rossoctl/rossoctl",
+      "url": "https://github.com/rossoctl/rossoctl",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Main rossoctl repo - installer, UI and docs",
+      "stars": 302,
+      "stars_formatted": "302"
     },
     {
       "date": "2026-09-22",

@@ -183,3 +183,4 @@ The most popular discovery lately: **[datawhalechina/hello-agents](https://githu
 | 2026-09-22 | [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) | Rust | 🔌 MCP & Tools | Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support. | ⭐ 1,728 |
 | 2026-09-23 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | Python | 🤖 Agents | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval. | ⭐ 582 |
 | 2026-09-23 | [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) | Python | 💡 AI Tool | 🤗 AutoTrain Advanced | ⭐ 4,610 |
+| 2026-09-23 | [rossoctl/rossoctl](https://github.com/rossoctl/rossoctl) | Python | 🤖 Agents | Main rossoctl repo - installer, UI and docs | ⭐ 302 |
