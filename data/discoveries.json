@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-23T03:11:33Z",
+  "generated_at": "2026-09-23T13:19:43Z",
   "stats": {
-    "total_discoveries": 210,
-    "total_stars": 3724050,
-    "total_stars_formatted": "3,724,050",
+    "total_discoveries": 211,
+    "total_stars": 3728660,
+    "total_stars_formatted": "3,728,660",
     "categories_count": {
+      "💡 AI Tool": 28,
       "🤖 Agents": 125,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
       "🔍 RAG & Search": 27,
-      "💡 AI Tool": 27,
       "🎨 Multimodal": 8,
       "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 141,
+      "Python": 142,
       "C++": 6,
       "Rust": 15,
       "TypeScript": 19,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-23",
+      "name": "huggingface/autotrain-advanced",
+      "url": "https://github.com/huggingface/autotrain-advanced",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "🤗 AutoTrain Advanced",
+      "stars": 4610,
+      "stars_formatted": "4,610"
+    },
     {
       "date": "2026-09-23",
       "name": "MaxFreedomPollard/Compartment",
