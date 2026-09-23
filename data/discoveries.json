@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T19:32:55Z",
+  "generated_at": "2026-09-23T03:11:33Z",
   "stats": {
-    "total_discoveries": 209,
-    "total_stars": 3723468,
-    "total_stars_formatted": "3,723,468",
+    "total_discoveries": 210,
+    "total_stars": 3724050,
+    "total_stars_formatted": "3,724,050",
     "categories_count": {
-      "🤖 Agents": 124,
+      "🤖 Agents": 125,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
       "🔍 RAG & Search": 27,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 141,
       "C++": 6,
-      "Python": 140,
       "Rust": 15,
       "TypeScript": 19,
       "Swift": 1,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-23",
+      "name": "MaxFreedomPollard/Compartment",
+      "url": "https://github.com/MaxFreedomPollard/Compartment",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
+      "stars": 582,
+      "stars_formatted": "582"
+    },
     {
       "date": "2026-09-22",
       "name": "alibaba/zvec",

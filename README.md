@@ -181,3 +181,4 @@ The most popular discovery lately: **[datawhalechina/hello-agents](https://githu
 | 2026-09-22 | [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | 🤖 Agents | A lightweight, lightning-fast, in-process vector database | ⭐ 15,988 |
 | 2026-09-22 | [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) | Python | 🧠 LLM & Frameworks | Communicate with an LLM provider using a single interface | ⭐ 2,204 |
 | 2026-09-22 | [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) | Rust | 🔌 MCP & Tools | Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support. | ⭐ 1,728 |
+| 2026-09-23 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | Python | 🤖 Agents | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval. | ⭐ 582 |
