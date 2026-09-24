@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T03:02:07Z",
+  "generated_at": "2026-09-24T13:09:11Z",
   "stats": {
-    "total_discoveries": 213,
-    "total_stars": 3729868,
-    "total_stars_formatted": "3,729,868",
+    "total_discoveries": 214,
+    "total_stars": 3730306,
+    "total_stars_formatted": "3,730,306",
     "categories_count": {
       "🔍 RAG & Search": 28,
+      "🤖 Agents": 127,
       "💡 AI Tool": 28,
-      "🤖 Agents": 126,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
       "🎨 Multimodal": 8,
@@ -16,9 +16,9 @@
     },
     "languages_count": {
       "Python": 144,
+      "TypeScript": 20,
       "C++": 6,
       "Rust": 15,
-      "TypeScript": 19,
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -50,6 +50,16 @@
       "description": "ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector",
       "stars": 906,
       "stars_formatted": "906"
+    },
+    {
+      "date": "2026-09-24",
+      "name": "Kevin-Liu-01/Claude-of-Tanks",
+      "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+      "stars": 438,
+      "stars_formatted": "438"
     },
     {
       "date": "2026-09-23",
