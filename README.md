@@ -184,3 +184,4 @@ The most popular discovery lately: **[datawhalechina/hello-agents](https://githu
 | 2026-09-23 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | Python | 🤖 Agents | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval. | ⭐ 582 |
 | 2026-09-23 | [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) | Python | 💡 AI Tool | 🤗 AutoTrain Advanced | ⭐ 4,610 |
 | 2026-09-23 | [rossoctl/rossoctl](https://github.com/rossoctl/rossoctl) | Python | 🤖 Agents | Main rossoctl repo - installer, UI and docs | ⭐ 302 |
+| 2026-09-24 | [LibreChat-AI/rag-api](https://github.com/LibreChat-AI/rag-api) | Python | 🔍 RAG & Search | ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector | ⭐ 906 |

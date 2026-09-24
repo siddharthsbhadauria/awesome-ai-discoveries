@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-23T19:25:31Z",
+  "generated_at": "2026-09-24T03:02:07Z",
   "stats": {
-    "total_discoveries": 212,
-    "total_stars": 3728962,
-    "total_stars_formatted": "3,728,962",
+    "total_discoveries": 213,
+    "total_stars": 3729868,
+    "total_stars_formatted": "3,729,868",
     "categories_count": {
+      "🔍 RAG & Search": 28,
       "💡 AI Tool": 28,
       "🤖 Agents": 126,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
-      "🔍 RAG & Search": 27,
       "🎨 Multimodal": 8,
       "🗄️ Vector DB": 1,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 143,
+      "Python": 144,
       "C++": 6,
       "Rust": 15,
       "TypeScript": 19,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-24",
+      "name": "LibreChat-AI/rag-api",
+      "url": "https://github.com/LibreChat-AI/rag-api",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector",
+      "stars": 906,
+      "stars_formatted": "906"
+    },
     {
       "date": "2026-09-23",
       "name": "huggingface/autotrain-advanced",
