@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T13:09:11Z",
+  "generated_at": "2026-09-24T19:46:29Z",
   "stats": {
-    "total_discoveries": 214,
-    "total_stars": 3730306,
-    "total_stars_formatted": "3,730,306",
+    "total_discoveries": 215,
+    "total_stars": 3735084,
+    "total_stars_formatted": "3,735,084",
     "categories_count": {
+      "🤖 Agents": 128,
       "🔍 RAG & Search": 28,
-      "🤖 Agents": 127,
       "💡 AI Tool": 28,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 144,
+      "Python": 145,
       "TypeScript": 20,
       "C++": 6,
       "Rust": 15,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-24",
+      "name": "alvinreal/awesome-opensource-ai",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+      "stars": 4778,
+      "stars_formatted": "4,778"
+    },
     {
       "date": "2026-09-24",
       "name": "LibreChat-AI/rag-api",
