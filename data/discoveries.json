@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T19:46:29Z",
+  "generated_at": "2026-09-25T03:19:20Z",
   "stats": {
-    "total_discoveries": 215,
-    "total_stars": 3735084,
-    "total_stars_formatted": "3,735,084",
+    "total_discoveries": 216,
+    "total_stars": 3735802,
+    "total_stars_formatted": "3,735,802",
     "categories_count": {
-      "🤖 Agents": 128,
+      "🤖 Agents": 129,
       "🔍 RAG & Search": 28,
       "💡 AI Tool": 28,
       "🧠 LLM & Frameworks": 15,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 12,
       "Python": 145,
       "TypeScript": 20,
       "C++": 6,
@@ -22,7 +23,6 @@
       "Swift": 1,
       "Jupyter Notebook": 4,
       "Ruby": 2,
-      "Go": 11,
       "JavaScript": 4,
       "Java": 4,
       "Lean": 1,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-25",
+      "name": "Gnosil/semantix",
+      "url": "https://github.com/Gnosil/semantix",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "semantic agent kernel which make agent efficient and self-evolve",
+      "stars": 718,
+      "stars_formatted": "718"
+    },
     {
       "date": "2026-09-24",
       "name": "alvinreal/awesome-opensource-ai",
