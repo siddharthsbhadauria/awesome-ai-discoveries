@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T13:13:44Z",
+  "generated_at": "2026-09-25T19:47:59Z",
   "stats": {
-    "total_discoveries": 217,
-    "total_stars": 3737041,
-    "total_stars_formatted": "3,737,041",
+    "total_discoveries": 218,
+    "total_stars": 3756542,
+    "total_stars_formatted": "3,756,542",
     "categories_count": {
+      "🤖 Agents": 130,
       "💡 AI Tool": 29,
-      "🤖 Agents": 129,
       "🔍 RAG & Search": 28,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 21,
       "Python": 146,
       "Go": 12,
-      "TypeScript": 20,
       "C++": 6,
       "Rust": 15,
       "Swift": 1,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-25",
+      "name": "elizaOS/eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Open source agentic operating system",
+      "stars": 19501,
+      "stars_formatted": "19,501"
+    },
     {
       "date": "2026-09-25",
       "name": "ml-tooling/best-of-jupyter",
