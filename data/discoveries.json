@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-25T03:19:20Z",
+  "generated_at": "2026-09-25T13:13:44Z",
   "stats": {
-    "total_discoveries": 216,
-    "total_stars": 3735802,
-    "total_stars_formatted": "3,735,802",
+    "total_discoveries": 217,
+    "total_stars": 3737041,
+    "total_stars_formatted": "3,737,041",
     "categories_count": {
+      "💡 AI Tool": 29,
       "🤖 Agents": 129,
       "🔍 RAG & Search": 28,
-      "💡 AI Tool": 28,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
       "🎨 Multimodal": 8,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 146,
       "Go": 12,
-      "Python": 145,
       "TypeScript": 20,
       "C++": 6,
       "Rust": 15,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-25",
+      "name": "ml-tooling/best-of-jupyter",
+      "url": "https://github.com/ml-tooling/best-of-jupyter",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.",
+      "stars": 1239,
+      "stars_formatted": "1,239"
+    },
     {
       "date": "2026-09-25",
       "name": "Gnosil/semantix",
