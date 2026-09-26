@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T19:47:59Z",
+  "generated_at": "2026-09-26T03:23:47Z",
   "stats": {
-    "total_discoveries": 218,
-    "total_stars": 3756542,
-    "total_stars_formatted": "3,756,542",
+    "total_discoveries": 219,
+    "total_stars": 3786256,
+    "total_stars_formatted": "3,786,256",
     "categories_count": {
-      "🤖 Agents": 130,
+      "🤖 Agents": 131,
       "💡 AI Tool": 29,
       "🔍 RAG & Search": 28,
       "🧠 LLM & Frameworks": 15,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 21,
+      "TypeScript": 22,
       "Python": 146,
       "Go": 12,
       "C++": 6,
@@ -41,6 +41,16 @@
     "stars_formatted": "79,905"
   },
   "discoveries": [
+    {
+      "date": "2026-09-26",
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "stars": 29714,
+      "stars_formatted": "29,714"
+    },
     {
       "date": "2026-09-25",
       "name": "elizaOS/eliza",
