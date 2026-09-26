@@ -191,3 +191,4 @@ The most popular discovery lately: **[datawhalechina/hello-agents](https://githu
 | 2026-09-25 | [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) | Python | 💡 AI Tool | 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly. | ⭐ 1,239 |
 | 2026-09-25 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | TypeScript | 🤖 Agents | Open source agentic operating system | ⭐ 19,501 |
 | 2026-09-26 | [simstudioai/sim](https://github.com/simstudioai/sim) | TypeScript | 🤖 Agents | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. | ⭐ 29,714 |
+| 2026-09-26 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | Swift | 🤖 Agents | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. | ⭐ 937 |
