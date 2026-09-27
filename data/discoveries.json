@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-27T13:30:25Z",
+  "generated_at": "2026-09-27T19:30:23Z",
   "stats": {
-    "total_discoveries": 223,
-    "total_stars": 3840784,
-    "total_stars_formatted": "3,840,784",
+    "total_discoveries": 224,
+    "total_stars": 3842823,
+    "total_stars_formatted": "3,842,823",
     "categories_count": {
       "🗄️ Vector DB": 2,
+      "🔍 RAG & Search": 29,
       "🤖 Agents": 134,
       "💡 AI Tool": 29,
-      "🔍 RAG & Search": 28,
       "🧠 LLM & Frameworks": 15,
       "🔌 MCP & Tools": 6,
       "🎨 Multimodal": 8,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Rust": 16,
+      "Python": 148,
       "TypeScript": 23,
-      "Python": 147,
       "Swift": 2,
       "Go": 12,
       "C++": 6,
@@ -50,6 +50,16 @@
       "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",
       "stars": 6243,
       "stars_formatted": "6,243"
+    },
+    {
+      "date": "2026-09-27",
+      "name": "pykeen/pykeen",
+      "url": "https://github.com/pykeen/pykeen",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "🤖 A Python library for learning and evaluating knowledge graph embeddings",
+      "stars": 2039,
+      "stars_formatted": "2,039"
     },
     {
       "date": "2026-09-27",
