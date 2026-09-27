@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)**
+The most popular discovery lately: **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)**
 <!-- FEATURED_END -->
 
 ---
@@ -193,3 +193,4 @@ The most popular discovery lately: **[datawhalechina/hello-agents](https://githu
 | 2026-09-26 | [simstudioai/sim](https://github.com/simstudioai/sim) | TypeScript | 🤖 Agents | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. | ⭐ 29,714 |
 | 2026-09-26 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | Swift | 🤖 Agents | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. | ⭐ 937 |
 | 2026-09-26 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | 🤖 Agents | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. | ⭐ 46,950 |
+| 2026-09-27 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | Rust | 🗄️ Vector DB | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations. | ⭐ 6,243 |
