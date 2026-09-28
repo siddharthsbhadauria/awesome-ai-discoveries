@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-28T03:30:25Z",
+  "generated_at": "2026-09-28T16:25:18Z",
   "stats": {
-    "total_discoveries": 225,
-    "total_stars": 3845038,
-    "total_stars_formatted": "3,845,038",
+    "total_discoveries": 226,
+    "total_stars": 3848457,
+    "total_stars_formatted": "3,848,457",
     "categories_count": {
+      "🤖 Agents": 135,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "🔍 RAG & Search": 29,
-      "🤖 Agents": 134,
       "💡 AI Tool": 29,
       "🧠 LLM & Frameworks": 15,
       "🎨 Multimodal": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 149,
       "TypeScript": 24,
       "Rust": 16,
-      "Python": 148,
       "Swift": 2,
       "Go": 12,
       "C++": 6,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-09-28",
+      "name": "i-am-bee/beeai-framework",
+      "url": "https://github.com/i-am-bee/beeai-framework",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Build production-ready AI agents in both Python and Typescript.",
+      "stars": 3419,
+      "stars_formatted": "3,419"
+    },
     {
       "date": "2026-09-28",
       "name": "chrisryugj/kordoc",
