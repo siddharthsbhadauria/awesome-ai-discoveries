@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-27T19:30:23Z",
+  "generated_at": "2026-09-28T03:30:25Z",
   "stats": {
-    "total_discoveries": 224,
-    "total_stars": 3842823,
-    "total_stars_formatted": "3,842,823",
+    "total_discoveries": 225,
+    "total_stars": 3845038,
+    "total_stars_formatted": "3,845,038",
     "categories_count": {
+      "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "🔍 RAG & Search": 29,
       "🤖 Agents": 134,
       "💡 AI Tool": 29,
       "🧠 LLM & Frameworks": 15,
-      "🔌 MCP & Tools": 6,
       "🎨 Multimodal": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 24,
       "Rust": 16,
       "Python": 148,
-      "TypeScript": 23,
       "Swift": 2,
       "Go": 12,
       "C++": 6,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-09-28",
+      "name": "chrisryugj/kordoc",
+      "url": "https://github.com/chrisryugj/kordoc",
+      "language": "TypeScript",
+      "category": "🔌 MCP & Tools",
+      "description": "모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 - Convert Korean documents (HWP, HWPX, PDF, Office) to Markdown — CLI and MCP server with form filling and diff",
+      "stars": 2215,
+      "stars_formatted": "2,215"
+    },
     {
       "date": "2026-09-27",
       "name": "RediSearch/RediSearch",
