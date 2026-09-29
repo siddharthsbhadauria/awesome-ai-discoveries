@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T14:35:20Z",
+  "generated_at": "2026-09-29T20:25:40Z",
   "stats": {
-    "total_discoveries": 228,
-    "total_stars": 3891558,
-    "total_stars_formatted": "3,891,558",
+    "total_discoveries": 229,
+    "total_stars": 3893936,
+    "total_stars_formatted": "3,893,936",
     "categories_count": {
-      "🤖 Agents": 136,
+      "🤖 Agents": 137,
       "🔍 RAG & Search": 30,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 150,
+      "Python": 151,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -50,6 +50,16 @@
       "description": "Hindsight: Agent Memory That Learns",
       "stars": 42212,
       "stars_formatted": "42,212"
+    },
+    {
+      "date": "2026-09-29",
+      "name": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "stars": 2378,
+      "stars_formatted": "2,378"
     },
     {
       "date": "2026-09-29",
