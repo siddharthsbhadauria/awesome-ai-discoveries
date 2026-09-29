@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T04:05:48Z",
+  "generated_at": "2026-09-29T14:35:20Z",
   "stats": {
-    "total_discoveries": 227,
-    "total_stars": 3849346,
-    "total_stars_formatted": "3,849,346",
+    "total_discoveries": 228,
+    "total_stars": 3891558,
+    "total_stars_formatted": "3,891,558",
     "categories_count": {
+      "🤖 Agents": 136,
       "🔍 RAG & Search": 30,
-      "🤖 Agents": 135,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 150,
       "Go": 13,
-      "Python": 149,
       "TypeScript": 24,
       "Rust": 16,
       "Swift": 2,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-09-29",
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 42212,
+      "stars_formatted": "42,212"
+    },
     {
       "date": "2026-09-29",
       "name": "orneryd/NornicDB",
