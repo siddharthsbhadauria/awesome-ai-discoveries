@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-28T16:25:18Z",
+  "generated_at": "2026-09-29T04:05:48Z",
   "stats": {
-    "total_discoveries": 226,
-    "total_stars": 3848457,
-    "total_stars_formatted": "3,848,457",
+    "total_discoveries": 227,
+    "total_stars": 3849346,
+    "total_stars_formatted": "3,849,346",
     "categories_count": {
+      "🔍 RAG & Search": 30,
       "🤖 Agents": 135,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
-      "🔍 RAG & Search": 29,
       "💡 AI Tool": 29,
       "🧠 LLM & Frameworks": 15,
       "🎨 Multimodal": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 13,
       "Python": 149,
       "TypeScript": 24,
       "Rust": 16,
       "Swift": 2,
-      "Go": 12,
       "C++": 6,
       "Jupyter Notebook": 4,
       "Ruby": 2,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-09-29",
+      "name": "orneryd/NornicDB",
+      "url": "https://github.com/orneryd/NornicDB",
+      "language": "Go",
+      "category": "🔍 RAG & Search",
+      "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server.",
+      "stars": 889,
+      "stars_formatted": "889"
+    },
     {
       "date": "2026-09-28",
       "name": "i-am-bee/beeai-framework",
