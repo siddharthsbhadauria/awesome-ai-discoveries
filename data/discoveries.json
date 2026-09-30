@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T20:25:40Z",
+  "generated_at": "2026-09-30T03:52:23Z",
   "stats": {
-    "total_discoveries": 229,
-    "total_stars": 3893936,
-    "total_stars_formatted": "3,893,936",
+    "total_discoveries": 230,
+    "total_stars": 3897430,
+    "total_stars_formatted": "3,897,430",
     "categories_count": {
+      "🔍 RAG & Search": 31,
       "🤖 Agents": 137,
-      "🔍 RAG & Search": 30,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 151,
+      "Python": 152,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-09-30",
+      "name": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stars": 3494,
+      "stars_formatted": "3,494"
+    },
     {
       "date": "2026-09-29",
       "name": "vectorize-io/hindsight",
