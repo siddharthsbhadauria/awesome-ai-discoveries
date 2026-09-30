@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T14:35:24Z",
+  "generated_at": "2026-09-30T20:30:38Z",
   "stats": {
-    "total_discoveries": 231,
-    "total_stars": 3910785,
-    "total_stars_formatted": "3,910,785",
+    "total_discoveries": 232,
+    "total_stars": 3914157,
+    "total_stars_formatted": "3,914,157",
     "categories_count": {
-      "🤖 Agents": 138,
+      "🤖 Agents": 139,
       "🔍 RAG & Search": 31,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 153,
+      "Python": 154,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -60,6 +60,16 @@
       "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
       "stars": 3494,
       "stars_formatted": "3,494"
+    },
+    {
+      "date": "2026-09-30",
+      "name": "whiteguo233/OpenBiliClaw",
+      "url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） - Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
+      "stars": 3372,
+      "stars_formatted": "3,372"
     },
     {
       "date": "2026-09-29",
