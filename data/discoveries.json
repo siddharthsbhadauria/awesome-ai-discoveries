@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T03:52:23Z",
+  "generated_at": "2026-09-30T14:35:24Z",
   "stats": {
-    "total_discoveries": 230,
-    "total_stars": 3897430,
-    "total_stars_formatted": "3,897,430",
+    "total_discoveries": 231,
+    "total_stars": 3910785,
+    "total_stars_formatted": "3,910,785",
     "categories_count": {
+      "🤖 Agents": 138,
       "🔍 RAG & Search": 31,
-      "🤖 Agents": 137,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 152,
+      "Python": 153,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-09-30",
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Build voice agents with open-source models",
+      "stars": 13355,
+      "stars_formatted": "13,355"
+    },
     {
       "date": "2026-09-30",
       "name": "modelscope/evalscope",
