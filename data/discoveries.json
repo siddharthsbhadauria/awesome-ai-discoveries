@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T20:30:38Z",
+  "generated_at": "2026-10-01T04:00:46Z",
   "stats": {
-    "total_discoveries": 232,
-    "total_stars": 3914157,
-    "total_stars_formatted": "3,914,157",
+    "total_discoveries": 233,
+    "total_stars": 3944040,
+    "total_stars_formatted": "3,944,040",
     "categories_count": {
-      "🤖 Agents": 139,
+      "🤖 Agents": 140,
       "🔍 RAG & Search": 31,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 154,
+      "Python": 155,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-10-01",
+      "name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "The batteries-included agent harness.",
+      "stars": 29883,
+      "stars_formatted": "29,883"
+    },
     {
       "date": "2026-09-30",
       "name": "huggingface/speech-to-speech",
