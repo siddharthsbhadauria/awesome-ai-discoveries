@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T15:03:41Z",
+  "generated_at": "2026-10-01T20:46:33Z",
   "stats": {
-    "total_discoveries": 234,
-    "total_stars": 3944902,
-    "total_stars_formatted": "3,944,902",
+    "total_discoveries": 235,
+    "total_stars": 3963198,
+    "total_stars_formatted": "3,963,198",
     "categories_count": {
-      "🤖 Agents": 141,
+      "🤖 Agents": 142,
       "🔍 RAG & Search": 31,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 156,
+      "Python": 157,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -50,6 +50,16 @@
       "description": "The batteries-included agent harness.",
       "stars": 29883,
       "stars_formatted": "29,883"
+    },
+    {
+      "date": "2026-10-01",
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 18296,
+      "stars_formatted": "18,296"
     },
     {
       "date": "2026-10-01",
