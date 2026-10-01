@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T04:00:46Z",
+  "generated_at": "2026-10-01T15:03:41Z",
   "stats": {
-    "total_discoveries": 233,
-    "total_stars": 3944040,
-    "total_stars_formatted": "3,944,040",
+    "total_discoveries": 234,
+    "total_stars": 3944902,
+    "total_stars_formatted": "3,944,902",
     "categories_count": {
-      "🤖 Agents": 140,
+      "🤖 Agents": 141,
       "🔍 RAG & Search": 31,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 155,
+      "Python": 156,
       "Go": 13,
       "TypeScript": 24,
       "Rust": 16,
@@ -50,6 +50,16 @@
       "description": "The batteries-included agent harness.",
       "stars": 29883,
       "stars_formatted": "29,883"
+    },
+    {
+      "date": "2026-10-01",
+      "name": "sirkirby/unifi-mcp",
+      "url": "https://github.com/sirkirby/unifi-mcp",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access",
+      "stars": 862,
+      "stars_formatted": "862"
     },
     {
       "date": "2026-09-30",
