@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T03:56:55Z",
+  "generated_at": "2026-10-02T14:25:24Z",
   "stats": {
-    "total_discoveries": 236,
-    "total_stars": 3972531,
-    "total_stars_formatted": "3,972,531",
+    "total_discoveries": 237,
+    "total_stars": 4112062,
+    "total_stars_formatted": "4,112,062",
     "categories_count": {
+      "🤖 Agents": 143,
       "🔍 RAG & Search": 32,
-      "🤖 Agents": 142,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Rust": 17,
+      "Rust": 18,
       "Python": 157,
       "Go": 13,
       "TypeScript": 24,
@@ -31,16 +31,26 @@
     }
   },
   "featured": {
-    "date": "2026-09-26",
-    "name": "sickn33/agentic-awesome-skills",
-    "url": "https://github.com/sickn33/agentic-awesome-skills",
-    "language": "Python",
+    "date": "2026-10-02",
+    "name": "farion1231/cc-switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "language": "Rust",
     "category": "🤖 Agents",
-    "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
-    "stars": 46950,
-    "stars_formatted": "46,950"
+    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+    "stars": 139531,
+    "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-02",
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "stars": 139531,
+      "stars_formatted": "139,531"
+    },
     {
       "date": "2026-10-02",
       "name": "paradedb/paradedb",
