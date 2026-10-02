@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T20:46:33Z",
+  "generated_at": "2026-10-02T03:56:55Z",
   "stats": {
-    "total_discoveries": 235,
-    "total_stars": 3963198,
-    "total_stars_formatted": "3,963,198",
+    "total_discoveries": 236,
+    "total_stars": 3972531,
+    "total_stars_formatted": "3,972,531",
     "categories_count": {
+      "🔍 RAG & Search": 32,
       "🤖 Agents": 142,
-      "🔍 RAG & Search": 31,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 17,
       "Python": 157,
       "Go": 13,
       "TypeScript": 24,
-      "Rust": 16,
       "Swift": 2,
       "C++": 6,
       "Jupyter Notebook": 4,
@@ -41,6 +41,16 @@
     "stars_formatted": "46,950"
   },
   "discoveries": [
+    {
+      "date": "2026-10-02",
+      "name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "language": "Rust",
+      "category": "🔍 RAG & Search",
+      "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
+      "stars": 9333,
+      "stars_formatted": "9,333"
+    },
     {
       "date": "2026-10-01",
       "name": "langchain-ai/deepagents",

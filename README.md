@@ -118,3 +118,4 @@ The most popular discovery lately: **[sickn33/agentic-awesome-skills](https://gi
 | 2026-10-01 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | 🤖 Agents | The batteries-included agent harness. | ⭐ 29,883 |
 | 2026-10-01 | [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) | Python | 🤖 Agents | MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access | ⭐ 862 |
 | 2026-10-01 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | Python | 🤖 Agents | Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents. | ⭐ 18,296 |
+| 2026-10-02 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | Rust | 🔍 RAG & Search | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension. | ⭐ 9,333 |
