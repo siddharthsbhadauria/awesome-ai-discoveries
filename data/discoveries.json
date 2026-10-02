@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T14:25:24Z",
+  "generated_at": "2026-10-02T20:19:35Z",
   "stats": {
-    "total_discoveries": 237,
-    "total_stars": 4112062,
-    "total_stars_formatted": "4,112,062",
+    "total_discoveries": 238,
+    "total_stars": 4118197,
+    "total_stars_formatted": "4,118,197",
     "categories_count": {
-      "🤖 Agents": 143,
+      "🤖 Agents": 144,
       "🔍 RAG & Search": 32,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Rust": 18,
-      "Python": 157,
+      "Python": 158,
       "Go": 13,
       "TypeScript": 24,
       "Swift": 2,
@@ -60,6 +60,16 @@
       "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
       "stars": 9333,
       "stars_formatted": "9,333"
+    },
+    {
+      "date": "2026-10-02",
+      "name": "loopx-project/loopx",
+      "url": "https://github.com/loopx-project/loopx",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+      "stars": 6135,
+      "stars_formatted": "6,135"
     },
     {
       "date": "2026-10-01",
