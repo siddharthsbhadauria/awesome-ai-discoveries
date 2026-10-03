@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-03T03:41:41Z",
+  "generated_at": "2026-10-03T13:00:50Z",
   "stats": {
-    "total_discoveries": 239,
-    "total_stars": 4122639,
-    "total_stars_formatted": "4,122,639",
+    "total_discoveries": 240,
+    "total_stars": 4128504,
+    "total_stars_formatted": "4,128,504",
     "categories_count": {
-      "🤖 Agents": 145,
+      "🤖 Agents": 146,
       "🔍 RAG & Search": 32,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Java": 5,
       "Python": 159,
       "Rust": 18,
       "Go": 13,
@@ -24,7 +25,6 @@
       "Jupyter Notebook": 4,
       "Ruby": 2,
       "JavaScript": 4,
-      "Java": 4,
       "Lean": 1,
       "HTML": 1,
       "Shell": 1
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-03",
+      "name": "agentscope-ai/agentscope-java",
+      "url": "https://github.com/agentscope-ai/agentscope-java",
+      "language": "Java",
+      "category": "🤖 Agents",
+      "description": "Build distributed, production-grade, long-running agents.",
+      "stars": 5865,
+      "stars_formatted": "5,865"
+    },
     {
       "date": "2026-10-03",
       "name": "gptme/gptme",
