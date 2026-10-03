@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T20:19:35Z",
+  "generated_at": "2026-10-03T03:41:41Z",
   "stats": {
-    "total_discoveries": 238,
-    "total_stars": 4118197,
-    "total_stars_formatted": "4,118,197",
+    "total_discoveries": 239,
+    "total_stars": 4122639,
+    "total_stars_formatted": "4,122,639",
     "categories_count": {
-      "🤖 Agents": 144,
+      "🤖 Agents": 145,
       "🔍 RAG & Search": 32,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 159,
       "Rust": 18,
-      "Python": 158,
       "Go": 13,
       "TypeScript": 24,
       "Swift": 2,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-03",
+      "name": "gptme/gptme",
+      "url": "https://github.com/gptme/gptme",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "stars": 4442,
+      "stars_formatted": "4,442"
+    },
     {
       "date": "2026-10-02",
       "name": "farion1231/cc-switch",
