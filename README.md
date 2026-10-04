@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)**
+The most popular discovery lately: **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)**
 <!-- FEATURED_END -->
 
 ---
@@ -124,3 +124,4 @@ The most popular discovery lately: **[sickn33/agentic-awesome-skills](https://gi
 | 2026-10-03 | [gptme/gptme](https://github.com/gptme/gptme) | Python | 🤖 Agents | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top! | ⭐ 4,442 |
 | 2026-10-03 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | Java | 🤖 Agents | Build distributed, production-grade, long-running agents. | ⭐ 5,865 |
 | 2026-10-03 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 🤖 Agents | Write HTML. Render video. Built for agents. | ⭐ 56,242 |
+| 2026-10-04 | [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public) | Python | 🤖 Agents | The compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence. Plain Markdown on your disk, driven by a session routine that turns today's work into what tomorrow's agent already knows. Swap models or switch IDEs on a whim. The intelligence is rented; the state belongs to you. | ⭐ 592 |
