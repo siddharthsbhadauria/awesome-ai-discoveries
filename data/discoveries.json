@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T13:39:12Z",
+  "generated_at": "2026-10-04T19:00:39Z",
   "stats": {
-    "total_discoveries": 243,
-    "total_stars": 4252045,
-    "total_stars_formatted": "4,252,045",
+    "total_discoveries": 244,
+    "total_stars": 4258103,
+    "total_stars_formatted": "4,258,103",
     "categories_count": {
-      "🤖 Agents": 149,
+      "🤖 Agents": 150,
       "🔍 RAG & Search": 32,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "JavaScript": 5,
+      "TypeScript": 26,
       "Python": 160,
-      "TypeScript": 25,
       "Java": 5,
       "Rust": 18,
       "Go": 13,
@@ -50,6 +50,16 @@
       "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
       "stars": 66707,
       "stars_formatted": "66,707"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "truefoundry/trueforge",
+      "url": "https://github.com/truefoundry/trueforge",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+      "stars": 6058,
+      "stars_formatted": "6,058"
     },
     {
       "date": "2026-10-04",
