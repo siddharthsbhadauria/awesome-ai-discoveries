@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T04:11:40Z",
+  "generated_at": "2026-10-04T13:39:12Z",
   "stats": {
-    "total_discoveries": 242,
-    "total_stars": 4185338,
-    "total_stars_formatted": "4,185,338",
+    "total_discoveries": 243,
+    "total_stars": 4252045,
+    "total_stars_formatted": "4,252,045",
     "categories_count": {
-      "🤖 Agents": 148,
+      "🤖 Agents": 149,
       "🔍 RAG & Search": 32,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "JavaScript": 5,
       "Python": 160,
       "TypeScript": 25,
       "Java": 5,
@@ -24,7 +25,6 @@
       "C++": 6,
       "Jupyter Notebook": 4,
       "Ruby": 2,
-      "JavaScript": 4,
       "Lean": 1,
       "HTML": 1,
       "Shell": 1
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-04",
+      "name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "language": "JavaScript",
+      "category": "🤖 Agents",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+      "stars": 66707,
+      "stars_formatted": "66,707"
+    },
     {
       "date": "2026-10-04",
       "name": "winstonkoh87/Athena-Public",
