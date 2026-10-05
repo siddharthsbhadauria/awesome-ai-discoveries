@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T03:55:45Z",
+  "generated_at": "2026-10-05T16:45:57Z",
   "stats": {
-    "total_discoveries": 245,
-    "total_stars": 4317592,
-    "total_stars_formatted": "4,317,592",
+    "total_discoveries": 246,
+    "total_stars": 4326060,
+    "total_stars_formatted": "4,326,060",
     "categories_count": {
       "🔍 RAG & Search": 33,
-      "🤖 Agents": 150,
+      "🤖 Agents": 151,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Rust": 19,
+      "TypeScript": 27,
       "JavaScript": 5,
-      "TypeScript": 26,
       "Python": 160,
       "Java": 5,
       "Go": 13,
@@ -50,6 +50,16 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "stars": 59489,
       "stars_formatted": "59,489"
+    },
+    {
+      "date": "2026-10-05",
+      "name": "HarnessMD/munder-difflin",
+      "url": "https://github.com/HarnessMD/munder-difflin",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions",
+      "stars": 8468,
+      "stars_formatted": "8,468"
     },
     {
       "date": "2026-10-04",
