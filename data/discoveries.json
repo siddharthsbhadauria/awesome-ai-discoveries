@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T16:45:57Z",
+  "generated_at": "2026-10-06T04:44:45Z",
   "stats": {
-    "total_discoveries": 246,
-    "total_stars": 4326060,
-    "total_stars_formatted": "4,326,060",
+    "total_discoveries": 247,
+    "total_stars": 4327570,
+    "total_stars_formatted": "4,327,570",
     "categories_count": {
+      "🤖 Agents": 152,
       "🔍 RAG & Search": 33,
-      "🤖 Agents": 151,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 161,
       "Rust": 19,
       "TypeScript": 27,
       "JavaScript": 5,
-      "Python": 160,
       "Java": 5,
       "Go": 13,
       "Swift": 2,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-06",
+      "name": "NPC-Worldwide/npcpy",
+      "url": "https://github.com/NPC-Worldwide/npcpy",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.",
+      "stars": 1510,
+      "stars_formatted": "1,510"
+    },
     {
       "date": "2026-10-05",
       "name": "meilisearch/meilisearch",
