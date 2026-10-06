@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T14:42:55Z",
+  "generated_at": "2026-10-06T20:46:23Z",
   "stats": {
-    "total_discoveries": 248,
-    "total_stars": 4328380,
-    "total_stars_formatted": "4,328,380",
+    "total_discoveries": 249,
+    "total_stars": 4329563,
+    "total_stars_formatted": "4,329,563",
     "categories_count": {
       "🤖 Agents": 153,
-      "🔍 RAG & Search": 33,
+      "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
@@ -16,10 +16,10 @@
     },
     "languages_count": {
       "Python": 161,
+      "Java": 6,
       "TypeScript": 28,
       "Rust": 19,
       "JavaScript": 5,
-      "Java": 5,
       "Go": 13,
       "Swift": 2,
       "C++": 6,
@@ -50,6 +50,16 @@
       "description": "The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.",
       "stars": 1510,
       "stars_formatted": "1,510"
+    },
+    {
+      "date": "2026-10-06",
+      "name": "ArcadeData/arcadedb",
+      "url": "https://github.com/ArcadeData/arcadedb",
+      "language": "Java",
+      "category": "🔍 RAG & Search",
+      "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.",
+      "stars": 1183,
+      "stars_formatted": "1,183"
     },
     {
       "date": "2026-10-06",
