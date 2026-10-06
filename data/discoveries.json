@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T04:44:45Z",
+  "generated_at": "2026-10-06T14:42:55Z",
   "stats": {
-    "total_discoveries": 247,
-    "total_stars": 4327570,
-    "total_stars_formatted": "4,327,570",
+    "total_discoveries": 248,
+    "total_stars": 4328380,
+    "total_stars_formatted": "4,328,380",
     "categories_count": {
-      "🤖 Agents": 152,
+      "🤖 Agents": 153,
       "🔍 RAG & Search": 33,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Python": 161,
+      "TypeScript": 28,
       "Rust": 19,
-      "TypeScript": 27,
       "JavaScript": 5,
       "Java": 5,
       "Go": 13,
@@ -50,6 +50,16 @@
       "description": "The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.",
       "stars": 1510,
       "stars_formatted": "1,510"
+    },
+    {
+      "date": "2026-10-06",
+      "name": "23blocks-OS/ai-maestro",
+      "url": "https://github.com/23blocks-OS/ai-maestro",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations",
+      "stars": 810,
+      "stars_formatted": "810"
     },
     {
       "date": "2026-10-05",
