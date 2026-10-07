@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T15:02:46Z",
+  "generated_at": "2026-10-07T20:58:36Z",
   "stats": {
-    "total_discoveries": 251,
-    "total_stars": 4393628,
-    "total_stars_formatted": "4,393,628",
+    "total_discoveries": 252,
+    "total_stars": 4394036,
+    "total_stars_formatted": "4,394,036",
     "categories_count": {
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
-      "🤖 Agents": 153,
+      "🤖 Agents": 154,
       "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Python": 163,
+      "TypeScript": 29,
       "Java": 6,
-      "TypeScript": 28,
       "Rust": 19,
       "JavaScript": 5,
       "Go": 13,
@@ -60,6 +60,16 @@
       "description": "Scalable data pre processing and curation toolkit for LLMs",
       "stars": 1798,
       "stars_formatted": "1,798"
+    },
+    {
+      "date": "2026-10-07",
+      "name": "decocms/studio",
+      "url": "https://github.com/decocms/studio",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+      "stars": 408,
+      "stars_formatted": "408"
     },
     {
       "date": "2026-10-06",
