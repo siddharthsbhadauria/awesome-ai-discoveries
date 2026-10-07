@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-07T04:10:46Z",
+  "generated_at": "2026-10-07T15:02:46Z",
   "stats": {
-    "total_discoveries": 250,
-    "total_stars": 4331361,
-    "total_stars_formatted": "4,331,361",
+    "total_discoveries": 251,
+    "total_stars": 4393628,
+    "total_stars_formatted": "4,393,628",
     "categories_count": {
+      "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🤖 Agents": 153,
       "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
       "💡 AI Tool": 29,
-      "🎨 Multimodal": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 162,
+      "Python": 163,
       "Java": 6,
       "TypeScript": 28,
       "Rust": 19,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-07",
+      "name": "ultralytics/ultralytics",
+      "url": "https://github.com/ultralytics/ultralytics",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+      "stars": 62267,
+      "stars_formatted": "62,267"
+    },
     {
       "date": "2026-10-07",
       "name": "NVIDIA-NeMo/Curator",
