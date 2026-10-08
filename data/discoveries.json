@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T15:11:07Z",
+  "generated_at": "2026-10-08T21:00:10Z",
   "stats": {
-    "total_discoveries": 254,
-    "total_stars": 4398957,
-    "total_stars_formatted": "4,398,957",
+    "total_discoveries": 255,
+    "total_stars": 4399672,
+    "total_stars_formatted": "4,399,672",
     "categories_count": {
       "💡 AI Tool": 30,
-      "🤖 Agents": 155,
+      "🤖 Agents": 156,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🔍 RAG & Search": 34,
@@ -17,8 +17,8 @@
     "languages_count": {
       "Python": 164,
       "TypeScript": 30,
+      "Rust": 20,
       "Java": 6,
-      "Rust": 19,
       "JavaScript": 5,
       "Go": 13,
       "Swift": 2,
@@ -60,6 +60,16 @@
       "description": "Multiplayer AI: Bring your team and agents together",
       "stars": 1432,
       "stars_formatted": "1,432"
+    },
+    {
+      "date": "2026-10-08",
+      "name": "peters/horizon",
+      "url": "https://github.com/peters/horizon",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "GPU-accelerated terminal board that puts all your sessions on an infinite canvas",
+      "stars": 715,
+      "stars_formatted": "715"
     },
     {
       "date": "2026-10-07",
