@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-08T04:23:03Z",
+  "generated_at": "2026-10-08T15:11:07Z",
   "stats": {
-    "total_discoveries": 253,
-    "total_stars": 4397525,
-    "total_stars_formatted": "4,397,525",
+    "total_discoveries": 254,
+    "total_stars": 4398957,
+    "total_stars_formatted": "4,398,957",
     "categories_count": {
       "💡 AI Tool": 30,
+      "🤖 Agents": 155,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
-      "🤖 Agents": 154,
       "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Python": 164,
-      "TypeScript": 29,
+      "TypeScript": 30,
       "Java": 6,
       "Rust": 19,
       "JavaScript": 5,
@@ -50,6 +50,16 @@
       "description": "PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.",
       "stars": 3489,
       "stars_formatted": "3,489"
+    },
+    {
+      "date": "2026-10-08",
+      "name": "preset-io/agor",
+      "url": "https://github.com/preset-io/agor",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Multiplayer AI: Bring your team and agents together",
+      "stars": 1432,
+      "stars_formatted": "1,432"
     },
     {
       "date": "2026-10-07",
