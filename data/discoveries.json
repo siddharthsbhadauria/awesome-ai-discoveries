@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-07T20:58:36Z",
+  "generated_at": "2026-10-08T04:23:03Z",
   "stats": {
-    "total_discoveries": 252,
-    "total_stars": 4394036,
-    "total_stars_formatted": "4,394,036",
+    "total_discoveries": 253,
+    "total_stars": 4397525,
+    "total_stars_formatted": "4,397,525",
     "categories_count": {
+      "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🤖 Agents": 154,
       "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 7,
       "🗄️ Vector DB": 2,
-      "💡 AI Tool": 29,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 163,
+      "Python": 164,
       "TypeScript": 29,
       "Java": 6,
       "Rust": 19,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-08",
+      "name": "PennyLaneAI/pennylane",
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.",
+      "stars": 3489,
+      "stars_formatted": "3,489"
+    },
     {
       "date": "2026-10-07",
       "name": "ultralytics/ultralytics",
