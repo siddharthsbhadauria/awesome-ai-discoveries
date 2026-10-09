@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T21:00:10Z",
+  "generated_at": "2026-10-09T04:27:27Z",
   "stats": {
-    "total_discoveries": 255,
-    "total_stars": 4399672,
-    "total_stars_formatted": "4,399,672",
+    "total_discoveries": 256,
+    "total_stars": 4403039,
+    "total_stars_formatted": "4,403,039",
     "categories_count": {
+      "🤖 Agents": 157,
       "💡 AI Tool": 30,
-      "🤖 Agents": 156,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🔍 RAG & Search": 34,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 164,
+      "Python": 165,
       "TypeScript": 30,
       "Rust": 20,
       "Java": 6,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-09",
+      "name": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "stars": 3367,
+      "stars_formatted": "3,367"
+    },
     {
       "date": "2026-10-08",
       "name": "PennyLaneAI/pennylane",

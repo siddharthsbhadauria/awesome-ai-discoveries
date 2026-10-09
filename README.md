@@ -138,3 +138,4 @@ The most popular discovery lately: **[farion1231/cc-switch](https://github.com/f
 | 2026-10-08 | [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) | Python | 💡 AI Tool | PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation. | ⭐ 3,489 |
 | 2026-10-08 | [preset-io/agor](https://github.com/preset-io/agor) | TypeScript | 🤖 Agents | Multiplayer AI: Bring your team and agents together | ⭐ 1,432 |
 | 2026-10-08 | [peters/horizon](https://github.com/peters/horizon) | Rust | 🤖 Agents | GPU-accelerated terminal board that puts all your sessions on an infinite canvas | ⭐ 715 |
+| 2026-10-09 | [superlinked/sie](https://github.com/superlinked/sie) | Python | 🤖 Agents | Open-source inference server and production cluster for all the models your agent needs. | ⭐ 3,367 |
