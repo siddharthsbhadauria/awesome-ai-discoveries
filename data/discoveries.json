@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-09T04:27:27Z",
+  "generated_at": "2026-10-09T14:56:36Z",
   "stats": {
-    "total_discoveries": 256,
-    "total_stars": 4403039,
-    "total_stars_formatted": "4,403,039",
+    "total_discoveries": 257,
+    "total_stars": 4407483,
+    "total_stars_formatted": "4,407,483",
     "categories_count": {
+      "🗄️ Vector DB": 3,
       "🤖 Agents": 157,
       "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 7,
-      "🗄️ Vector DB": 2,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Java": 7,
       "Python": 165,
       "TypeScript": 30,
       "Rust": 20,
-      "Java": 6,
       "JavaScript": 5,
       "Go": 13,
       "Swift": 2,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-09",
+      "name": "crate/crate",
+      "url": "https://github.com/crate/crate",
+      "language": "Java",
+      "category": "🗄️ Vector DB",
+      "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
+      "stars": 4444,
+      "stars_formatted": "4,444"
+    },
     {
       "date": "2026-10-09",
       "name": "superlinked/sie",
