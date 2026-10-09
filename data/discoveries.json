@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T14:56:36Z",
+  "generated_at": "2026-10-09T20:31:27Z",
   "stats": {
-    "total_discoveries": 257,
-    "total_stars": 4407483,
-    "total_stars_formatted": "4,407,483",
+    "total_discoveries": 258,
+    "total_stars": 4420481,
+    "total_stars_formatted": "4,420,481",
     "categories_count": {
+      "🤖 Agents": 158,
       "🗄️ Vector DB": 3,
-      "🤖 Agents": 157,
       "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
@@ -15,12 +15,12 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Go": 14,
       "Java": 7,
       "Python": 165,
       "TypeScript": 30,
       "Rust": 20,
       "JavaScript": 5,
-      "Go": 13,
       "Swift": 2,
       "C++": 6,
       "Jupyter Notebook": 4,
@@ -41,6 +41,16 @@
     "stars_formatted": "139,531"
   },
   "discoveries": [
+    {
+      "date": "2026-10-09",
+      "name": "OrchestratorInc/agent-orchestrator",
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+      "stars": 12998,
+      "stars_formatted": "12,998"
+    },
     {
       "date": "2026-10-09",
       "name": "crate/crate",
