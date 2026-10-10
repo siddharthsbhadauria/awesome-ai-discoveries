@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T04:13:05Z",
+  "generated_at": "2026-10-10T14:11:52Z",
   "stats": {
-    "total_discoveries": 259,
-    "total_stars": 4430782,
-    "total_stars_formatted": "4,430,782",
+    "total_discoveries": 260,
+    "total_stars": 4432500,
+    "total_stars_formatted": "4,432,500",
     "categories_count": {
       "🔍 RAG & Search": 35,
-      "🤖 Agents": 158,
+      "🤖 Agents": 159,
       "🗄️ Vector DB": 3,
       "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "C++": 7,
+      "PHP": 1,
       "Go": 14,
       "Java": 7,
       "Python": 165,
@@ -50,6 +51,16 @@
       "description": "OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.",
       "stars": 10301,
       "stars_formatted": "10,301"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "LLPhant/LLPhant",
+      "url": "https://github.com/LLPhant/LLPhant",
+      "language": "PHP",
+      "category": "🤖 Agents",
+      "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+      "stars": 1718,
+      "stars_formatted": "1,718"
     },
     {
       "date": "2026-10-09",
