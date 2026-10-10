@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T14:11:52Z",
+  "generated_at": "2026-10-10T19:42:58Z",
   "stats": {
-    "total_discoveries": 260,
-    "total_stars": 4432500,
-    "total_stars_formatted": "4,432,500",
+    "total_discoveries": 261,
+    "total_stars": 4433342,
+    "total_stars_formatted": "4,433,342",
     "categories_count": {
       "🔍 RAG & Search": 35,
-      "🤖 Agents": 159,
+      "🤖 Agents": 160,
       "🗄️ Vector DB": 3,
       "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
@@ -17,9 +17,9 @@
     "languages_count": {
       "C++": 7,
       "PHP": 1,
+      "Python": 166,
       "Go": 14,
       "Java": 7,
-      "Python": 165,
       "TypeScript": 30,
       "Rust": 20,
       "JavaScript": 5,
@@ -61,6 +61,16 @@
       "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
       "stars": 1718,
       "stars_formatted": "1,718"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "hashgraph-online/hol-guard",
+      "url": "https://github.com/hashgraph-online/hol-guard",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+      "stars": 842,
+      "stars_formatted": "842"
     },
     {
       "date": "2026-10-09",
