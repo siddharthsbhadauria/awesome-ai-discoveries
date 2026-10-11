@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T14:36:25Z",
+  "generated_at": "2026-10-11T19:54:04Z",
   "stats": {
-    "total_discoveries": 263,
-    "total_stars": 4508131,
-    "total_stars_formatted": "4,508,131",
+    "total_discoveries": 264,
+    "total_stars": 4508808,
+    "total_stars_formatted": "4,508,808",
     "categories_count": {
-      "🤖 Agents": 162,
+      "🤖 Agents": 163,
       "🔍 RAG & Search": 35,
       "🗄️ Vector DB": 3,
       "💡 AI Tool": 30,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 31,
+      "TypeScript": 32,
       "Python": 167,
       "C++": 7,
       "PHP": 1,
@@ -51,6 +51,16 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "stars": 74331,
       "stars_formatted": "74,331"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "framerslab/agentos",
+      "url": "https://github.com/framerslab/agentos",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+      "stars": 677,
+      "stars_formatted": "677"
     },
     {
       "date": "2026-10-11",
