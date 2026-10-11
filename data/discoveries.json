@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T19:42:58Z",
+  "generated_at": "2026-10-11T03:50:57Z",
   "stats": {
-    "total_discoveries": 261,
-    "total_stars": 4433342,
-    "total_stars_formatted": "4,433,342",
+    "total_discoveries": 262,
+    "total_stars": 4433800,
+    "total_stars_formatted": "4,433,800",
     "categories_count": {
+      "🤖 Agents": 161,
       "🔍 RAG & Search": 35,
-      "🤖 Agents": 160,
       "🗄️ Vector DB": 3,
       "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 167,
       "C++": 7,
       "PHP": 1,
-      "Python": 166,
       "Go": 14,
       "Java": 7,
       "TypeScript": 30,
@@ -42,6 +42,16 @@
     "stars_formatted": "66,707"
   },
   "discoveries": [
+    {
+      "date": "2026-10-11",
+      "name": "run-llama/llama-agents",
+      "url": "https://github.com/run-llama/llama-agents",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Llama Agents + Workflows are an event-driven, async-first, step-based way to control the execution flow of AI applications like agents.",
+      "stars": 458,
+      "stars_formatted": "458"
+    },
     {
       "date": "2026-10-10",
       "name": "oceanbase/oceanbase",

@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)**
+The most popular discovery lately: **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)**
 <!-- FEATURED_END -->
 
 ---
@@ -144,3 +144,4 @@ The most popular discovery lately: **[farion1231/cc-switch](https://github.com/f
 | 2026-10-10 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | C++ | 🔍 RAG & Search | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads. | ⭐ 10,301 |
 | 2026-10-10 | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | PHP | 🤖 Agents | LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain | ⭐ 1,718 |
 | 2026-10-10 | [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) | Python | 🤖 Agents | Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime. | ⭐ 842 |
+| 2026-10-11 | [run-llama/llama-agents](https://github.com/run-llama/llama-agents) | Python | 🤖 Agents | Llama Agents + Workflows are an event-driven, async-first, step-based way to control the execution flow of AI applications like agents. | ⭐ 458 |
