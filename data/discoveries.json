@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T03:50:57Z",
+  "generated_at": "2026-10-11T14:36:25Z",
   "stats": {
-    "total_discoveries": 262,
-    "total_stars": 4433800,
-    "total_stars_formatted": "4,433,800",
+    "total_discoveries": 263,
+    "total_stars": 4508131,
+    "total_stars_formatted": "4,508,131",
     "categories_count": {
-      "🤖 Agents": 161,
+      "🤖 Agents": 162,
       "🔍 RAG & Search": 35,
       "🗄️ Vector DB": 3,
       "💡 AI Tool": 30,
@@ -15,12 +15,12 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 31,
       "Python": 167,
       "C++": 7,
       "PHP": 1,
       "Go": 14,
       "Java": 7,
-      "TypeScript": 30,
       "Rust": 20,
       "JavaScript": 5,
       "Swift": 2,
@@ -32,16 +32,26 @@
     }
   },
   "featured": {
-    "date": "2026-10-04",
-    "name": "Mintplex-Labs/anything-llm",
-    "url": "https://github.com/Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
+    "date": "2026-10-11",
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "language": "TypeScript",
     "category": "🤖 Agents",
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "stars": 66707,
-    "stars_formatted": "66,707"
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "stars": 74331,
+    "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-11",
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 74331,
+      "stars_formatted": "74,331"
+    },
     {
       "date": "2026-10-11",
       "name": "run-llama/llama-agents",
