@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-11T19:54:04Z",
+  "generated_at": "2026-10-12T04:12:27Z",
   "stats": {
-    "total_discoveries": 264,
-    "total_stars": 4508808,
-    "total_stars_formatted": "4,508,808",
+    "total_discoveries": 265,
+    "total_stars": 4540557,
+    "total_stars_formatted": "4,540,557",
     "categories_count": {
+      "💡 AI Tool": 31,
       "🤖 Agents": 163,
       "🔍 RAG & Search": 35,
       "🗄️ Vector DB": 3,
-      "💡 AI Tool": 30,
       "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🔌 MCP & Tools": 7,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 168,
       "TypeScript": 32,
-      "Python": 167,
       "C++": 7,
       "PHP": 1,
       "Go": 14,
@@ -42,6 +42,16 @@
     "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-12",
+      "name": "jumpserver/jumpserver",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.",
+      "stars": 31749,
+      "stars_formatted": "31,749"
+    },
     {
       "date": "2026-10-11",
       "name": "ruvnet/ruflo",
