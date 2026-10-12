@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-12T04:12:27Z",
+  "generated_at": "2026-10-12T17:19:27Z",
   "stats": {
-    "total_discoveries": 265,
-    "total_stars": 4540557,
-    "total_stars_formatted": "4,540,557",
+    "total_discoveries": 266,
+    "total_stars": 4591737,
+    "total_stars_formatted": "4,591,737",
     "categories_count": {
+      "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
       "🤖 Agents": 163,
       "🔍 RAG & Search": 35,
       "🗄️ Vector DB": 3,
-      "🎨 Multimodal": 9,
       "🧠 LLM & Frameworks": 16,
       "🔌 MCP & Tools": 7,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 168,
+      "Python": 169,
       "TypeScript": 32,
       "C++": 7,
       "PHP": 1,
@@ -42,6 +42,16 @@
     "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-12",
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars": 51180,
+      "stars_formatted": "51,180"
+    },
     {
       "date": "2026-10-12",
       "name": "jumpserver/jumpserver",
