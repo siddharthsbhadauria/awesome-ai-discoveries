@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-13T05:21:32Z",
+  "generated_at": "2026-10-13T15:32:40Z",
   "stats": {
-    "total_discoveries": 267,
-    "total_stars": 4592112,
-    "total_stars_formatted": "4,592,112",
+    "total_discoveries": 268,
+    "total_stars": 4593673,
+    "total_stars_formatted": "4,593,673",
     "categories_count": {
+      "🔌 MCP & Tools": 8,
       "🤖 Agents": 164,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
       "🔍 RAG & Search": 35,
       "🗄️ Vector DB": 3,
       "🧠 LLM & Frameworks": 16,
-      "🔌 MCP & Tools": 7,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 21,
       "Python": 170,
       "TypeScript": 32,
       "C++": 7,
       "PHP": 1,
       "Go": 14,
       "Java": 7,
-      "Rust": 20,
       "JavaScript": 5,
       "Swift": 2,
       "Jupyter Notebook": 4,
@@ -42,6 +42,16 @@
     "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-13",
+      "name": "bherbruck/solidcraft",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "language": "Rust",
+      "category": "🔌 MCP & Tools",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "stars": 1561,
+      "stars_formatted": "1,561"
+    },
     {
       "date": "2026-10-13",
       "name": "FuRongJun-1999/dsh-memory",
