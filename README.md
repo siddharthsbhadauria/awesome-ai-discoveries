@@ -151,3 +151,4 @@ The most popular discovery lately: **[Mintplex-Labs/anything-llm](https://github
 | 2026-10-12 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 🎨 Multimodal | We write your reusable computer vision tools. 💜 | ⭐ 51,180 |
 | 2026-10-13 | [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) | Python | 🤖 Agents | 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。 | ⭐ 375 |
 | 2026-10-13 | [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft) | Rust | 🔌 MCP & Tools | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. | ⭐ 1,561 |
+| 2026-10-13 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | Python | 🤖 Agents | The LLM Anti-Framework | ⭐ 1,531 |

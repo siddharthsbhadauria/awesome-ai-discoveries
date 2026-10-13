@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T15:32:40Z",
+  "generated_at": "2026-10-13T20:58:06Z",
   "stats": {
-    "total_discoveries": 268,
-    "total_stars": 4593673,
-    "total_stars_formatted": "4,593,673",
+    "total_discoveries": 269,
+    "total_stars": 4595204,
+    "total_stars_formatted": "4,595,204",
     "categories_count": {
       "🔌 MCP & Tools": 8,
-      "🤖 Agents": 164,
+      "🤖 Agents": 165,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
       "🔍 RAG & Search": 35,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Rust": 21,
-      "Python": 170,
+      "Python": 171,
       "TypeScript": 32,
       "C++": 7,
       "PHP": 1,
@@ -51,6 +51,16 @@
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "stars": 1561,
       "stars_formatted": "1,561"
+    },
+    {
+      "date": "2026-10-13",
+      "name": "Mirascope/mirascope",
+      "url": "https://github.com/Mirascope/mirascope",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "The LLM Anti-Framework",
+      "stars": 1531,
+      "stars_formatted": "1,531"
     },
     {
       "date": "2026-10-13",
