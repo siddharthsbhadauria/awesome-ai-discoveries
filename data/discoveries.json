@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T13:17:21Z",
+  "generated_at": "2026-10-14T19:57:12Z",
   "stats": {
-    "total_discoveries": 271,
-    "total_stars": 4597729,
-    "total_stars_formatted": "4,597,729",
+    "total_discoveries": 272,
+    "total_stars": 4605180,
+    "total_stars_formatted": "4,605,180",
     "categories_count": {
+      "🤖 Agents": 167,
       "🔍 RAG & Search": 36,
-      "🤖 Agents": 166,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 33,
       "Python": 172,
       "Go": 15,
       "Rust": 21,
-      "TypeScript": 32,
       "C++": 7,
       "PHP": 1,
       "Java": 7,
@@ -42,6 +42,16 @@
     "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-14",
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "stars": 7451,
+      "stars_formatted": "7,451"
+    },
     {
       "date": "2026-10-14",
       "name": "qdrant/qdrant-client",

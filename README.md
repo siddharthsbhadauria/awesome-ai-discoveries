@@ -154,3 +154,4 @@ The most popular discovery lately: **[Mintplex-Labs/anything-llm](https://github
 | 2026-10-13 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | Python | 🤖 Agents | The LLM Anti-Framework | ⭐ 1,531 |
 | 2026-10-14 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | Go | 🤖 Agents | AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support. | ⭐ 1,152 |
 | 2026-10-14 | [qdrant/qdrant-client](https://github.com/qdrant/qdrant-client) | Python | 🔍 RAG & Search | Python client for Qdrant vector search engine | ⭐ 1,373 |
+| 2026-10-14 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 🤖 Agents | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | ⭐ 7,451 |
