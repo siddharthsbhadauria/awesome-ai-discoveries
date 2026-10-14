@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-14T03:26:01Z",
+  "generated_at": "2026-10-14T13:17:21Z",
   "stats": {
-    "total_discoveries": 270,
-    "total_stars": 4596356,
-    "total_stars_formatted": "4,596,356",
+    "total_discoveries": 271,
+    "total_stars": 4597729,
+    "total_stars_formatted": "4,597,729",
     "categories_count": {
+      "🔍 RAG & Search": 36,
       "🤖 Agents": 166,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
-      "🔍 RAG & Search": 35,
       "🗄️ Vector DB": 3,
       "🧠 LLM & Frameworks": 16,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 172,
       "Go": 15,
       "Rust": 21,
-      "Python": 171,
       "TypeScript": 32,
       "C++": 7,
       "PHP": 1,
@@ -42,6 +42,16 @@
     "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-14",
+      "name": "qdrant/qdrant-client",
+      "url": "https://github.com/qdrant/qdrant-client",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "Python client for Qdrant vector search engine",
+      "stars": 1373,
+      "stars_formatted": "1,373"
+    },
     {
       "date": "2026-10-14",
       "name": "agentrq/agentrq",
