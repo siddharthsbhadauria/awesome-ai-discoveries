@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T19:57:12Z",
+  "generated_at": "2026-10-15T03:04:56Z",
   "stats": {
-    "total_discoveries": 272,
-    "total_stars": 4605180,
-    "total_stars_formatted": "4,605,180",
+    "total_discoveries": 273,
+    "total_stars": 4607437,
+    "total_stars_formatted": "4,607,437",
     "categories_count": {
-      "🤖 Agents": 167,
+      "🤖 Agents": 168,
       "🔍 RAG & Search": 36,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 173,
       "TypeScript": 33,
-      "Python": 172,
       "Go": 15,
       "Rust": 21,
       "C++": 7,
@@ -42,6 +42,16 @@
     "stars_formatted": "74,331"
   },
   "discoveries": [
+    {
+      "date": "2026-10-15",
+      "name": "antoinezambelli/forge",
+      "url": "https://github.com/antoinezambelli/forge",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+      "stars": 2257,
+      "stars_formatted": "2,257"
+    },
     {
       "date": "2026-10-14",
       "name": "mvschwarz/openrig",
