@@ -156,3 +156,4 @@ The most popular discovery lately: **[Mintplex-Labs/anything-llm](https://github
 | 2026-10-14 | [qdrant/qdrant-client](https://github.com/qdrant/qdrant-client) | Python | 🔍 RAG & Search | Python client for Qdrant vector search engine | ⭐ 1,373 |
 | 2026-10-14 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 🤖 Agents | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | ⭐ 7,451 |
 | 2026-10-15 | [antoinezambelli/forge](https://github.com/antoinezambelli/forge) | Python | 🤖 Agents | A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows | ⭐ 2,257 |
+| 2026-10-15 | [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | Python | 🤖 Agents | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. | ⭐ 369 |

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T03:04:56Z",
+  "generated_at": "2026-10-15T13:02:46Z",
   "stats": {
-    "total_discoveries": 273,
-    "total_stars": 4607437,
-    "total_stars_formatted": "4,607,437",
+    "total_discoveries": 274,
+    "total_stars": 4607806,
+    "total_stars_formatted": "4,607,806",
     "categories_count": {
-      "🤖 Agents": 168,
+      "🤖 Agents": 169,
       "🔍 RAG & Search": 36,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 173,
+      "Python": 174,
       "TypeScript": 33,
       "Go": 15,
       "Rust": 21,
@@ -51,6 +51,16 @@
       "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
       "stars": 2257,
       "stars_formatted": "2,257"
+    },
+    {
+      "date": "2026-10-15",
+      "name": "Vigil-SOC/vigil",
+      "url": "https://github.com/Vigil-SOC/vigil",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote.",
+      "stars": 369,
+      "stars_formatted": "369"
     },
     {
       "date": "2026-10-14",
