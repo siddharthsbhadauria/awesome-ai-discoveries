@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T19:40:35Z",
+  "generated_at": "2026-10-16T03:01:33Z",
   "stats": {
-    "total_discoveries": 275,
-    "total_stars": 4708798,
-    "total_stars_formatted": "4,708,798",
+    "total_discoveries": 276,
+    "total_stars": 4710263,
+    "total_stars_formatted": "4,710,263",
     "categories_count": {
-      "🤖 Agents": 170,
+      "🤖 Agents": 171,
       "🔍 RAG & Search": 36,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 34,
+      "TypeScript": 35,
       "Python": 174,
       "Go": 15,
       "Rust": 21,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-16",
+      "name": "agentconnect-md/agentconnect",
+      "url": "https://github.com/agentconnect-md/agentconnect",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+      "stars": 1465,
+      "stars_formatted": "1,465"
+    },
     {
       "date": "2026-10-15",
       "name": "thedotmack/claude-mem",
