@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T12:59:45Z",
+  "generated_at": "2026-10-16T19:16:15Z",
   "stats": {
-    "total_discoveries": 277,
-    "total_stars": 4711477,
-    "total_stars_formatted": "4,711,477",
+    "total_discoveries": 278,
+    "total_stars": 4718641,
+    "total_stars_formatted": "4,718,641",
     "categories_count": {
+      "🔍 RAG & Search": 37,
       "🤖 Agents": 172,
-      "🔍 RAG & Search": 36,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 22,
       "TypeScript": 35,
       "Python": 175,
       "Go": 15,
-      "Rust": 21,
       "C++": 7,
       "PHP": 1,
       "Java": 7,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-16",
+      "name": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "language": "Rust",
+      "category": "🔍 RAG & Search",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "stars": 7164,
+      "stars_formatted": "7,164"
+    },
     {
       "date": "2026-10-16",
       "name": "agentconnect-md/agentconnect",
