@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T03:01:33Z",
+  "generated_at": "2026-10-16T12:59:45Z",
   "stats": {
-    "total_discoveries": 276,
-    "total_stars": 4710263,
-    "total_stars_formatted": "4,710,263",
+    "total_discoveries": 277,
+    "total_stars": 4711477,
+    "total_stars_formatted": "4,711,477",
     "categories_count": {
-      "🤖 Agents": 171,
+      "🤖 Agents": 172,
       "🔍 RAG & Search": 36,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "TypeScript": 35,
-      "Python": 174,
+      "Python": 175,
       "Go": 15,
       "Rust": 21,
       "C++": 7,
@@ -51,6 +51,16 @@
       "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
       "stars": 1465,
       "stars_formatted": "1,465"
+    },
+    {
+      "date": "2026-10-16",
+      "name": "ZHangZHengEric/Sage",
+      "url": "https://github.com/ZHangZHengEric/Sage",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "An extensible framework for custom, self-evolving AI agents, with configurable agent packages, tools, skills, and multi-round recursive self-improvement (RSI).",
+      "stars": 1214,
+      "stars_formatted": "1,214"
     },
     {
       "date": "2026-10-15",
