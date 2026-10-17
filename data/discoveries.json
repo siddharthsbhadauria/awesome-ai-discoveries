@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T19:16:15Z",
+  "generated_at": "2026-10-17T02:53:45Z",
   "stats": {
-    "total_discoveries": 278,
-    "total_stars": 4718641,
-    "total_stars_formatted": "4,718,641",
+    "total_discoveries": 279,
+    "total_stars": 4807214,
+    "total_stars_formatted": "4,807,214",
     "categories_count": {
+      "🤖 Agents": 173,
       "🔍 RAG & Search": 37,
-      "🤖 Agents": 172,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 36,
       "Rust": 22,
-      "TypeScript": 35,
       "Python": 175,
       "Go": 15,
       "C++": 7,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-17",
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 88573,
+      "stars_formatted": "88,573"
+    },
     {
       "date": "2026-10-16",
       "name": "lance-format/lance",
