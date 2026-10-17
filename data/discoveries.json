@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-17T02:53:45Z",
+  "generated_at": "2026-10-17T11:57:12Z",
   "stats": {
-    "total_discoveries": 279,
-    "total_stars": 4807214,
-    "total_stars_formatted": "4,807,214",
+    "total_discoveries": 280,
+    "total_stars": 4808538,
+    "total_stars_formatted": "4,808,538",
     "categories_count": {
       "🤖 Agents": 173,
+      "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
       "💡 AI Tool": 31,
       "🗄️ Vector DB": 3,
-      "🧠 LLM & Frameworks": 16,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 36,
+      "TypeScript": 37,
       "Rust": 22,
       "Python": 175,
       "Go": 15,
@@ -51,6 +51,16 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "stars": 88573,
       "stars_formatted": "88,573"
+    },
+    {
+      "date": "2026-10-17",
+      "name": "aws-samples/bedrock-chat",
+      "url": "https://github.com/aws-samples/bedrock-chat",
+      "language": "TypeScript",
+      "category": "🧠 LLM & Frameworks",
+      "description": "AWS-native chatbot using Bedrock",
+      "stars": 1324,
+      "stars_formatted": "1,324"
     },
     {
       "date": "2026-10-16",
