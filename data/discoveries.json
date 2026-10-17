@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T11:57:12Z",
+  "generated_at": "2026-10-17T18:08:09Z",
   "stats": {
-    "total_discoveries": 280,
-    "total_stars": 4808538,
-    "total_stars_formatted": "4,808,538",
+    "total_discoveries": 281,
+    "total_stars": 4830261,
+    "total_stars_formatted": "4,830,261",
     "categories_count": {
-      "🤖 Agents": 173,
+      "🤖 Agents": 174,
       "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "TypeScript": 37,
+      "Jupyter Notebook": 5,
       "Rust": 22,
       "Python": 175,
       "Go": 15,
@@ -24,7 +25,6 @@
       "Java": 7,
       "JavaScript": 5,
       "Swift": 2,
-      "Jupyter Notebook": 4,
       "Ruby": 2,
       "Lean": 1,
       "HTML": 1,
@@ -51,6 +51,16 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "stars": 88573,
       "stars_formatted": "88,573"
+    },
+    {
+      "date": "2026-10-17",
+      "name": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "language": "Jupyter Notebook",
+      "category": "🤖 Agents",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "stars": 21723,
+      "stars_formatted": "21,723"
     },
     {
       "date": "2026-10-17",
