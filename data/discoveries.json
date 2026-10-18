@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T02:55:15Z",
+  "generated_at": "2026-10-18T12:25:35Z",
   "stats": {
-    "total_discoveries": 282,
-    "total_stars": 4834942,
-    "total_stars_formatted": "4,834,942",
+    "total_discoveries": 283,
+    "total_stars": 4835272,
+    "total_stars_formatted": "4,835,272",
     "categories_count": {
       "💡 AI Tool": 32,
-      "🤖 Agents": 174,
+      "🤖 Agents": 175,
       "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Python": 176,
-      "TypeScript": 37,
+      "TypeScript": 38,
       "Jupyter Notebook": 5,
       "Rust": 22,
       "Go": 15,
@@ -51,6 +51,16 @@
       "description": "Curated list of Python resources for data science.",
       "stars": 4681,
       "stars_formatted": "4,681"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "Cotal-AI/Cotal",
+      "url": "https://github.com/Cotal-AI/Cotal",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The open standard for agent coordination",
+      "stars": 330,
+      "stars_formatted": "330"
     },
     {
       "date": "2026-10-17",

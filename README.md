@@ -165,3 +165,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-17 | [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) | TypeScript | 🧠 LLM & Frameworks | AWS-native chatbot using Bedrock | ⭐ 1,324 |
 | 2026-10-17 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Jupyter Notebook | 🤖 Agents | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. | ⭐ 21,723 |
 | 2026-10-18 | [r0f1/datascience](https://github.com/r0f1/datascience) | Python | 💡 AI Tool | Curated list of Python resources for data science. | ⭐ 4,681 |
+| 2026-10-18 | [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | TypeScript | 🤖 Agents | The open standard for agent coordination | ⭐ 330 |
