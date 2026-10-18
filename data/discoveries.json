@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-17T18:08:09Z",
+  "generated_at": "2026-10-18T02:55:15Z",
   "stats": {
-    "total_discoveries": 281,
-    "total_stars": 4830261,
-    "total_stars_formatted": "4,830,261",
+    "total_discoveries": 282,
+    "total_stars": 4834942,
+    "total_stars_formatted": "4,834,942",
     "categories_count": {
+      "💡 AI Tool": 32,
       "🤖 Agents": 174,
       "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
       "🎨 Multimodal": 10,
-      "💡 AI Tool": 31,
       "🗄️ Vector DB": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 176,
       "TypeScript": 37,
       "Jupyter Notebook": 5,
       "Rust": 22,
-      "Python": 175,
       "Go": 15,
       "C++": 7,
       "PHP": 1,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-18",
+      "name": "r0f1/datascience",
+      "url": "https://github.com/r0f1/datascience",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Curated list of Python resources for data science.",
+      "stars": 4681,
+      "stars_formatted": "4,681"
+    },
     {
       "date": "2026-10-17",
       "name": "koala73/worldmonitor",
