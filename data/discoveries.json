@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T12:25:35Z",
+  "generated_at": "2026-10-18T18:26:21Z",
   "stats": {
-    "total_discoveries": 283,
-    "total_stars": 4835272,
-    "total_stars_formatted": "4,835,272",
+    "total_discoveries": 284,
+    "total_stars": 4837052,
+    "total_stars_formatted": "4,837,052",
     "categories_count": {
       "💡 AI Tool": 32,
-      "🤖 Agents": 175,
+      "🤖 Agents": 176,
       "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 176,
+      "Python": 177,
       "TypeScript": 38,
       "Jupyter Notebook": 5,
       "Rust": 22,
@@ -51,6 +51,16 @@
       "description": "Curated list of Python resources for data science.",
       "stars": 4681,
       "stars_formatted": "4,681"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "OpenAdaptAI/OpenAdapt",
+      "url": "https://github.com/OpenAdaptAI/OpenAdapt",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.",
+      "stars": 1780,
+      "stars_formatted": "1,780"
     },
     {
       "date": "2026-10-18",
