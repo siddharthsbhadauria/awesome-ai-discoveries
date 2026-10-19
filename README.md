@@ -167,3 +167,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-18 | [r0f1/datascience](https://github.com/r0f1/datascience) | Python | 💡 AI Tool | Curated list of Python resources for data science. | ⭐ 4,681 |
 | 2026-10-18 | [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | TypeScript | 🤖 Agents | The open standard for agent coordination | ⭐ 330 |
 | 2026-10-18 | [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) | Python | 🤖 Agents | For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match. | ⭐ 1,780 |
+| 2026-10-19 | [autogluon/autogluon](https://github.com/autogluon/autogluon) | Python | 🎨 Multimodal | Fast and Accurate ML in 3 Lines of Code | ⭐ 10,786 |

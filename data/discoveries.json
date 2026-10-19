@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-18T18:26:21Z",
+  "generated_at": "2026-10-19T03:08:52Z",
   "stats": {
-    "total_discoveries": 284,
-    "total_stars": 4837052,
-    "total_stars_formatted": "4,837,052",
+    "total_discoveries": 285,
+    "total_stars": 4847838,
+    "total_stars_formatted": "4,847,838",
     "categories_count": {
+      "🎨 Multimodal": 11,
       "💡 AI Tool": 32,
       "🤖 Agents": 176,
       "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
-      "🎨 Multimodal": 10,
       "🗄️ Vector DB": 3,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 177,
+      "Python": 178,
       "TypeScript": 38,
       "Jupyter Notebook": 5,
       "Rust": 22,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-19",
+      "name": "autogluon/autogluon",
+      "url": "https://github.com/autogluon/autogluon",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "Fast and Accurate ML in 3 Lines of Code",
+      "stars": 10786,
+      "stars_formatted": "10,786"
+    },
     {
       "date": "2026-10-18",
       "name": "r0f1/datascience",
