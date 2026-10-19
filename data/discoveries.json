@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T03:08:52Z",
+  "generated_at": "2026-10-19T15:15:23Z",
   "stats": {
-    "total_discoveries": 285,
-    "total_stars": 4847838,
-    "total_stars_formatted": "4,847,838",
+    "total_discoveries": 286,
+    "total_stars": 4888937,
+    "total_stars_formatted": "4,888,937",
     "categories_count": {
+      "🤖 Agents": 177,
       "🎨 Multimodal": 11,
       "💡 AI Tool": 32,
-      "🤖 Agents": 176,
       "🧠 LLM & Frameworks": 17,
       "🔍 RAG & Search": 37,
       "🔌 MCP & Tools": 8,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 23,
       "Python": 178,
       "TypeScript": 38,
       "Jupyter Notebook": 5,
-      "Rust": 22,
       "Go": 15,
       "C++": 7,
       "PHP": 1,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-19",
+      "name": "codewhale-hq/Codewhale",
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
+      "stars": 41099,
+      "stars_formatted": "41,099"
+    },
     {
       "date": "2026-10-19",
       "name": "autogluon/autogluon",
