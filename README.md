@@ -170,3 +170,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-19 | [autogluon/autogluon](https://github.com/autogluon/autogluon) | Python | 🎨 Multimodal | Fast and Accurate ML in 3 Lines of Code | ⭐ 10,786 |
 | 2026-10-19 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Rust | 🤖 Agents | Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts. | ⭐ 41,099 |
 | 2026-10-19 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | Python | 🔍 RAG & Search | Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessions. | ⭐ 821 |
+| 2026-10-20 | [limecloud/lime](https://github.com/limecloud/lime) | TypeScript | 🤖 Agents | Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows. | ⭐ 1,487 |

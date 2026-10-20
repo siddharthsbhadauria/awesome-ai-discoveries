@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T20:51:52Z",
+  "generated_at": "2026-10-20T03:17:42Z",
   "stats": {
-    "total_discoveries": 287,
-    "total_stars": 4889758,
-    "total_stars_formatted": "4,889,758",
+    "total_discoveries": 288,
+    "total_stars": 4891245,
+    "total_stars_formatted": "4,891,245",
     "categories_count": {
-      "🤖 Agents": 177,
+      "🤖 Agents": 178,
       "🎨 Multimodal": 11,
       "🔍 RAG & Search": 38,
       "💡 AI Tool": 32,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 39,
       "Rust": 23,
       "Python": 179,
-      "TypeScript": 38,
       "Jupyter Notebook": 5,
       "Go": 15,
       "C++": 7,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-20",
+      "name": "limecloud/lime",
+      "url": "https://github.com/limecloud/lime",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.",
+      "stars": 1487,
+      "stars_formatted": "1,487"
+    },
     {
       "date": "2026-10-19",
       "name": "codewhale-hq/Codewhale",
