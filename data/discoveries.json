@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T03:17:42Z",
+  "generated_at": "2026-10-20T13:17:48Z",
   "stats": {
-    "total_discoveries": 288,
-    "total_stars": 4891245,
-    "total_stars_formatted": "4,891,245",
+    "total_discoveries": 289,
+    "total_stars": 4893629,
+    "total_stars_formatted": "4,893,629",
     "categories_count": {
-      "🤖 Agents": 178,
+      "🤖 Agents": 179,
       "🎨 Multimodal": 11,
       "🔍 RAG & Search": 38,
       "💡 AI Tool": 32,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 180,
       "TypeScript": 39,
       "Rust": 23,
-      "Python": 179,
       "Jupyter Notebook": 5,
       "Go": 15,
       "C++": 7,
@@ -42,6 +42,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-20",
+      "name": "agentuniverse-ai/agentUniverse",
+      "url": "https://github.com/agentuniverse-ai/agentUniverse",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.",
+      "stars": 2384,
+      "stars_formatted": "2,384"
+    },
     {
       "date": "2026-10-20",
       "name": "limecloud/lime",
