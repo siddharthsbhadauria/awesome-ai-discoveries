@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-21T03:13:06Z",
+  "generated_at": "2026-10-21T13:23:37Z",
   "stats": {
-    "total_discoveries": 291,
-    "total_stars": 4896888,
-    "total_stars_formatted": "4,896,888",
+    "total_discoveries": 292,
+    "total_stars": 4898427,
+    "total_stars_formatted": "4,898,427",
     "categories_count": {
       "🤖 Agents": 180,
+      "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
       "🔍 RAG & Search": 38,
-      "💡 AI Tool": 32,
       "🧠 LLM & Frameworks": 17,
       "🔌 MCP & Tools": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
       "TypeScript": 40,
-      "Python": 180,
+      "Python": 181,
       "Clojure": 1,
       "Rust": 23,
       "Jupyter Notebook": 5,
@@ -52,6 +52,16 @@
       "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
       "stars": 1773,
       "stars_formatted": "1,773"
+    },
+    {
+      "date": "2026-10-21",
+      "name": "skforecast/skforecast",
+      "url": "https://github.com/skforecast/skforecast",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models",
+      "stars": 1539,
+      "stars_formatted": "1,539"
     },
     {
       "date": "2026-10-20",

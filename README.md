@@ -174,3 +174,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-20 | [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) | Python | 🤖 Agents | agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. | ⭐ 2,384 |
 | 2026-10-20 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | Clojure | 🗄️ Vector DB | A simple, fast and versatile Datalog database | ⭐ 1,486 |
 | 2026-10-21 | [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) | TypeScript | 🤖 Agents | OpenCode plugin that gives coding agents persistent memory using local vector database | ⭐ 1,773 |
+| 2026-10-21 | [skforecast/skforecast](https://github.com/skforecast/skforecast) | Python | 💡 AI Tool | Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models | ⭐ 1,539 |
