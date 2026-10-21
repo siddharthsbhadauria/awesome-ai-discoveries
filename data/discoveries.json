@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T19:48:45Z",
+  "generated_at": "2026-10-21T03:13:06Z",
   "stats": {
-    "total_discoveries": 290,
-    "total_stars": 4895115,
-    "total_stars_formatted": "4,895,115",
+    "total_discoveries": 291,
+    "total_stars": 4896888,
+    "total_stars_formatted": "4,896,888",
     "categories_count": {
-      "🤖 Agents": 179,
+      "🤖 Agents": 180,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
       "🔍 RAG & Search": 38,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 40,
       "Python": 180,
-      "TypeScript": 39,
       "Clojure": 1,
       "Rust": 23,
       "Jupyter Notebook": 5,
@@ -43,6 +43,16 @@
     "stars_formatted": "100,992"
   },
   "discoveries": [
+    {
+      "date": "2026-10-21",
+      "name": "tickernelz/opencode-mem",
+      "url": "https://github.com/tickernelz/opencode-mem",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+      "stars": 1773,
+      "stars_formatted": "1,773"
+    },
     {
       "date": "2026-10-20",
       "name": "agentuniverse-ai/agentUniverse",
