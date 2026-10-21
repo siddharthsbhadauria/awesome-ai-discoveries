@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-21T13:23:37Z",
+  "generated_at": "2026-10-21T19:54:27Z",
   "stats": {
-    "total_discoveries": 292,
-    "total_stars": 4898427,
-    "total_stars_formatted": "4,898,427",
+    "total_discoveries": 293,
+    "total_stars": 5054794,
+    "total_stars_formatted": "5,054,794",
     "categories_count": {
+      "🔍 RAG & Search": 39,
       "🤖 Agents": 180,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
-      "🔍 RAG & Search": 38,
       "🧠 LLM & Frameworks": 17,
       "🔌 MCP & Tools": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 182,
       "TypeScript": 40,
-      "Python": 181,
       "Clojure": 1,
       "Rust": 23,
       "Jupyter Notebook": 5,
@@ -33,16 +33,26 @@
     }
   },
   "featured": {
-    "date": "2026-10-15",
-    "name": "thedotmack/claude-mem",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "language": "TypeScript",
-    "category": "🤖 Agents",
-    "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-    "stars": 100992,
-    "stars_formatted": "100,992"
+    "date": "2026-10-21",
+    "name": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "language": "Python",
+    "category": "🔍 RAG & Search",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "stars": 156367,
+    "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-21",
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 156367,
+      "stars_formatted": "156,367"
+    },
     {
       "date": "2026-10-21",
       "name": "tickernelz/opencode-mem",

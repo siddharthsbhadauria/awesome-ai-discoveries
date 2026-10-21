@@ -175,3 +175,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-20 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | Clojure | 🗄️ Vector DB | A simple, fast and versatile Datalog database | ⭐ 1,486 |
 | 2026-10-21 | [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) | TypeScript | 🤖 Agents | OpenCode plugin that gives coding agents persistent memory using local vector database | ⭐ 1,773 |
 | 2026-10-21 | [skforecast/skforecast](https://github.com/skforecast/skforecast) | Python | 💡 AI Tool | Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models | ⭐ 1,539 |
+| 2026-10-21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 🔍 RAG & Search | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ⭐ 156,367 |
