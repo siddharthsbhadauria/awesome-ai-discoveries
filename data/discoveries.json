@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T03:11:24Z",
+  "generated_at": "2026-10-22T13:24:51Z",
   "stats": {
-    "total_discoveries": 294,
-    "total_stars": 5055531,
-    "total_stars_formatted": "5,055,531",
+    "total_discoveries": 295,
+    "total_stars": 5056037,
+    "total_stars_formatted": "5,056,037",
     "categories_count": {
-      "🤖 Agents": 181,
+      "🤖 Agents": 182,
       "🔍 RAG & Search": 39,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 183,
+      "Python": 184,
       "TypeScript": 40,
       "Clojure": 1,
       "Rust": 23,
@@ -52,6 +52,16 @@
       "description": "AI multi-agent tool that turns research papers into cited commercialization and tech-transfer assessments: TRL, patent landscape, market and risks. CrewAI + FastAPI, with a reproducible benchmark.",
       "stars": 737,
       "stars_formatted": "737"
+    },
+    {
+      "date": "2026-10-22",
+      "name": "caura-ai/caura",
+      "url": "https://github.com/caura-ai/caura",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 506,
+      "stars_formatted": "506"
     },
     {
       "date": "2026-10-21",
