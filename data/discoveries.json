@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T19:54:27Z",
+  "generated_at": "2026-10-22T03:11:24Z",
   "stats": {
-    "total_discoveries": 293,
-    "total_stars": 5054794,
-    "total_stars_formatted": "5,054,794",
+    "total_discoveries": 294,
+    "total_stars": 5055531,
+    "total_stars_formatted": "5,055,531",
     "categories_count": {
+      "🤖 Agents": 181,
       "🔍 RAG & Search": 39,
-      "🤖 Agents": 180,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 182,
+      "Python": 183,
       "TypeScript": 40,
       "Clojure": 1,
       "Rust": 23,
@@ -43,6 +43,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-22",
+      "name": "shuxiachai/academic-commercialization-agent",
+      "url": "https://github.com/shuxiachai/academic-commercialization-agent",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AI multi-agent tool that turns research papers into cited commercialization and tech-transfer assessments: TRL, patent landscape, market and risks. CrewAI + FastAPI, with a reproducible benchmark.",
+      "stars": 737,
+      "stars_formatted": "737"
+    },
     {
       "date": "2026-10-21",
       "name": "open-webui/open-webui",
