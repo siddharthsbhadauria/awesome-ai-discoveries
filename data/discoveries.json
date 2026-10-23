@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T03:16:49Z",
+  "generated_at": "2026-10-23T13:03:15Z",
   "stats": {
-    "total_discoveries": 297,
-    "total_stars": 5063991,
-    "total_stars_formatted": "5,063,991",
+    "total_discoveries": 298,
+    "total_stars": 5065371,
+    "total_stars_formatted": "5,065,371",
     "categories_count": {
-      "🤖 Agents": 184,
+      "🤖 Agents": 185,
       "🔍 RAG & Search": 39,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 186,
+      "Python": 187,
       "TypeScript": 40,
       "Clojure": 1,
       "Rust": 23,
@@ -52,6 +52,16 @@
       "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
       "stars": 1942,
       "stars_formatted": "1,942"
+    },
+    {
+      "date": "2026-10-23",
+      "name": "sandbox-quantum/switch",
+      "url": "https://github.com/sandbox-quantum/switch",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.",
+      "stars": 1380,
+      "stars_formatted": "1,380"
     },
     {
       "date": "2026-10-22",
