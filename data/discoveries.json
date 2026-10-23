@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T13:03:15Z",
+  "generated_at": "2026-10-23T19:45:23Z",
   "stats": {
-    "total_discoveries": 298,
-    "total_stars": 5065371,
-    "total_stars_formatted": "5,065,371",
+    "total_discoveries": 299,
+    "total_stars": 5066988,
+    "total_stars_formatted": "5,066,988",
     "categories_count": {
-      "🤖 Agents": 185,
+      "🤖 Agents": 186,
       "🔍 RAG & Search": 39,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 187,
+      "Python": 188,
       "TypeScript": 40,
       "Clojure": 1,
       "Rust": 23,
@@ -52,6 +52,16 @@
       "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
       "stars": 1942,
       "stars_formatted": "1,942"
+    },
+    {
+      "date": "2026-10-23",
+      "name": "pypose/pypose",
+      "url": "https://github.com/pypose/pypose",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "A library for differentiable robotics on manifolds.",
+      "stars": 1617,
+      "stars_formatted": "1,617"
     },
     {
       "date": "2026-10-23",
