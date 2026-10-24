@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T19:45:23Z",
+  "generated_at": "2026-10-24T03:10:31Z",
   "stats": {
-    "total_discoveries": 299,
-    "total_stars": 5066988,
-    "total_stars_formatted": "5,066,988",
+    "total_discoveries": 300,
+    "total_stars": 5096028,
+    "total_stars_formatted": "5,096,028",
     "categories_count": {
-      "🤖 Agents": 186,
+      "🤖 Agents": 187,
       "🔍 RAG & Search": 39,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 41,
       "Python": 188,
-      "TypeScript": 40,
       "Clojure": 1,
       "Rust": 23,
       "Jupyter Notebook": 5,
@@ -43,6 +43,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-24",
+      "name": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+      "stars": 29040,
+      "stars_formatted": "29,040"
+    },
     {
       "date": "2026-10-23",
       "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
