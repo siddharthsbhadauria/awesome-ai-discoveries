@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T12:26:01Z",
+  "generated_at": "2026-10-24T18:33:57Z",
   "stats": {
-    "total_discoveries": 301,
-    "total_stars": 5097949,
-    "total_stars_formatted": "5,097,949",
+    "total_discoveries": 302,
+    "total_stars": 5099263,
+    "total_stars_formatted": "5,099,263",
     "categories_count": {
       "🤖 Agents": 188,
-      "🔍 RAG & Search": 39,
+      "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
@@ -17,7 +17,7 @@
     "languages_count": {
       "TypeScript": 41,
       "C": 1,
-      "Python": 188,
+      "Python": 189,
       "Clojure": 1,
       "Rust": 23,
       "Jupyter Notebook": 5,
@@ -63,6 +63,16 @@
       "description": "Semantic Search & Call Graphs for AI Agents (100% Local)",
       "stars": 1921,
       "stars_formatted": "1,921"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "kantord/SeaGOAT",
+      "url": "https://github.com/kantord/SeaGOAT",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "local-first semantic code search engine",
+      "stars": 1314,
+      "stars_formatted": "1,314"
     },
     {
       "date": "2026-10-23",
