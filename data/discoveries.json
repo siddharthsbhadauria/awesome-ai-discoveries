@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T03:10:31Z",
+  "generated_at": "2026-10-24T12:26:01Z",
   "stats": {
-    "total_discoveries": 300,
-    "total_stars": 5096028,
-    "total_stars_formatted": "5,096,028",
+    "total_discoveries": 301,
+    "total_stars": 5097949,
+    "total_stars_formatted": "5,097,949",
     "categories_count": {
-      "🤖 Agents": 187,
+      "🤖 Agents": 188,
       "🔍 RAG & Search": 39,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "TypeScript": 41,
+      "C": 1,
       "Python": 188,
       "Clojure": 1,
       "Rust": 23,
@@ -52,6 +53,16 @@
       "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
       "stars": 29040,
       "stars_formatted": "29,040"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "yoanbernabeu/grepai",
+      "url": "https://github.com/yoanbernabeu/grepai",
+      "language": "C",
+      "category": "🤖 Agents",
+      "description": "Semantic Search & Call Graphs for AI Agents (100% Local)",
+      "stars": 1921,
+      "stars_formatted": "1,921"
     },
     {
       "date": "2026-10-23",

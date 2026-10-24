@@ -183,3 +183,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-23 | [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) | Python | 🤖 Agents | Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model. | ⭐ 1,380 |
 | 2026-10-23 | [pypose/pypose](https://github.com/pypose/pypose) | Python | 🤖 Agents | A library for differentiable robotics on manifolds. | ⭐ 1,617 |
 | 2026-10-24 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | TypeScript | 🤖 Agents | Mastra is the modern TypeScript framework for AI-powered applications and agents. | ⭐ 29,040 |
+| 2026-10-24 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | C | 🤖 Agents | Semantic Search & Call Graphs for AI Agents (100% Local) | ⭐ 1,921 |
