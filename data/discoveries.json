@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T12:56:01Z",
+  "generated_at": "2026-10-25T18:42:25Z",
   "stats": {
-    "total_discoveries": 304,
-    "total_stars": 5126271,
-    "total_stars_formatted": "5,126,271",
+    "total_discoveries": 305,
+    "total_stars": 5151491,
+    "total_stars_formatted": "5,151,491",
     "categories_count": {
-      "🤖 Agents": 190,
+      "🤖 Agents": 191,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 43,
+      "TypeScript": 44,
       "C": 1,
       "Python": 189,
       "Clojure": 1,
@@ -53,6 +53,16 @@
       "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
       "stars": 26405,
       "stars_formatted": "26,405"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 25220,
+      "stars_formatted": "25,220"
     },
     {
       "date": "2026-10-25",
