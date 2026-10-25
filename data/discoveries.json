@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T03:05:39Z",
+  "generated_at": "2026-10-25T12:56:01Z",
   "stats": {
-    "total_discoveries": 303,
-    "total_stars": 5099866,
-    "total_stars_formatted": "5,099,866",
+    "total_discoveries": 304,
+    "total_stars": 5126271,
+    "total_stars_formatted": "5,126,271",
     "categories_count": {
-      "🤖 Agents": 189,
+      "🤖 Agents": 190,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 42,
+      "TypeScript": 43,
       "C": 1,
       "Python": 189,
       "Clojure": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-25",
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+      "stars": 26405,
+      "stars_formatted": "26,405"
+    },
     {
       "date": "2026-10-25",
       "name": "useLexora/Lexora",
