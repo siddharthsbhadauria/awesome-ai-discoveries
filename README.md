@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**
+The most popular discovery lately: **[open-webui/open-webui](https://github.com/open-webui/open-webui)**
 <!-- FEATURED_END -->
 
 ---
@@ -185,3 +185,4 @@ The most popular discovery lately: **[thedotmack/claude-mem](https://github.com/
 | 2026-10-24 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | TypeScript | 🤖 Agents | Mastra is the modern TypeScript framework for AI-powered applications and agents. | ⭐ 29,040 |
 | 2026-10-24 | [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) | C | 🤖 Agents | Semantic Search & Call Graphs for AI Agents (100% Local) | ⭐ 1,921 |
 | 2026-10-24 | [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) | Python | 🔍 RAG & Search | local-first semantic code search engine | ⭐ 1,314 |
+| 2026-10-25 | [useLexora/Lexora](https://github.com/useLexora/Lexora) | TypeScript | 🤖 Agents | A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。 | ⭐ 603 |

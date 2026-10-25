@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T18:33:57Z",
+  "generated_at": "2026-10-25T03:05:39Z",
   "stats": {
-    "total_discoveries": 302,
-    "total_stars": 5099263,
-    "total_stars_formatted": "5,099,263",
+    "total_discoveries": 303,
+    "total_stars": 5099866,
+    "total_stars_formatted": "5,099,866",
     "categories_count": {
-      "🤖 Agents": 188,
+      "🤖 Agents": 189,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 41,
+      "TypeScript": 42,
       "C": 1,
       "Python": 189,
       "Clojure": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-25",
+      "name": "useLexora/Lexora",
+      "url": "https://github.com/useLexora/Lexora",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。",
+      "stars": 603,
+      "stars_formatted": "603"
+    },
     {
       "date": "2026-10-24",
       "name": "mastra-ai/mastra",
