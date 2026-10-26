@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-25T18:42:25Z",
+  "generated_at": "2026-10-26T03:05:15Z",
   "stats": {
-    "total_discoveries": 305,
-    "total_stars": 5151491,
-    "total_stars_formatted": "5,151,491",
+    "total_discoveries": 306,
+    "total_stars": 5162505,
+    "total_stars_formatted": "5,162,505",
     "categories_count": {
+      "🔌 MCP & Tools": 9,
       "🤖 Agents": 191,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
-      "🔌 MCP & Tools": 8,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 190,
       "TypeScript": 44,
       "C": 1,
-      "Python": 189,
       "Clojure": 1,
       "Rust": 23,
       "Jupyter Notebook": 5,
@@ -44,6 +44,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-26",
+      "name": "Thysrael/Horizon",
+      "url": "https://github.com/Thysrael/Horizon",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. - 用 AI 构建你专属的新闻雷达",
+      "stars": 11014,
+      "stars_formatted": "11,014"
+    },
     {
       "date": "2026-10-25",
       "name": "promptfoo/promptfoo",
