@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T14:49:29Z",
+  "generated_at": "2026-10-26T20:52:53Z",
   "stats": {
-    "total_discoveries": 307,
-    "total_stars": 5163291,
-    "total_stars_formatted": "5,163,291",
+    "total_discoveries": 308,
+    "total_stars": 5173104,
+    "total_stars_formatted": "5,173,104",
     "categories_count": {
       "🔌 MCP & Tools": 9,
-      "🤖 Agents": 192,
+      "🤖 Agents": 193,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Python": 191,
-      "TypeScript": 44,
+      "TypeScript": 45,
       "C": 1,
       "Clojure": 1,
       "Rust": 23,
@@ -53,6 +53,16 @@
       "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. - 用 AI 构建你专属的新闻雷达",
       "stars": 11014,
       "stars_formatted": "11,014"
+    },
+    {
+      "date": "2026-10-26",
+      "name": "alvinunreal/oh-my-opencode-slim",
+      "url": "https://github.com/alvinunreal/oh-my-opencode-slim",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks",
+      "stars": 9813,
+      "stars_formatted": "9,813"
     },
     {
       "date": "2026-10-26",

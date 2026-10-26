@@ -190,3 +190,4 @@ The most popular discovery lately: **[open-webui/open-webui](https://github.com/
 | 2026-10-25 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | TypeScript | 🤖 Agents | AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents | ⭐ 25,220 |
 | 2026-10-26 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | Python | 🔌 MCP & Tools | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. - 用 AI 构建你专属的新闻雷达 | ⭐ 11,014 |
 | 2026-10-26 | [dragon1086/prism-insight](https://github.com/dragon1086/prism-insight) | Python | 🤖 Agents | AI-based stock analysis and trading system | ⭐ 786 |
+| 2026-10-26 | [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) | TypeScript | 🤖 Agents | Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks | ⭐ 9,813 |
