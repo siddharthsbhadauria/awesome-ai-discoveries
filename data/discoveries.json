@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T03:05:15Z",
+  "generated_at": "2026-10-26T14:49:29Z",
   "stats": {
-    "total_discoveries": 306,
-    "total_stars": 5162505,
-    "total_stars_formatted": "5,162,505",
+    "total_discoveries": 307,
+    "total_stars": 5163291,
+    "total_stars_formatted": "5,163,291",
     "categories_count": {
       "🔌 MCP & Tools": 9,
-      "🤖 Agents": 191,
+      "🤖 Agents": 192,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 190,
+      "Python": 191,
       "TypeScript": 44,
       "C": 1,
       "Clojure": 1,
@@ -53,6 +53,16 @@
       "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. - 用 AI 构建你专属的新闻雷达",
       "stars": 11014,
       "stars_formatted": "11,014"
+    },
+    {
+      "date": "2026-10-26",
+      "name": "dragon1086/prism-insight",
+      "url": "https://github.com/dragon1086/prism-insight",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AI-based stock analysis and trading system",
+      "stars": 786,
+      "stars_formatted": "786"
     },
     {
       "date": "2026-10-25",
