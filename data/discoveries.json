@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T20:52:53Z",
+  "generated_at": "2026-10-27T03:36:28Z",
   "stats": {
-    "total_discoveries": 308,
-    "total_stars": 5173104,
-    "total_stars_formatted": "5,173,104",
+    "total_discoveries": 309,
+    "total_stars": 5174501,
+    "total_stars_formatted": "5,174,501",
     "categories_count": {
+      "🤖 Agents": 194,
       "🔌 MCP & Tools": 9,
-      "🤖 Agents": 193,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 46,
       "Python": 191,
-      "TypeScript": 45,
       "C": 1,
       "Clojure": 1,
       "Rust": 23,
@@ -44,6 +44,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-27",
+      "name": "amplifthq/openmeld",
+      "url": "https://github.com/amplifthq/openmeld",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The open-source collaboration system for people and AI agents. Share context, coordinate tasks, and work in parallel with your team, cloud agents, Codex, Claude Code, Grok, Grok Bot, OpenCode, Antigravity, and Cursor.",
+      "stars": 1397,
+      "stars_formatted": "1,397"
+    },
     {
       "date": "2026-10-26",
       "name": "Thysrael/Horizon",
