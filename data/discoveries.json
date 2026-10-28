@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T03:52:50Z",
+  "generated_at": "2026-10-28T14:49:38Z",
   "stats": {
-    "total_discoveries": 312,
-    "total_stars": 5214206,
-    "total_stars_formatted": "5,214,206",
+    "total_discoveries": 313,
+    "total_stars": 5255244,
+    "total_stars_formatted": "5,255,244",
     "categories_count": {
-      "🤖 Agents": 197,
+      "🤖 Agents": 198,
       "🔌 MCP & Tools": 9,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 193,
+      "Python": 194,
       "TypeScript": 47,
       "C": 1,
       "Clojure": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-28",
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 41038,
+      "stars_formatted": "41,038"
+    },
     {
       "date": "2026-10-28",
       "name": "scaleapi/agentenv-framework",
