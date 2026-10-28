@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T20:23:57Z",
+  "generated_at": "2026-10-28T03:52:50Z",
   "stats": {
-    "total_discoveries": 311,
-    "total_stars": 5213823,
-    "total_stars_formatted": "5,213,823",
+    "total_discoveries": 312,
+    "total_stars": 5214206,
+    "total_stars_formatted": "5,214,206",
     "categories_count": {
-      "🤖 Agents": 196,
+      "🤖 Agents": 197,
       "🔌 MCP & Tools": 9,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 193,
       "TypeScript": 47,
-      "Python": 192,
       "C": 1,
       "Clojure": 1,
       "Rust": 23,
@@ -44,6 +44,16 @@
     "stars_formatted": "156,367"
   },
   "discoveries": [
+    {
+      "date": "2026-10-28",
+      "name": "scaleapi/agentenv-framework",
+      "url": "https://github.com/scaleapi/agentenv-framework",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now.",
+      "stars": 383,
+      "stars_formatted": "383"
+    },
     {
       "date": "2026-10-27",
       "name": "CopilotKit/CopilotKit",
