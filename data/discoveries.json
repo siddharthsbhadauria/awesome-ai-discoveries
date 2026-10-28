@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T14:49:38Z",
+  "generated_at": "2026-10-28T20:45:15Z",
   "stats": {
-    "total_discoveries": 313,
-    "total_stars": 5255244,
-    "total_stars_formatted": "5,255,244",
+    "total_discoveries": 314,
+    "total_stars": 5256389,
+    "total_stars_formatted": "5,256,389",
     "categories_count": {
-      "🤖 Agents": 198,
+      "🤖 Agents": 199,
       "🔌 MCP & Tools": 9,
       "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 194,
+      "JavaScript": 6,
       "TypeScript": 47,
       "C": 1,
       "Clojure": 1,
@@ -25,7 +26,6 @@
       "C++": 7,
       "PHP": 1,
       "Java": 7,
-      "JavaScript": 5,
       "Swift": 2,
       "Ruby": 2,
       "Lean": 1,
@@ -53,6 +53,16 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "stars": 41038,
       "stars_formatted": "41,038"
+    },
+    {
+      "date": "2026-10-28",
+      "name": "NomaDamas/CozyClay",
+      "url": "https://github.com/NomaDamas/CozyClay",
+      "language": "JavaScript",
+      "category": "🤖 Agents",
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "stars": 1145,
+      "stars_formatted": "1,145"
     },
     {
       "date": "2026-10-28",
