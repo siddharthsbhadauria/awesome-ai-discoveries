@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T14:55:47Z",
+  "generated_at": "2026-10-29T20:50:26Z",
   "stats": {
-    "total_discoveries": 316,
-    "total_stars": 5258712,
-    "total_stars_formatted": "5,258,712",
+    "total_discoveries": 317,
+    "total_stars": 5262981,
+    "total_stars_formatted": "5,262,981",
     "categories_count": {
+      "🔌 MCP & Tools": 10,
       "🔍 RAG & Search": 42,
       "🤖 Agents": 199,
-      "🔌 MCP & Tools": 9,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 196,
+      "Python": 197,
       "JavaScript": 6,
       "TypeScript": 47,
       "C": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "41,038"
   },
   "discoveries": [
+    {
+      "date": "2026-10-29",
+      "name": "haris-musa/excel-mcp-server",
+      "url": "https://github.com/haris-musa/excel-mcp-server",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required.",
+      "stars": 4269,
+      "stars_formatted": "4,269"
+    },
     {
       "date": "2026-10-29",
       "name": "zilliztech/VectorDBBench",
