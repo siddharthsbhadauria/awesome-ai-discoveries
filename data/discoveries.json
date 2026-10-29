@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T04:16:14Z",
+  "generated_at": "2026-10-29T14:55:47Z",
   "stats": {
-    "total_discoveries": 315,
-    "total_stars": 5257515,
-    "total_stars_formatted": "5,257,515",
+    "total_discoveries": 316,
+    "total_stars": 5258712,
+    "total_stars_formatted": "5,258,712",
     "categories_count": {
-      "🔍 RAG & Search": 41,
+      "🔍 RAG & Search": 42,
       "🤖 Agents": 199,
       "🔌 MCP & Tools": 9,
       "💡 AI Tool": 33,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 195,
+      "Python": 196,
       "JavaScript": 6,
       "TypeScript": 47,
       "C": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "41,038"
   },
   "discoveries": [
+    {
+      "date": "2026-10-29",
+      "name": "zilliztech/VectorDBBench",
+      "url": "https://github.com/zilliztech/VectorDBBench",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "Benchmark for vector databases.",
+      "stars": 1197,
+      "stars_formatted": "1,197"
+    },
     {
       "date": "2026-10-29",
       "name": "DrizzleTime/Foxel",

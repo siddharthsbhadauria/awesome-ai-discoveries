@@ -198,3 +198,4 @@ The most popular discovery lately: **[open-webui/open-webui](https://github.com/
 | 2026-10-28 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 🤖 Agents | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | ⭐ 41,038 |
 | 2026-10-28 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | JavaScript | 🤖 Agents | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model. | ⭐ 1,145 |
 | 2026-10-29 | [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) | Python | 🔍 RAG & Search | A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search. | ⭐ 1,126 |
+| 2026-10-29 | [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) | Python | 🔍 RAG & Search | Benchmark for vector databases. | ⭐ 1,197 |
