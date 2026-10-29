@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T20:45:15Z",
+  "generated_at": "2026-10-29T04:16:14Z",
   "stats": {
-    "total_discoveries": 314,
-    "total_stars": 5256389,
-    "total_stars_formatted": "5,256,389",
+    "total_discoveries": 315,
+    "total_stars": 5257515,
+    "total_stars_formatted": "5,257,515",
     "categories_count": {
+      "🔍 RAG & Search": 41,
       "🤖 Agents": 199,
       "🔌 MCP & Tools": 9,
-      "🔍 RAG & Search": 40,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 194,
+      "Python": 195,
       "JavaScript": 6,
       "TypeScript": 47,
       "C": 1,
@@ -34,16 +34,26 @@
     }
   },
   "featured": {
-    "date": "2026-10-21",
-    "name": "open-webui/open-webui",
-    "url": "https://github.com/open-webui/open-webui",
+    "date": "2026-10-28",
+    "name": "volcengine/OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
     "language": "Python",
-    "category": "🔍 RAG & Search",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "stars": 156367,
-    "stars_formatted": "156,367"
+    "category": "🤖 Agents",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "stars": 41038,
+    "stars_formatted": "41,038"
   },
   "discoveries": [
+    {
+      "date": "2026-10-29",
+      "name": "DrizzleTime/Foxel",
+      "url": "https://github.com/DrizzleTime/Foxel",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.",
+      "stars": 1126,
+      "stars_formatted": "1,126"
+    },
     {
       "date": "2026-10-28",
       "name": "volcengine/OpenViking",
