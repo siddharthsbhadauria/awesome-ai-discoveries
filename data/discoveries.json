@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T20:50:26Z",
+  "generated_at": "2026-10-30T04:16:01Z",
   "stats": {
-    "total_discoveries": 317,
-    "total_stars": 5262981,
-    "total_stars_formatted": "5,262,981",
+    "total_discoveries": 318,
+    "total_stars": 5301020,
+    "total_stars_formatted": "5,301,020",
     "categories_count": {
-      "🔌 MCP & Tools": 10,
+      "🔌 MCP & Tools": 11,
       "🔍 RAG & Search": 42,
       "🤖 Agents": 199,
       "💡 AI Tool": 33,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 197,
+      "Python": 198,
       "JavaScript": 6,
       "TypeScript": 47,
       "C": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "41,038"
   },
   "discoveries": [
+    {
+      "date": "2026-10-30",
+      "name": "PDFMathTranslate/PDFMathTranslate",
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "language": "Python",
+      "category": "🔌 MCP & Tools",
+      "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+      "stars": 38039,
+      "stars_formatted": "38,039"
+    },
     {
       "date": "2026-10-29",
       "name": "haris-musa/excel-mcp-server",
