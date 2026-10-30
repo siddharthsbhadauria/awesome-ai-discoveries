@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T14:48:03Z",
+  "generated_at": "2026-10-30T20:22:14Z",
   "stats": {
-    "total_discoveries": 319,
-    "total_stars": 5301916,
-    "total_stars_formatted": "5,301,916",
+    "total_discoveries": 320,
+    "total_stars": 5302464,
+    "total_stars_formatted": "5,302,464",
     "categories_count": {
       "🔌 MCP & Tools": 11,
       "🔍 RAG & Search": 43,
-      "🤖 Agents": 199,
+      "🤖 Agents": 200,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
@@ -16,7 +16,7 @@
     },
     "languages_count": {
       "Python": 198,
-      "Rust": 24,
+      "Rust": 25,
       "JavaScript": 6,
       "TypeScript": 47,
       "C": 1,
@@ -63,6 +63,16 @@
       "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
       "stars": 896,
       "stars_formatted": "896"
+    },
+    {
+      "date": "2026-10-30",
+      "name": "mixpeek/amux",
+      "url": "https://github.com/mixpeek/amux",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "The agent control plane: run Claude Code, Codex and Gemini CLI agents in parallel with a shared task board, schedules and usage-limit recovery. Native iPhone, iPad and Mac apps plus a web dashboard. Self-host (Rust + SQLite, Tailscale remote access) or use amux Cloud. MIT + Commons Clause.",
+      "stars": 548,
+      "stars_formatted": "548"
     },
     {
       "date": "2026-10-29",
