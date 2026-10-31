@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-31T03:57:10Z",
+  "generated_at": "2026-10-31T14:16:24Z",
   "stats": {
-    "total_discoveries": 321,
-    "total_stars": 5303591,
-    "total_stars_formatted": "5,303,591",
+    "total_discoveries": 322,
+    "total_stars": 5304477,
+    "total_stars_formatted": "5,304,477",
     "categories_count": {
       "🤖 Agents": 201,
+      "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
-      "🔍 RAG & Search": 43,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🎨 Multimodal": 11,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Jupyter Notebook": 6,
+      "HTML": 2,
       "Python": 198,
       "Rust": 25,
       "JavaScript": 6,
@@ -29,7 +30,6 @@
       "Swift": 2,
       "Ruby": 2,
       "Lean": 1,
-      "HTML": 1,
       "Shell": 1
     }
   },
@@ -53,6 +53,16 @@
       "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
       "stars": 1127,
       "stars_formatted": "1,127"
+    },
+    {
+      "date": "2026-10-31",
+      "name": "xberg-io/html-to-markdown",
+      "url": "https://github.com/xberg-io/html-to-markdown",
+      "language": "HTML",
+      "category": "🔍 RAG & Search",
+      "description": "Turn messy, real-world HTML into clean Markdown, from every major language.",
+      "stars": 886,
+      "stars_formatted": "886"
     },
     {
       "date": "2026-10-30",
