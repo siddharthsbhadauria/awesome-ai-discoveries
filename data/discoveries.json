@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T14:16:24Z",
+  "generated_at": "2026-10-31T19:41:41Z",
   "stats": {
-    "total_discoveries": 322,
-    "total_stars": 5304477,
-    "total_stars_formatted": "5,304,477",
+    "total_discoveries": 323,
+    "total_stars": 5308898,
+    "total_stars_formatted": "5,308,898",
     "categories_count": {
-      "🤖 Agents": 201,
+      "🤖 Agents": 202,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
       "💡 AI Tool": 33,
@@ -15,12 +15,12 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 48,
       "Jupyter Notebook": 6,
       "HTML": 2,
       "Python": 198,
       "Rust": 25,
       "JavaScript": 6,
-      "TypeScript": 47,
       "C": 1,
       "Clojure": 1,
       "Go": 15,
@@ -44,6 +44,16 @@
     "stars_formatted": "41,038"
   },
   "discoveries": [
+    {
+      "date": "2026-10-31",
+      "name": "archestra-ai/archestra",
+      "url": "https://github.com/archestra-ai/archestra",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator",
+      "stars": 4421,
+      "stars_formatted": "4,421"
+    },
     {
       "date": "2026-10-31",
       "name": "NirDiamant/Agent_Memory_Techniques",
