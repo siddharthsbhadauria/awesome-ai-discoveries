@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-01T14:42:50Z",
+  "generated_at": "2026-11-01T20:07:57Z",
   "stats": {
-    "total_discoveries": 325,
-    "total_stars": 5726417,
-    "total_stars_formatted": "5,726,417",
+    "total_discoveries": 326,
+    "total_stars": 5790828,
+    "total_stars_formatted": "5,790,828",
     "categories_count": {
       "🤖 Agents": 203,
+      "💡 AI Tool": 34,
       "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
-      "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
       "🧠 LLM & Frameworks": 17,
       "⚡ Observability": 1
     },
     "languages_count": {
       "TypeScript": 49,
-      "Python": 199,
+      "Python": 200,
       "Jupyter Notebook": 6,
       "HTML": 2,
       "Rust": 25,
@@ -53,6 +53,16 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "stars": 415942,
       "stars_formatted": "415,942"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "keras-team/keras",
+      "url": "https://github.com/keras-team/keras",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "Deep Learning for humans",
+      "stars": 64411,
+      "stars_formatted": "64,411"
     },
     {
       "date": "2026-11-01",

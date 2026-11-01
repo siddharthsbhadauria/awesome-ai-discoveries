@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)**
+The most popular discovery lately: **[morluto/rea](https://github.com/morluto/rea)**
 <!-- FEATURED_END -->
 
 ---
@@ -117,3 +117,4 @@ The most popular discovery lately: **[volcengine/OpenViking](https://github.com/
 | 2026-10-31 | [archestra-ai/archestra](https://github.com/archestra-ai/archestra) | TypeScript | 🤖 Agents | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | ⭐ 4,421 |
 | 2026-11-01 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 🤖 Agents | Reverse engineer anything with agents, from app behavior down to native binaries. | ⭐ 415,942 |
 | 2026-11-01 | [robocorp/rpaframework](https://github.com/robocorp/rpaframework) | Python | 🎨 Multimodal | Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python | ⭐ 1,577 |
+| 2026-11-01 | [keras-team/keras](https://github.com/keras-team/keras) | Python | 💡 AI Tool | Deep Learning for humans | ⭐ 64,411 |
