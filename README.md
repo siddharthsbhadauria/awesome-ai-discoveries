@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[open-webui/open-webui](https://github.com/open-webui/open-webui)**
+The most popular discovery lately: **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)**
 <!-- FEATURED_END -->
 
 ---
@@ -206,3 +206,4 @@ The most popular discovery lately: **[open-webui/open-webui](https://github.com/
 | 2026-10-31 | [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | Jupyter Notebook | 🤖 Agents | Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns. | ⭐ 1,127 |
 | 2026-10-31 | [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) | HTML | 🔍 RAG & Search | Turn messy, real-world HTML into clean Markdown, from every major language. | ⭐ 886 |
 | 2026-10-31 | [archestra-ai/archestra](https://github.com/archestra-ai/archestra) | TypeScript | 🤖 Agents | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | ⭐ 4,421 |
+| 2026-11-01 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 🤖 Agents | Reverse engineer anything with agents, from app behavior down to native binaries. | ⭐ 415,942 |

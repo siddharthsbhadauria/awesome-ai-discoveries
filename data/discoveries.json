@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T19:41:41Z",
+  "generated_at": "2026-11-01T04:14:21Z",
   "stats": {
-    "total_discoveries": 323,
-    "total_stars": 5308898,
-    "total_stars_formatted": "5,308,898",
+    "total_discoveries": 324,
+    "total_stars": 5724840,
+    "total_stars_formatted": "5,724,840",
     "categories_count": {
-      "🤖 Agents": 202,
+      "🤖 Agents": 203,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
       "💡 AI Tool": 33,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 48,
+      "TypeScript": 49,
       "Jupyter Notebook": 6,
       "HTML": 2,
       "Python": 198,
@@ -34,16 +34,26 @@
     }
   },
   "featured": {
-    "date": "2026-10-28",
-    "name": "volcengine/OpenViking",
-    "url": "https://github.com/volcengine/OpenViking",
-    "language": "Python",
+    "date": "2026-11-01",
+    "name": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "language": "TypeScript",
     "category": "🤖 Agents",
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "stars": 41038,
-    "stars_formatted": "41,038"
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "stars": 415942,
+    "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-01",
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 415942,
+      "stars_formatted": "415,942"
+    },
     {
       "date": "2026-10-31",
       "name": "archestra-ai/archestra",
