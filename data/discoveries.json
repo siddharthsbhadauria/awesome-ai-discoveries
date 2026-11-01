@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-01T04:14:21Z",
+  "generated_at": "2026-11-01T14:42:50Z",
   "stats": {
-    "total_discoveries": 324,
-    "total_stars": 5724840,
-    "total_stars_formatted": "5,724,840",
+    "total_discoveries": 325,
+    "total_stars": 5726417,
+    "total_stars_formatted": "5,726,417",
     "categories_count": {
       "🤖 Agents": 203,
+      "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
       "💡 AI Tool": 33,
       "🗄️ Vector DB": 4,
-      "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "⚡ Observability": 1
     },
     "languages_count": {
       "TypeScript": 49,
+      "Python": 199,
       "Jupyter Notebook": 6,
       "HTML": 2,
-      "Python": 198,
       "Rust": 25,
       "JavaScript": 6,
       "C": 1,
@@ -53,6 +53,16 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "stars": 415942,
       "stars_formatted": "415,942"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "robocorp/rpaframework",
+      "url": "https://github.com/robocorp/rpaframework",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python",
+      "stars": 1577,
+      "stars_formatted": "1,577"
     },
     {
       "date": "2026-10-31",
