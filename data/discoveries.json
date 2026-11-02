@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T04:16:28Z",
+  "generated_at": "2026-11-02T17:46:10Z",
   "stats": {
-    "total_discoveries": 327,
-    "total_stars": 5795754,
-    "total_stars_formatted": "5,795,754",
+    "total_discoveries": 328,
+    "total_stars": 5814072,
+    "total_stars_formatted": "5,814,072",
     "categories_count": {
-      "🤖 Agents": 204,
+      "🤖 Agents": 205,
       "💡 AI Tool": 34,
       "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 201,
       "JavaScript": 7,
       "TypeScript": 49,
-      "Python": 200,
       "Jupyter Notebook": 6,
       "HTML": 2,
       "Rust": 25,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-02",
+      "name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.",
+      "stars": 18318,
+      "stars_formatted": "18,318"
+    },
     {
       "date": "2026-11-02",
       "name": "Fei2411/DS-Bot",
