@@ -118,3 +118,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-01 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 🤖 Agents | Reverse engineer anything with agents, from app behavior down to native binaries. | ⭐ 415,942 |
 | 2026-11-01 | [robocorp/rpaframework](https://github.com/robocorp/rpaframework) | Python | 🎨 Multimodal | Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python | ⭐ 1,577 |
 | 2026-11-01 | [keras-team/keras](https://github.com/keras-team/keras) | Python | 💡 AI Tool | Deep Learning for humans | ⭐ 64,411 |
+| 2026-11-02 | [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | JavaScript | 🤖 Agents | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ⭐ 4,926 |
