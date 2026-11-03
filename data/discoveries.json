@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T15:47:34Z",
+  "generated_at": "2026-11-03T21:28:53Z",
   "stats": {
-    "total_discoveries": 330,
-    "total_stars": 5820894,
-    "total_stars_formatted": "5,820,894",
+    "total_discoveries": 331,
+    "total_stars": 5824326,
+    "total_stars_formatted": "5,824,326",
     "categories_count": {
       "🧠 LLM & Frameworks": 19,
+      "💡 AI Tool": 35,
       "🤖 Agents": 205,
-      "💡 AI Tool": 34,
       "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
@@ -16,10 +16,10 @@
     },
     "languages_count": {
       "Python": 203,
+      "HTML": 3,
       "JavaScript": 7,
       "TypeScript": 49,
       "Jupyter Notebook": 6,
-      "HTML": 2,
       "Rust": 25,
       "C": 1,
       "Clojure": 1,
@@ -53,6 +53,16 @@
       "description": "Repair malformed JSON from LLMs, APIs, logs, and user input in Python.",
       "stars": 5130,
       "stars_formatted": "5,130"
+    },
+    {
+      "date": "2026-11-03",
+      "name": "Source-Robotics/PAROL6-Desktop-robot-arm",
+      "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
+      "language": "HTML",
+      "category": "💡 AI Tool",
+      "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
+      "stars": 3432,
+      "stars_formatted": "3,432"
     },
     {
       "date": "2026-11-03",
