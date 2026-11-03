@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-02T17:46:10Z",
+  "generated_at": "2026-11-03T05:14:23Z",
   "stats": {
-    "total_discoveries": 328,
-    "total_stars": 5814072,
-    "total_stars_formatted": "5,814,072",
+    "total_discoveries": 329,
+    "total_stars": 5819202,
+    "total_stars_formatted": "5,819,202",
     "categories_count": {
+      "🧠 LLM & Frameworks": 18,
       "🤖 Agents": 205,
       "💡 AI Tool": 34,
       "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
-      "🧠 LLM & Frameworks": 17,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 201,
+      "Python": 202,
       "JavaScript": 7,
       "TypeScript": 49,
       "Jupyter Notebook": 6,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-03",
+      "name": "mangiucugna/json_repair",
+      "url": "https://github.com/mangiucugna/json_repair",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "Repair malformed JSON from LLMs, APIs, logs, and user input in Python.",
+      "stars": 5130,
+      "stars_formatted": "5,130"
+    },
     {
       "date": "2026-11-02",
       "name": "emcie-co/parlant",

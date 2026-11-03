@@ -120,3 +120,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-01 | [keras-team/keras](https://github.com/keras-team/keras) | Python | 💡 AI Tool | Deep Learning for humans | ⭐ 64,411 |
 | 2026-11-02 | [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | JavaScript | 🤖 Agents | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ⭐ 4,926 |
 | 2026-11-02 | [emcie-co/parlant](https://github.com/emcie-co/parlant) | Python | 🤖 Agents | Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you. | ⭐ 18,318 |
+| 2026-11-03 | [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) | Python | 🧠 LLM & Frameworks | Repair malformed JSON from LLMs, APIs, logs, and user input in Python. | ⭐ 5,130 |
