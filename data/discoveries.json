@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T05:14:23Z",
+  "generated_at": "2026-11-03T15:47:34Z",
   "stats": {
-    "total_discoveries": 329,
-    "total_stars": 5819202,
-    "total_stars_formatted": "5,819,202",
+    "total_discoveries": 330,
+    "total_stars": 5820894,
+    "total_stars_formatted": "5,820,894",
     "categories_count": {
-      "🧠 LLM & Frameworks": 18,
+      "🧠 LLM & Frameworks": 19,
       "🤖 Agents": 205,
       "💡 AI Tool": 34,
       "🎨 Multimodal": 12,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 202,
+      "Python": 203,
       "JavaScript": 7,
       "TypeScript": 49,
       "Jupyter Notebook": 6,
@@ -53,6 +53,16 @@
       "description": "Repair malformed JSON from LLMs, APIs, logs, and user input in Python.",
       "stars": 5130,
       "stars_formatted": "5,130"
+    },
+    {
+      "date": "2026-11-03",
+      "name": "sunlabuiuc/PyHealth",
+      "url": "https://github.com/sunlabuiuc/PyHealth",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.",
+      "stars": 1692,
+      "stars_formatted": "1,692"
     },
     {
       "date": "2026-11-02",
