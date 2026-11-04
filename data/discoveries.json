@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T04:44:42Z",
+  "generated_at": "2026-11-04T15:56:24Z",
   "stats": {
-    "total_discoveries": 332,
-    "total_stars": 5826300,
-    "total_stars_formatted": "5,826,300",
+    "total_discoveries": 333,
+    "total_stars": 5828378,
+    "total_stars_formatted": "5,828,378",
     "categories_count": {
+      "💡 AI Tool": 36,
       "🤖 Agents": 206,
       "🧠 LLM & Frameworks": 19,
-      "💡 AI Tool": 35,
       "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 204,
+      "Python": 205,
       "HTML": 3,
       "JavaScript": 7,
       "TypeScript": 49,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-04",
+      "name": "deepmodeling/deepmd-kit",
+      "url": "https://github.com/deepmodeling/deepmd-kit",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "A deep learning package for many-body potential energy representation and molecular dynamics",
+      "stars": 2078,
+      "stars_formatted": "2,078"
+    },
     {
       "date": "2026-11-04",
       "name": "SemiAnalysisAI/InferenceX",
