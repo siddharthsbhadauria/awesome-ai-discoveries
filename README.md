@@ -125,3 +125,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-03 | [Source-Robotics/PAROL6-Desktop-robot-arm](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) | HTML | 💡 AI Tool | BOM, STL files and instructions for PAROL6 3D printed robot arm | ⭐ 3,432 |
 | 2026-11-04 | [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX) | Python | 🤖 Agents | Open Source AI Accelerator Research Platform Standard / 开源推理研究平台 | ⭐ 1,974 |
 | 2026-11-04 | [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit) | Python | 💡 AI Tool | A deep learning package for many-body potential energy representation and molecular dynamics | ⭐ 2,078 |
+| 2026-11-04 | [unit8co/darts](https://github.com/unit8co/darts) | Python | 💡 AI Tool | A python library for user-friendly forecasting and anomaly detection on time series. | ⭐ 9,574 |

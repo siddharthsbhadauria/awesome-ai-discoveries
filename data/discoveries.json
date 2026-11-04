@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T15:56:24Z",
+  "generated_at": "2026-11-04T21:43:31Z",
   "stats": {
-    "total_discoveries": 333,
-    "total_stars": 5828378,
-    "total_stars_formatted": "5,828,378",
+    "total_discoveries": 334,
+    "total_stars": 5837952,
+    "total_stars_formatted": "5,837,952",
     "categories_count": {
-      "💡 AI Tool": 36,
+      "💡 AI Tool": 37,
       "🤖 Agents": 206,
       "🧠 LLM & Frameworks": 19,
       "🎨 Multimodal": 12,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 205,
+      "Python": 206,
       "HTML": 3,
       "JavaScript": 7,
       "TypeScript": 49,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-04",
+      "name": "unit8co/darts",
+      "url": "https://github.com/unit8co/darts",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "A python library for user-friendly forecasting and anomaly detection on time series.",
+      "stars": 9574,
+      "stars_formatted": "9,574"
+    },
     {
       "date": "2026-11-04",
       "name": "deepmodeling/deepmd-kit",
