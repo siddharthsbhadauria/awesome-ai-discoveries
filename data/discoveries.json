@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T21:28:53Z",
+  "generated_at": "2026-11-04T04:44:42Z",
   "stats": {
-    "total_discoveries": 331,
-    "total_stars": 5824326,
-    "total_stars_formatted": "5,824,326",
+    "total_discoveries": 332,
+    "total_stars": 5826300,
+    "total_stars_formatted": "5,826,300",
     "categories_count": {
+      "🤖 Agents": 206,
       "🧠 LLM & Frameworks": 19,
       "💡 AI Tool": 35,
-      "🤖 Agents": 205,
       "🎨 Multimodal": 12,
       "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 203,
+      "Python": 204,
       "HTML": 3,
       "JavaScript": 7,
       "TypeScript": 49,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-04",
+      "name": "SemiAnalysisAI/InferenceX",
+      "url": "https://github.com/SemiAnalysisAI/InferenceX",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Open Source AI Accelerator Research Platform Standard / 开源推理研究平台",
+      "stars": 1974,
+      "stars_formatted": "1,974"
+    },
     {
       "date": "2026-11-03",
       "name": "mangiucugna/json_repair",

@@ -123,3 +123,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-03 | [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) | Python | 🧠 LLM & Frameworks | Repair malformed JSON from LLMs, APIs, logs, and user input in Python. | ⭐ 5,130 |
 | 2026-11-03 | [sunlabuiuc/PyHealth](https://github.com/sunlabuiuc/PyHealth) | Python | 🧠 LLM & Frameworks | A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines. | ⭐ 1,692 |
 | 2026-11-03 | [Source-Robotics/PAROL6-Desktop-robot-arm](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) | HTML | 💡 AI Tool | BOM, STL files and instructions for PAROL6 3D printed robot arm | ⭐ 3,432 |
+| 2026-11-04 | [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX) | Python | 🤖 Agents | Open Source AI Accelerator Research Platform Standard / 开源推理研究平台 | ⭐ 1,974 |
