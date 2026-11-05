@@ -127,3 +127,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-04 | [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit) | Python | 💡 AI Tool | A deep learning package for many-body potential energy representation and molecular dynamics | ⭐ 2,078 |
 | 2026-11-04 | [unit8co/darts](https://github.com/unit8co/darts) | Python | 💡 AI Tool | A python library for user-friendly forecasting and anomaly detection on time series. | ⭐ 9,574 |
 | 2026-11-05 | [blogminhquy/javis-os](https://github.com/blogminhquy/javis-os) | Python | 🤖 Agents | No description provided. | ⭐ 618 |
+| 2026-11-05 | [apache/pinot](https://github.com/apache/pinot) | Java | 🤖 Agents | Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications | ⭐ 6,172 |

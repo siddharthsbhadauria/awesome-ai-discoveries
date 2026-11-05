@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T04:59:05Z",
+  "generated_at": "2026-11-05T16:05:05Z",
   "stats": {
-    "total_discoveries": 335,
-    "total_stars": 5838570,
-    "total_stars_formatted": "5,838,570",
+    "total_discoveries": 336,
+    "total_stars": 5844742,
+    "total_stars_formatted": "5,844,742",
     "categories_count": {
-      "🤖 Agents": 207,
+      "🤖 Agents": 208,
       "💡 AI Tool": 37,
       "🧠 LLM & Frameworks": 19,
       "🎨 Multimodal": 12,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Java": 8,
       "Python": 207,
       "HTML": 3,
       "JavaScript": 7,
@@ -26,7 +27,6 @@
       "Go": 15,
       "C++": 7,
       "PHP": 1,
-      "Java": 7,
       "Swift": 2,
       "Ruby": 2,
       "Lean": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-05",
+      "name": "apache/pinot",
+      "url": "https://github.com/apache/pinot",
+      "language": "Java",
+      "category": "🤖 Agents",
+      "description": "Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications",
+      "stars": 6172,
+      "stars_formatted": "6,172"
+    },
     {
       "date": "2026-11-05",
       "name": "blogminhquy/javis-os",
