@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-06T04:58:52Z",
+  "generated_at": "2026-11-06T15:38:21Z",
   "stats": {
-    "total_discoveries": 337,
-    "total_stars": 5845306,
-    "total_stars_formatted": "5,845,306",
+    "total_discoveries": 338,
+    "total_stars": 5855552,
+    "total_stars_formatted": "5,855,552",
     "categories_count": {
+      "🧠 LLM & Frameworks": 20,
       "🔍 RAG & Search": 45,
       "🤖 Agents": 208,
       "💡 AI Tool": 37,
-      "🧠 LLM & Frameworks": 19,
       "🎨 Multimodal": 12,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 208,
+      "Python": 209,
       "Java": 8,
       "HTML": 3,
       "JavaScript": 7,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-06",
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "language": "Python",
+      "category": "🧠 LLM & Frameworks",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "stars": 10246,
+      "stars_formatted": "10,246"
+    },
     {
       "date": "2026-11-06",
       "name": "Azure-Samples/aisearch-openai-rag-audio",
