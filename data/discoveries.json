@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T15:38:21Z",
+  "generated_at": "2026-11-06T21:15:10Z",
   "stats": {
-    "total_discoveries": 338,
-    "total_stars": 5855552,
-    "total_stars_formatted": "5,855,552",
+    "total_discoveries": 339,
+    "total_stars": 5856154,
+    "total_stars_formatted": "5,856,154",
     "categories_count": {
       "🧠 LLM & Frameworks": 20,
+      "🤖 Agents": 209,
       "🔍 RAG & Search": 45,
-      "🤖 Agents": 208,
       "💡 AI Tool": 37,
       "🎨 Multimodal": 12,
       "🔌 MCP & Tools": 11,
@@ -16,10 +16,10 @@
     },
     "languages_count": {
       "Python": 209,
+      "TypeScript": 50,
       "Java": 8,
       "HTML": 3,
       "JavaScript": 7,
-      "TypeScript": 49,
       "Jupyter Notebook": 6,
       "Rust": 25,
       "C": 1,
@@ -53,6 +53,16 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "stars": 10246,
       "stars_formatted": "10,246"
+    },
+    {
+      "date": "2026-11-06",
+      "name": "greenfield-inc/Pane",
+      "url": "https://github.com/greenfield-inc/Pane",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in parallel. Run locally or self-host Remote Pane to manage agents from desktop or phone. Simplify multi-agent orchestration with the runpane CLI.",
+      "stars": 602,
+      "stars_formatted": "602"
     },
     {
       "date": "2026-11-06",
