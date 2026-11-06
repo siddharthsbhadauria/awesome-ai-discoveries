@@ -128,3 +128,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-04 | [unit8co/darts](https://github.com/unit8co/darts) | Python | 💡 AI Tool | A python library for user-friendly forecasting and anomaly detection on time series. | ⭐ 9,574 |
 | 2026-11-05 | [blogminhquy/javis-os](https://github.com/blogminhquy/javis-os) | Python | 🤖 Agents | No description provided. | ⭐ 618 |
 | 2026-11-05 | [apache/pinot](https://github.com/apache/pinot) | Java | 🤖 Agents | Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications | ⭐ 6,172 |
+| 2026-11-06 | [Azure-Samples/aisearch-openai-rag-audio](https://github.com/Azure-Samples/aisearch-openai-rag-audio) | Python | 🔍 RAG & Search | A simple example implementation of the VoiceRAG pattern to power interactive voice generative AI experiences using RAG with Azure AI Search and Azure OpenAI's gpt-4o-realtime-preview model. | ⭐ 564 |

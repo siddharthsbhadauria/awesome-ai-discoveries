@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-05T16:05:05Z",
+  "generated_at": "2026-11-06T04:58:52Z",
   "stats": {
-    "total_discoveries": 336,
-    "total_stars": 5844742,
-    "total_stars_formatted": "5,844,742",
+    "total_discoveries": 337,
+    "total_stars": 5845306,
+    "total_stars_formatted": "5,845,306",
     "categories_count": {
+      "🔍 RAG & Search": 45,
       "🤖 Agents": 208,
       "💡 AI Tool": 37,
       "🧠 LLM & Frameworks": 19,
       "🎨 Multimodal": 12,
-      "🔍 RAG & Search": 44,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 208,
       "Java": 8,
-      "Python": 207,
       "HTML": 3,
       "JavaScript": 7,
       "TypeScript": 49,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-06",
+      "name": "Azure-Samples/aisearch-openai-rag-audio",
+      "url": "https://github.com/Azure-Samples/aisearch-openai-rag-audio",
+      "language": "Python",
+      "category": "🔍 RAG & Search",
+      "description": "A simple example implementation of the VoiceRAG pattern to power interactive voice generative AI experiences using RAG with Azure AI Search and Azure OpenAI's gpt-4o-realtime-preview model.",
+      "stars": 564,
+      "stars_formatted": "564"
+    },
     {
       "date": "2026-11-05",
       "name": "apache/pinot",
