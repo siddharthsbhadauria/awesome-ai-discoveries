@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-11-07T04:31:52Z",
+  "generated_at": "2026-11-07T14:38:52Z",
   "stats": {
-    "total_discoveries": 340,
-    "total_stars": 5857345,
-    "total_stars_formatted": "5,857,345",
+    "total_discoveries": 341,
+    "total_stars": 5871817,
+    "total_stars_formatted": "5,871,817",
     "categories_count": {
+      "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
       "🧠 LLM & Frameworks": 20,
       "🤖 Agents": 209,
       "💡 AI Tool": 37,
-      "🎨 Multimodal": 12,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "C++": 8,
       "Swift": 3,
       "Python": 209,
       "TypeScript": 50,
@@ -26,7 +27,6 @@
       "C": 1,
       "Clojure": 1,
       "Go": 15,
-      "C++": 7,
       "PHP": 1,
       "Ruby": 2,
       "Lean": 1,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-07",
+      "name": "davisking/dlib",
+      "url": "https://github.com/davisking/dlib",
+      "language": "C++",
+      "category": "🎨 Multimodal",
+      "description": "A toolkit for making real world machine learning and data analysis applications in C++",
+      "stars": 14472,
+      "stars_formatted": "14,472"
+    },
     {
       "date": "2026-11-07",
       "name": "rudrankriyam/Foundation-Models-Framework-Lab",
