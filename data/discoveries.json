@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T14:44:34Z",
+  "generated_at": "2026-11-08T20:09:03Z",
   "stats": {
-    "total_discoveries": 344,
-    "total_stars": 5898699,
-    "total_stars_formatted": "5,898,699",
+    "total_discoveries": 345,
+    "total_stars": 5903263,
+    "total_stars_formatted": "5,903,263",
     "categories_count": {
       "💡 AI Tool": 38,
-      "🤖 Agents": 211,
+      "🤖 Agents": 212,
       "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
       "🧠 LLM & Frameworks": 20,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 210,
+      "Go": 16,
       "TypeScript": 51,
       "C++": 8,
       "Swift": 3,
@@ -26,7 +27,6 @@
       "Rust": 25,
       "C": 1,
       "Clojure": 1,
-      "Go": 15,
       "PHP": 1,
       "Ruby": 2,
       "Lean": 1,
@@ -53,6 +53,16 @@
       "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
       "stars": 23656,
       "stars_formatted": "23,656"
+    },
+    {
+      "date": "2026-11-08",
+      "name": "dagucloud/dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "language": "Go",
+      "category": "🤖 Agents",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "stars": 4564,
+      "stars_formatted": "4,564"
     },
     {
       "date": "2026-11-08",
