@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-08T04:18:17Z",
+  "generated_at": "2026-11-08T14:44:34Z",
   "stats": {
-    "total_discoveries": 343,
-    "total_stars": 5896253,
-    "total_stars_formatted": "5,896,253",
+    "total_discoveries": 344,
+    "total_stars": 5898699,
+    "total_stars_formatted": "5,898,699",
     "categories_count": {
       "💡 AI Tool": 38,
+      "🤖 Agents": 211,
       "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
-      "🤖 Agents": 210,
       "🧠 LLM & Frameworks": 20,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
@@ -16,10 +16,10 @@
     },
     "languages_count": {
       "Python": 210,
+      "TypeScript": 51,
       "C++": 8,
       "Swift": 3,
       "JavaScript": 8,
-      "TypeScript": 50,
       "Java": 8,
       "HTML": 3,
       "Jupyter Notebook": 6,
@@ -53,6 +53,16 @@
       "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
       "stars": 23656,
       "stars_formatted": "23,656"
+    },
+    {
+      "date": "2026-11-08",
+      "name": "777genius/agent-teams-ai",
+      "url": "https://github.com/777genius/agent-teams-ai",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub/Kiro/Z.AI/Xiaomi/MiniMax/Kimi(300+ models, 200+ LLM providers, free models no auth) Build your AI company with multiple teams",
+      "stars": 2446,
+      "stars_formatted": "2,446"
     },
     {
       "date": "2026-11-07",
