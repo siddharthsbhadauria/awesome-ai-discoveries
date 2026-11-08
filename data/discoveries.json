@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-07T19:51:08Z",
+  "generated_at": "2026-11-08T04:18:17Z",
   "stats": {
-    "total_discoveries": 342,
-    "total_stars": 5872597,
-    "total_stars_formatted": "5,872,597",
+    "total_discoveries": 343,
+    "total_stars": 5896253,
+    "total_stars_formatted": "5,896,253",
     "categories_count": {
+      "💡 AI Tool": 38,
       "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
       "🤖 Agents": 210,
       "🧠 LLM & Frameworks": 20,
-      "💡 AI Tool": 37,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 210,
       "C++": 8,
       "Swift": 3,
       "JavaScript": 8,
-      "Python": 209,
       "TypeScript": 50,
       "Java": 8,
       "HTML": 3,
@@ -44,6 +44,16 @@
     "stars_formatted": "415,942"
   },
   "discoveries": [
+    {
+      "date": "2026-11-08",
+      "name": "serengil/deepface",
+      "url": "https://github.com/serengil/deepface",
+      "language": "Python",
+      "category": "💡 AI Tool",
+      "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+      "stars": 23656,
+      "stars_formatted": "23,656"
+    },
     {
       "date": "2026-11-07",
       "name": "davisking/dlib",
