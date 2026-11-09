@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T20:09:03Z",
+  "generated_at": "2026-11-09T04:32:03Z",
   "stats": {
-    "total_discoveries": 345,
-    "total_stars": 5903263,
-    "total_stars_formatted": "5,903,263",
+    "total_discoveries": 346,
+    "total_stars": 5904588,
+    "total_stars_formatted": "5,904,588",
     "categories_count": {
-      "💡 AI Tool": 38,
+      "💡 AI Tool": 39,
       "🤖 Agents": 212,
       "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 52,
       "Python": 210,
       "Go": 16,
-      "TypeScript": 51,
       "C++": 8,
       "Swift": 3,
       "JavaScript": 8,
@@ -34,16 +34,26 @@
     }
   },
   "featured": {
-    "date": "2026-11-01",
-    "name": "morluto/rea",
-    "url": "https://github.com/morluto/rea",
-    "language": "TypeScript",
-    "category": "🤖 Agents",
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "stars": 415942,
-    "stars_formatted": "415,942"
+    "date": "2026-11-08",
+    "name": "serengil/deepface",
+    "url": "https://github.com/serengil/deepface",
+    "language": "Python",
+    "category": "💡 AI Tool",
+    "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+    "stars": 23656,
+    "stars_formatted": "23,656"
   },
   "discoveries": [
+    {
+      "date": "2026-11-09",
+      "name": "datadrivenconstruction/OpenConstructionERP",
+      "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
+      "language": "TypeScript",
+      "category": "💡 AI Tool",
+      "description": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 120,000+ priced positions, 44 languages, 190+ modules, cost data for 40+ markets. AGPL-3.0. pip install openconstructionerp",
+      "stars": 1325,
+      "stars_formatted": "1,325"
+    },
     {
       "date": "2026-11-08",
       "name": "serengil/deepface",
