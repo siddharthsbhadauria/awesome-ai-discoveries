@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-09T04:32:03Z",
+  "generated_at": "2026-11-10T05:51:53Z",
   "stats": {
-    "total_discoveries": 346,
-    "total_stars": 5904588,
-    "total_stars_formatted": "5,904,588",
+    "total_discoveries": 347,
+    "total_stars": 5905610,
+    "total_stars_formatted": "5,905,610",
     "categories_count": {
+      "🧠 LLM & Frameworks": 21,
       "💡 AI Tool": 39,
       "🤖 Agents": 212,
       "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
-      "🧠 LLM & Frameworks": 20,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 52,
+      "TypeScript": 53,
       "Python": 210,
       "Go": 16,
       "C++": 8,
@@ -44,6 +44,16 @@
     "stars_formatted": "23,656"
   },
   "discoveries": [
+    {
+      "date": "2026-11-10",
+      "name": "alumnium-hq/alumnium",
+      "url": "https://github.com/alumnium-hq/alumnium",
+      "language": "TypeScript",
+      "category": "🧠 LLM & Frameworks",
+      "description": "End-to-End Testing Harness",
+      "stars": 1022,
+      "stars_formatted": "1,022"
+    },
     {
       "date": "2026-11-09",
       "name": "datadrivenconstruction/OpenConstructionERP",
