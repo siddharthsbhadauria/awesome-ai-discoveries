@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T05:51:53Z",
+  "generated_at": "2026-11-10T16:03:45Z",
   "stats": {
-    "total_discoveries": 347,
-    "total_stars": 5905610,
-    "total_stars_formatted": "5,905,610",
+    "total_discoveries": 348,
+    "total_stars": 5952545,
+    "total_stars_formatted": "5,952,545",
     "categories_count": {
+      "🤖 Agents": 213,
       "🧠 LLM & Frameworks": 21,
       "💡 AI Tool": 39,
-      "🤖 Agents": 212,
       "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
       "🔌 MCP & Tools": 11,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 53,
+      "TypeScript": 54,
       "Python": 210,
       "Go": 16,
       "C++": 8,
@@ -34,16 +34,26 @@
     }
   },
   "featured": {
-    "date": "2026-11-08",
-    "name": "serengil/deepface",
-    "url": "https://github.com/serengil/deepface",
-    "language": "Python",
-    "category": "💡 AI Tool",
-    "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
-    "stars": 23656,
-    "stars_formatted": "23,656"
+    "date": "2026-11-10",
+    "name": "LibreChat-AI/LibreChat",
+    "url": "https://github.com/LibreChat-AI/LibreChat",
+    "language": "TypeScript",
+    "category": "🤖 Agents",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "stars": 46935,
+    "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-10",
+      "name": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "stars": 46935,
+      "stars_formatted": "46,935"
+    },
     {
       "date": "2026-11-10",
       "name": "alumnium-hq/alumnium",
