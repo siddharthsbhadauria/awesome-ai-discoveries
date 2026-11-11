@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-10T16:03:45Z",
+  "generated_at": "2026-11-11T04:36:22Z",
   "stats": {
-    "total_discoveries": 348,
-    "total_stars": 5952545,
-    "total_stars_formatted": "5,952,545",
+    "total_discoveries": 349,
+    "total_stars": 5968854,
+    "total_stars_formatted": "5,968,854",
     "categories_count": {
+      "🎨 Multimodal": 14,
       "🤖 Agents": 213,
       "🧠 LLM & Frameworks": 21,
       "💡 AI Tool": 39,
-      "🎨 Multimodal": 13,
       "🔍 RAG & Search": 46,
       "🔌 MCP & Tools": 11,
       "🗄️ Vector DB": 4,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 211,
       "TypeScript": 54,
-      "Python": 210,
       "Go": 16,
       "C++": 8,
       "Swift": 3,
@@ -44,6 +44,16 @@
     "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-11",
+      "name": "wkentaro/labelme",
+      "url": "https://github.com/wkentaro/labelme",
+      "language": "Python",
+      "category": "🎨 Multimodal",
+      "description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+      "stars": 16309,
+      "stars_formatted": "16,309"
+    },
     {
       "date": "2026-11-10",
       "name": "LibreChat-AI/LibreChat",
