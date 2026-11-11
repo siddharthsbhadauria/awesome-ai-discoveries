@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T04:36:22Z",
+  "generated_at": "2026-11-11T15:49:52Z",
   "stats": {
-    "total_discoveries": 349,
-    "total_stars": 5968854,
-    "total_stars_formatted": "5,968,854",
+    "total_discoveries": 350,
+    "total_stars": 5969927,
+    "total_stars_formatted": "5,969,927",
     "categories_count": {
       "🎨 Multimodal": 14,
-      "🤖 Agents": 213,
+      "🤖 Agents": 214,
       "🧠 LLM & Frameworks": 21,
       "💡 AI Tool": 39,
       "🔍 RAG & Search": 46,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "Python": 211,
+      "Python": 212,
       "TypeScript": 54,
       "Go": 16,
       "C++": 8,
@@ -53,6 +53,16 @@
       "description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
       "stars": 16309,
       "stars_formatted": "16,309"
+    },
+    {
+      "date": "2026-11-11",
+      "name": "dynamiq-ai/dynamiq",
+      "url": "https://github.com/dynamiq-ai/dynamiq",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+      "stars": 1073,
+      "stars_formatted": "1,073"
     },
     {
       "date": "2026-11-10",
