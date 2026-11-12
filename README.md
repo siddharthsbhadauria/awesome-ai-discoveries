@@ -118,3 +118,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-11 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | Python | 🤖 Agents | Dynamiq is an orchestration framework for agentic AI and LLM applications | ⭐ 1,073 |
 | 2026-11-11 | [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | Kotlin | 🤖 Agents | Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ | ⭐ 4,557 |
 | 2026-11-12 | [modelscope/modelscope](https://github.com/modelscope/modelscope) | Python | 🎨 Multimodal | ModelScope: bring the notion of Model-as-a-Service to life. | ⭐ 9,216 |
+| 2026-11-12 | [Th0rgal/orb](https://github.com/Th0rgal/orb) | Lean | 🤖 Agents | All your AI providers, machines, and agent harnesses in one place. Free & native | ⭐ 714 |

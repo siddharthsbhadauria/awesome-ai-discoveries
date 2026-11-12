@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T05:40:07Z",
+  "generated_at": "2026-11-12T16:32:25Z",
   "stats": {
-    "total_discoveries": 261,
-    "total_stars": 4722150,
-    "total_stars_formatted": "4,722,150",
+    "total_discoveries": 262,
+    "total_stars": 4722864,
+    "total_stars_formatted": "4,722,864",
     "categories_count": {
       "🎨 Multimodal": 11,
-      "🤖 Agents": 155,
+      "🤖 Agents": 156,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
       "🔍 RAG & Search": 33,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 166,
+      "Lean": 2,
       "Kotlin": 1,
       "TypeScript": 37,
       "Go": 11,
@@ -30,7 +31,6 @@
       "Clojure": 1,
       "PHP": 1,
       "Ruby": 1,
-      "Lean": 1,
       "Shell": 1
     }
   },
@@ -54,6 +54,16 @@
       "description": "ModelScope: bring the notion of Model-as-a-Service to life.",
       "stars": 9216,
       "stars_formatted": "9,216"
+    },
+    {
+      "date": "2026-11-12",
+      "name": "Th0rgal/orb",
+      "url": "https://github.com/Th0rgal/orb",
+      "language": "Lean",
+      "category": "🤖 Agents",
+      "description": "All your AI providers, machines, and agent harnesses in one place. Free & native",
+      "stars": 714,
+      "stars_formatted": "714"
     },
     {
       "date": "2026-11-11",
