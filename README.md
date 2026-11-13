@@ -119,3 +119,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-11 | [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | Kotlin | 🤖 Agents | Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ | ⭐ 4,557 |
 | 2026-11-12 | [modelscope/modelscope](https://github.com/modelscope/modelscope) | Python | 🎨 Multimodal | ModelScope: bring the notion of Model-as-a-Service to life. | ⭐ 9,216 |
 | 2026-11-12 | [Th0rgal/orb](https://github.com/Th0rgal/orb) | Lean | 🤖 Agents | All your AI providers, machines, and agent harnesses in one place. Free & native | ⭐ 714 |
+| 2026-11-13 | [nexu-io/openmotion](https://github.com/nexu-io/openmotion) | TypeScript | 🤖 Agents | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ⭐ 9,777 |

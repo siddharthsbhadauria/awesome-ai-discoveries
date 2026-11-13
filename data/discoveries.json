@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T16:32:25Z",
+  "generated_at": "2026-11-13T04:56:56Z",
   "stats": {
-    "total_discoveries": 262,
-    "total_stars": 4722864,
-    "total_stars_formatted": "4,722,864",
+    "total_discoveries": 263,
+    "total_stars": 4732641,
+    "total_stars_formatted": "4,732,641",
     "categories_count": {
+      "🤖 Agents": 157,
       "🎨 Multimodal": 11,
-      "🤖 Agents": 156,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
       "🔍 RAG & Search": 33,
@@ -15,10 +15,10 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 38,
       "Python": 166,
       "Lean": 2,
       "Kotlin": 1,
-      "TypeScript": 37,
       "Go": 11,
       "C++": 4,
       "Swift": 1,
@@ -45,6 +45,16 @@
     "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-13",
+      "name": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice.",
+      "stars": 9777,
+      "stars_formatted": "9,777"
+    },
     {
       "date": "2026-11-12",
       "name": "modelscope/modelscope",
