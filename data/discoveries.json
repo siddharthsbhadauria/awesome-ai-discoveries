@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T04:56:56Z",
+  "generated_at": "2026-11-13T15:53:55Z",
   "stats": {
-    "total_discoveries": 263,
-    "total_stars": 4732641,
-    "total_stars_formatted": "4,732,641",
+    "total_discoveries": 264,
+    "total_stars": 4765148,
+    "total_stars_formatted": "4,765,148",
     "categories_count": {
-      "🤖 Agents": 157,
+      "🤖 Agents": 158,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
@@ -15,8 +15,8 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Python": 167,
       "TypeScript": 38,
-      "Python": 166,
       "Lean": 2,
       "Kotlin": 1,
       "Go": 11,
@@ -45,6 +45,16 @@
     "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-13",
+      "name": "feder-cr/Jobs_Applier_AI_Agent",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+      "language": "Python",
+      "category": "🤖 Agents",
+      "description": "AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.",
+      "stars": 32507,
+      "stars_formatted": "32,507"
+    },
     {
       "date": "2026-11-13",
       "name": "nexu-io/openmotion",
