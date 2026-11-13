@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T15:53:55Z",
+  "generated_at": "2026-11-13T21:47:26Z",
   "stats": {
-    "total_discoveries": 264,
-    "total_stars": 4765148,
-    "total_stars_formatted": "4,765,148",
+    "total_discoveries": 265,
+    "total_stars": 4767302,
+    "total_stars_formatted": "4,767,302",
     "categories_count": {
-      "🤖 Agents": 158,
+      "🤖 Agents": 159,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
@@ -17,6 +17,7 @@
     "languages_count": {
       "Python": 167,
       "TypeScript": 38,
+      "Rust": 16,
       "Lean": 2,
       "Kotlin": 1,
       "Go": 11,
@@ -26,7 +27,6 @@
       "Java": 8,
       "HTML": 3,
       "Jupyter Notebook": 2,
-      "Rust": 15,
       "C": 1,
       "Clojure": 1,
       "PHP": 1,
@@ -64,6 +64,16 @@
       "description": "The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice.",
       "stars": 9777,
       "stars_formatted": "9,777"
+    },
+    {
+      "date": "2026-11-13",
+      "name": "the-open-engine/zeroshot",
+      "url": "https://github.com/the-open-engine/zeroshot",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Multi-agent graph orchestration engine for building your own software factory. Bring your own QA workflow, and the engine enforces it.",
+      "stars": 2154,
+      "stars_formatted": "2,154"
     },
     {
       "date": "2026-11-12",
