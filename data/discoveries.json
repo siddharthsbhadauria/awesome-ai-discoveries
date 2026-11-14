@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T04:50:23Z",
+  "generated_at": "2026-11-14T14:44:09Z",
   "stats": {
-    "total_discoveries": 266,
-    "total_stars": 4767836,
-    "total_stars_formatted": "4,767,836",
+    "total_discoveries": 267,
+    "total_stars": 4769208,
+    "total_stars_formatted": "4,769,208",
     "categories_count": {
-      "🤖 Agents": 160,
+      "🤖 Agents": 161,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "TypeScript": 39,
       "Rust": 17,
       "Python": 167,
-      "TypeScript": 38,
       "Lean": 2,
       "Kotlin": 1,
       "Go": 11,
@@ -45,6 +45,16 @@
     "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-14",
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "stars": 1372,
+      "stars_formatted": "1,372"
+    },
     {
       "date": "2026-11-14",
       "name": "alexsergivan/kwant",
