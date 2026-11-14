@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T14:44:09Z",
+  "generated_at": "2026-11-14T20:22:56Z",
   "stats": {
-    "total_discoveries": 267,
-    "total_stars": 4769208,
-    "total_stars_formatted": "4,769,208",
+    "total_discoveries": 268,
+    "total_stars": 4769657,
+    "total_stars_formatted": "4,769,657",
     "categories_count": {
-      "🤖 Agents": 161,
+      "🤖 Agents": 162,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
@@ -15,7 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
-      "TypeScript": 39,
+      "TypeScript": 40,
       "Rust": 17,
       "Python": 167,
       "Lean": 2,
@@ -64,6 +64,16 @@
       "description": "Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React.",
       "stars": 534,
       "stars_formatted": "534"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "smithersai/smithers",
+      "url": "https://github.com/smithersai/smithers",
+      "language": "TypeScript",
+      "category": "🤖 Agents",
+      "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably",
+      "stars": 449,
+      "stars_formatted": "449"
     },
     {
       "date": "2026-11-13",
