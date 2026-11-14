@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T21:47:26Z",
+  "generated_at": "2026-11-14T04:50:23Z",
   "stats": {
-    "total_discoveries": 265,
-    "total_stars": 4767302,
-    "total_stars_formatted": "4,767,302",
+    "total_discoveries": 266,
+    "total_stars": 4767836,
+    "total_stars_formatted": "4,767,836",
     "categories_count": {
-      "🤖 Agents": 159,
+      "🤖 Agents": 160,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
@@ -15,9 +15,9 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 17,
       "Python": 167,
       "TypeScript": 38,
-      "Rust": 16,
       "Lean": 2,
       "Kotlin": 1,
       "Go": 11,
@@ -45,6 +45,16 @@
     "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-14",
+      "name": "alexsergivan/kwant",
+      "url": "https://github.com/alexsergivan/kwant",
+      "language": "Rust",
+      "category": "🤖 Agents",
+      "description": "Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React.",
+      "stars": 534,
+      "stars_formatted": "534"
+    },
     {
       "date": "2026-11-13",
       "name": "feder-cr/Jobs_Applier_AI_Agent",
