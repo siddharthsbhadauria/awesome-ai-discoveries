@@ -9,7 +9,7 @@
 
 <!-- FEATURED_START -->
 ### 🏆 Project of the Week
-The most popular discovery lately: **[morluto/rea](https://github.com/morluto/rea)**
+The most popular discovery lately: **[LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat)**
 <!-- FEATURED_END -->
 
 ---
@@ -125,3 +125,4 @@ The most popular discovery lately: **[morluto/rea](https://github.com/morluto/re
 | 2026-11-14 | [alexsergivan/kwant](https://github.com/alexsergivan/kwant) | Rust | 🤖 Agents | Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React. | ⭐ 534 |
 | 2026-11-14 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | TypeScript | 🤖 Agents | Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. | ⭐ 1,372 |
 | 2026-11-14 | [smithersai/smithers](https://github.com/smithersai/smithers) | TypeScript | 🤖 Agents | Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably | ⭐ 449 |
+| 2026-11-15 | [UCS-Care-Group/mailcraft](https://github.com/UCS-Care-Group/mailcraft) | Rust | 🔌 MCP & Tools | MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha. | ⭐ 686 |

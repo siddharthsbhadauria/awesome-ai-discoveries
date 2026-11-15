@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-14T20:22:56Z",
+  "generated_at": "2026-11-15T04:42:42Z",
   "stats": {
-    "total_discoveries": 268,
-    "total_stars": 4769657,
-    "total_stars_formatted": "4,769,657",
+    "total_discoveries": 269,
+    "total_stars": 4770343,
+    "total_stars_formatted": "4,770,343",
     "categories_count": {
+      "🔌 MCP & Tools": 11,
       "🤖 Agents": 162,
       "🎨 Multimodal": 11,
       "🧠 LLM & Frameworks": 17,
       "💡 AI Tool": 32,
       "🔍 RAG & Search": 33,
-      "🔌 MCP & Tools": 10,
       "🗄️ Vector DB": 2,
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Rust": 18,
       "TypeScript": 40,
-      "Rust": 17,
       "Python": 167,
       "Lean": 2,
       "Kotlin": 1,
@@ -45,6 +45,16 @@
     "stars_formatted": "46,935"
   },
   "discoveries": [
+    {
+      "date": "2026-11-15",
+      "name": "UCS-Care-Group/mailcraft",
+      "url": "https://github.com/UCS-Care-Group/mailcraft",
+      "language": "Rust",
+      "category": "🔌 MCP & Tools",
+      "description": "MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.",
+      "stars": 686,
+      "stars_formatted": "686"
+    },
     {
       "date": "2026-11-14",
       "name": "agentes-chat/agentes-chat",
