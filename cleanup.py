@@ -1,16 +1,17 @@
 import os
 from datetime import datetime
 
+
 def archive_old_entries(limit=100):
     if not os.path.exists("README.md"):
         return
 
-    with open("README.md", "r", encoding="utf-8") as f:
+    with open("README.md", encoding="utf-8") as f:
         lines = f.readlines()
 
     header = []
     table_rows = []
-    
+
     # Separate the header/Project of the Week from the table data
     for line in lines:
         if line.startswith("| 20"): # Matches date rows
@@ -35,13 +36,13 @@ def archive_old_entries(limit=100):
     # 2. Save old entries to an archive file
     archive_date = datetime.now().strftime("%Y-%m")
     archive_path = f"archive/log_{archive_date}.md"
-    
+
     with open(archive_path, "w", encoding="utf-8") as f:
         f.write(f"# Archive for {archive_date}\n\n")
         f.write("| Date | Repository | Language | Category | Description | Stars |\n")
         f.write("| :--- | :--- | :--- | :--- | :--- | :--- |\n")
         f.writelines(to_archive)
-        
+
     print(f"Moved {len(to_archive)} entries to {archive_path}")
 
 if __name__ == "__main__":

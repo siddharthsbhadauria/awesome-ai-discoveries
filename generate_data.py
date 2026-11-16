@@ -1,14 +1,15 @@
-import os
 import json
+import os
 import re
-from datetime import datetime, timezone, timedelta
+from datetime import UTC, datetime, timedelta
+
 
 def parse_markdown_table_file(filepath):
     entries = []
     if not os.path.exists(filepath):
         return entries
 
-    with open(filepath, "r", encoding="utf-8") as f:
+    with open(filepath, encoding="utf-8") as f:
         for line in f:
             if line.startswith("| 20"):
                 parts = [p.strip() for p in line.split("|")]
@@ -17,7 +18,7 @@ def parse_markdown_table_file(filepath):
                 if len(parts) >= 6:
                     date_val = parts[1]
                     repo_link = parts[2]
-                    
+
                     # Extract name and url from markdown link
                     match = re.search(r'\[([^\]]+)\]\(([^\)]+)\)', repo_link)
                     if not match:
@@ -32,7 +33,7 @@ def parse_markdown_table_file(filepath):
                         stars_raw = parts[6]
                     else: # 4-col legacy
                         language = "Python"
-                        category = "💡 AI Tool"
+                        category = "AI Tool"
                         desc = parts[3]
                         stars_raw = parts[4]
 
@@ -84,7 +85,7 @@ def generate_json_data():
             total_stars += item["stars"]
 
     # Featured Project of the Week (highest star count in past 7 days, fallback to 7 newest)
-    one_week_ago_str = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
+    one_week_ago_str = (datetime.now(UTC) - timedelta(days=7)).strftime("%Y-%m-%d")
     recent_candidates = [e for e in unique_entries if e["date"] >= one_week_ago_str]
     if recent_candidates:
         featured = max(recent_candidates, key=lambda x: x["stars"])
@@ -103,7 +104,7 @@ def generate_json_data():
         languages_count[lang] = languages_count.get(lang, 0) + 1
 
     site_data = {
-        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "stats": {
             "total_discoveries": len(unique_entries),
             "total_stars": total_stars,
