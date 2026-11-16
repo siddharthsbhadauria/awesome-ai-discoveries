@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T20:47:26Z",
+  "generated_at": "2026-11-16T04:39:14Z",
   "stats": {
-    "total_discoveries": 271,
-    "total_stars": 4847114,
-    "total_stars_formatted": "4,847,114",
+    "total_discoveries": 272,
+    "total_stars": 4847924,
+    "total_stars_formatted": "4,847,924",
     "categories_count": {
-      "🤖 Agents": 163,
+      "🤖 Agents": 164,
       "🔍 RAG & Search": 34,
       "🔌 MCP & Tools": 11,
       "🎨 Multimodal": 11,
@@ -15,6 +15,7 @@
       "⚡ Observability": 1
     },
     "languages_count": {
+      "Swift": 2,
       "Python": 168,
       "Rust": 19,
       "TypeScript": 40,
@@ -22,7 +23,6 @@
       "Kotlin": 1,
       "Go": 11,
       "C++": 4,
-      "Swift": 1,
       "JavaScript": 7,
       "Java": 8,
       "HTML": 3,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-16",
+      "name": "christopherkarani/Wax",
+      "url": "https://github.com/christopherkarani/Wax",
+      "language": "Swift",
+      "category": "🤖 Agents",
+      "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift",
+      "stars": 810,
+      "stars_formatted": "810"
+    },
     {
       "date": "2026-11-15",
       "name": "openbq-org/OpenBB",
