@@ -1,351 +1,187 @@
-// ==========================================================================
-// Awesome AI Discoveries - Frontend Engine (Theme & Interactive Features)
-// ==========================================================================
+// Awesome AI Discoveries. Renders data/discoveries.json (built by generate_data.py).
 
-let appState = {
-  discoveries: [],
-  filtered: [],
-  selectedCategory: 'ALL',
-  searchQuery: '',
-  sortBy: 'date-desc',
-  viewMode: 'grid',
-  activeModalItem: null
-};
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({
+  '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+}[c]));
+// The bot prefixes categories with an emoji ("🤖 Agents"); show the words only.
+const topicName = (c) => String(c || 'Other').replace(/^[^\p{L}\p{N}]+/u, '').trim() || 'Other';
+const fmtDate = (iso, opts = { day: 'numeric', month: 'short' }) =>
+  new Date(`${iso}T00:00:00Z`).toLocaleDateString('en-GB', { ...opts, timeZone: 'UTC' });
+const fmtStars = (n) => (n >= 10000 ? `${(n / 1000).toFixed(n >= 100000 ? 0 : 1)}k` : n.toLocaleString('en-GB'));
+const safeUrl = (u) => (/^https:\/\/github\.com\//.test(u) ? u : '#');
 
-document.addEventListener('DOMContentLoaded', () => {
+const PAGE = 40;
+const state = { items: [], topic: '', lang: '', sort: 'date', query: '', shown: PAGE };
+
+document.addEventListener('DOMContentLoaded', async () => {
   initTheme();
-  initApp();
+  let data = null;
+  try { data = await (await fetch('data/discoveries.json')).json(); } catch (e) { data = null; }
+  if (data && data.discoveries?.length) {
+    state.items = data.discoveries.map((d) => ({ ...d, topic: topicName(d.category) }));
+    renderUpdated(data.generated_at);
+    renderHeadline(state.items);
+    renderDays(state.items);
+    renderTopics(state.items);
+    initTable();
+  } else {
+    document.getElementById('tableBody').innerHTML = '<tr><td colspan="5" class="empty">The list could not be loaded.</td></tr>';
+  }
+  initBand();
+  initReveal();
 });
 
-// --- Theme Engine ---
 function initTheme() {
-  const savedTheme = localStorage.getItem('theme');
-  const prefersLight = window.matchMedia('(prefers-color-scheme: light)').matches;
-  const initialTheme = savedTheme || (prefersLight ? 'light' : 'dark');
-
-  document.documentElement.setAttribute('data-theme', initialTheme);
-
-  const themeToggleBtn = document.getElementById('themeToggle');
-  if (themeToggleBtn) {
-    themeToggleBtn.addEventListener('click', () => {
-      const currentTheme = document.documentElement.getAttribute('data-theme');
-      const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-      document.documentElement.setAttribute('data-theme', newTheme);
-      localStorage.setItem('theme', newTheme);
-      showToast(newTheme === 'dark' ? '🌙 Dark Mode Activated' : '☀️ Light Mode Activated');
-    });
-  }
-}
-
-// --- Main App Initialization ---
-async function initApp() {
-  setupEventListeners();
-
-  try {
-    const response = await fetch('data/discoveries.json');
-    if (!response.ok) throw new Error('Failed to load JSON dataset');
-    const data = await response.json();
-
-    appState.discoveries = data.discoveries || [];
-    renderStats(data.stats, data.generated_at);
-    renderFeatured(data.featured);
-    renderCategoryPills(data.stats.categories_count || {});
-    applyFiltersAndSort();
-  } catch (err) {
-    console.warn('Could not fetch data/discoveries.json, error:', err);
-    document.getElementById('cardsContainer').innerHTML = `
-      <div class="empty-state">
-        <div class="empty-icon">⚠️</div>
-        <h3>Dataset Loading Error</h3>
-        <p>Could not load discoveries.json. Please ensure generate_data.py has executed.</p>
-      </div>
-    `;
-  }
-}
-
-function renderStats(stats, generatedAt) {
-  if (!stats) return;
-  document.getElementById('statDiscoveries').textContent = stats.total_discoveries || 0;
-  document.getElementById('statStars').textContent = stats.total_stars_formatted || '0';
-  document.getElementById('statCategories').textContent = Object.keys(stats.categories_count || {}).length || 0;
-
-  if (generatedAt) {
-    const dateObj = new Date(generatedAt);
-    document.getElementById('lastUpdatedTag').textContent = `Last updated: ${dateObj.toLocaleDateString()} ${dateObj.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`;
-  }
-}
-
-function renderFeatured(featured) {
-  if (!featured) return;
-  document.getElementById('featuredTitle').textContent = featured.name;
-  document.getElementById('featuredDesc').textContent = featured.description || 'No description available.';
-  document.getElementById('featuredStars').textContent = `⭐ ${featured.stars_formatted}`;
-  
-  const linkEl = document.getElementById('featuredLink');
-  linkEl.href = featured.url;
-}
-
-function renderCategoryPills(categoriesCount) {
-  const container = document.getElementById('categoriesContainer');
-  container.querySelectorAll('.cat-pill:not([data-category="ALL"])').forEach(el => el.remove());
-
-  const categories = Object.keys(categoriesCount).sort();
-
-  categories.forEach(cat => {
-    const btn = document.createElement('button');
-    btn.className = 'cat-pill';
-    btn.dataset.category = cat;
-    btn.textContent = `${cat} (${categoriesCount[cat]})`;
-    btn.addEventListener('click', () => {
-      container.querySelectorAll('.cat-pill').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      appState.selectedCategory = cat;
-      applyFiltersAndSort();
-    });
-    container.appendChild(btn);
+  const root = document.documentElement;
+  const dark = matchMedia('(prefers-color-scheme: dark)');
+  document.getElementById('themeToggle').addEventListener('click', () => {
+    const next = (root.dataset.theme || (dark.matches ? 'dark' : 'light')) === 'dark' ? 'light' : 'dark';
+    root.dataset.theme = next;
+    try { localStorage.setItem('theme', next); } catch (e) {}
   });
 }
 
-function setupEventListeners() {
-  const searchInput = document.getElementById('searchInput');
-  const clearBtn = document.getElementById('clearSearch');
-  const sortSelect = document.getElementById('sortSelect');
-  const viewGridBtn = document.getElementById('viewGridBtn');
-  const viewTableBtn = document.getElementById('viewTableBtn');
-  const allCatBtn = document.querySelector('.cat-pill[data-category="ALL"]');
+function renderUpdated(iso) {
+  if (!iso) return;
+  document.getElementById('updated').textContent =
+    `Updated ${new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })}`;
+}
 
-  if (searchInput) {
-    searchInput.addEventListener('input', (e) => {
-      appState.searchQuery = e.target.value.toLowerCase().trim();
-      if (clearBtn) clearBtn.classList.toggle('show', appState.searchQuery.length > 0);
-      applyFiltersAndSort();
-    });
-  }
+/* ---------- Band ---------- */
 
-  if (clearBtn) {
-    clearBtn.addEventListener('click', () => {
-      if (searchInput) searchInput.value = '';
-      appState.searchQuery = '';
-      clearBtn.classList.remove('show');
-      applyFiltersAndSort();
-    });
-  }
+function renderHeadline(items) {
+  const dates = items.map((i) => i.date).sort();
+  const counts = countBy(items, (i) => i.topic);
+  const [topTopic, topN] = counts[0];
+  const langs = countBy(items, (i) => i.language || 'Unknown');
+  const [topLang, langN] = langs[0];
+  const cards = [
+    { value: items.length.toLocaleString('en-GB'), label: 'repositories logged so far.', context: `since ${fmtDate(dates[0], { day: 'numeric', month: 'short', year: 'numeric' })}` },
+    { value: `${Math.round((topN / items.length) * 100)}%`, label: `are about ${topTopic.toLowerCase()}, the biggest topic by far.`, context: `${topN} repos` },
+    { value: `${Math.round((langN / items.length) * 100)}%`, label: `are written mainly in ${topLang}.`, context: `${langs.length} languages in all` },
+  ];
+  document.getElementById('headline').innerHTML = cards.map((c) => `
+    <div class="outcome">
+      <dt class="outcome-label">${esc(c.label)}</dt>
+      <dd class="outcome-value">${esc(c.value)}</dd>
+      <dd class="outcome-context">${esc(c.context)}</dd>
+    </div>`).join('');
+}
 
-  if (allCatBtn) {
-    allCatBtn.addEventListener('click', () => {
-      document.querySelectorAll('.cat-pill').forEach(b => b.classList.remove('active'));
-      allCatBtn.classList.add('active');
-      appState.selectedCategory = 'ALL';
-      applyFiltersAndSort();
-    });
-  }
+function countBy(items, key) {
+  const m = new Map();
+  items.forEach((i) => m.set(key(i), (m.get(key(i)) || 0) + 1));
+  return [...m].sort((a, b) => b[1] - a[1]);
+}
 
-  if (sortSelect) {
-    sortSelect.addEventListener('change', (e) => {
-      appState.sortBy = e.target.value;
-      applyFiltersAndSort();
-    });
-  }
+/* ---------- Latest finds ---------- */
 
-  // View mode toggle
-  viewGridBtn.addEventListener('click', () => {
-    appState.viewMode = 'grid';
-    viewGridBtn.classList.add('active');
-    viewTableBtn.classList.remove('active');
-    renderViews();
+function renderDays(items) {
+  const byDay = new Map();
+  [...items].sort((a, b) => b.date.localeCompare(a.date)).forEach((i) => {
+    if (!byDay.has(i.date)) byDay.set(i.date, []);
+    byDay.get(i.date).push(i);
   });
-
-  viewTableBtn.addEventListener('click', () => {
-    appState.viewMode = 'table';
-    viewTableBtn.classList.add('active');
-    viewGridBtn.classList.remove('active');
-    renderViews();
-  });
-
-  // Modal Close Listeners
-  const modal = document.getElementById('detailModal');
-  const closeModalBtn = document.getElementById('closeModal');
-  
-  closeModalBtn.addEventListener('click', closeModal);
-  modal.addEventListener('click', (e) => {
-    if (e.target === modal) closeModal();
-  });
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
-      closeModal();
-    }
-  });
-
-  // Copy Action Buttons
-  document.getElementById('copyMarkdownBtn').addEventListener('click', () => {
-    const code = document.getElementById('modalMarkdown').textContent;
-    copyToClipboard(code, 'Copied Markdown entry to clipboard!');
-  });
-
-  document.getElementById('copyCloneBtn').addEventListener('click', () => {
-    const code = document.getElementById('modalClone').textContent;
-    copyToClipboard(code, 'Copied git clone command to clipboard!');
-  });
+  const days = [...byDay].slice(0, 4);
+  document.getElementById('days').innerHTML = days.map(([date, list]) => `
+    <div class="day">
+      <p class="day-date">${fmtDate(date, { weekday: 'short', day: 'numeric', month: 'short' })}</p>
+      <ul class="finds">
+        ${list.map((i) => {
+          const [owner, repo] = i.name.split('/');
+          return `<li>
+            <p class="find-name"><a href="${esc(safeUrl(i.url))}" rel="noopener"><span class="find-owner">${esc(owner)}/</span>${esc(repo || owner)}</a></p>
+            ${i.description ? `<p class="find-desc">${esc(i.description)}</p>` : ''}
+            <p class="find-meta"><span class="topic">${esc(i.topic)}</span> · ${esc(i.language || 'Unknown')} · ${esc(i.stars_formatted || String(i.stars))} stars</p>
+          </li>`;
+        }).join('')}
+      </ul>
+    </div>`).join('');
 }
 
-function applyFiltersAndSort() {
-  let list = [...appState.discoveries];
+/* ---------- Topics ---------- */
 
-  // 1. Category Filter
-  if (appState.selectedCategory !== 'ALL') {
-    list = list.filter(item => item.category === appState.selectedCategory);
-  }
-
-  // 2. Search Query Filter
-  if (appState.searchQuery) {
-    const q = appState.searchQuery;
-    list = list.filter(item => 
-      item.name.toLowerCase().includes(q) ||
-      item.description.toLowerCase().includes(q) ||
-      item.language.toLowerCase().includes(q) ||
-      item.category.toLowerCase().includes(q)
-    );
-  }
-
-  // 3. Sorting
-  switch (appState.sortBy) {
-    case 'date-desc':
-      list.sort((a, b) => new Date(b.date) - new Date(a.date) || b.stars - a.stars);
-      break;
-    case 'date-asc':
-      list.sort((a, b) => new Date(a.date) - new Date(b.date) || a.stars - b.stars);
-      break;
-    case 'stars-desc':
-      list.sort((a, b) => b.stars - a.stars);
-      break;
-    case 'stars-asc':
-      list.sort((a, b) => a.stars - b.stars);
-      break;
-  }
-
-  appState.filtered = list;
-  document.getElementById('resultsCount').textContent = `Showing ${list.length} of ${appState.discoveries.length} discoveries`;
-
-  renderViews();
+function renderTopics(items) {
+  const counts = countBy(items, (i) => i.topic);
+  const max = counts[0][1];
+  const list = document.getElementById('topicBars');
+  list.innerHTML = counts.map(([t, n]) => `
+    <li class="topic-row">
+      <button type="button" data-topic="${esc(t)}">${esc(t)}</button>
+      <span class="topic-track" aria-hidden="true"><i style="width:${(n / max) * 100}%"></i></span>
+      <span class="topic-n">${n} <span>· ${Math.round((n / items.length) * 100)}%</span></span>
+    </li>`).join('');
+  list.querySelectorAll('button').forEach((b) => b.addEventListener('click', () => {
+    const sel = document.getElementById('topicSelect');
+    sel.value = b.dataset.topic;
+    sel.dispatchEvent(new Event('change'));
+    document.getElementById('all').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+  }));
+  if (!document.documentElement.classList.contains('motion')) { list.classList.add('in'); return; }
+  const io = new IntersectionObserver(([e]) => {
+    if (e.isIntersecting) { list.classList.add('in'); io.disconnect(); }
+  }, { rootMargin: '0px 0px -15% 0px' });
+  io.observe(list);
 }
 
-function renderViews() {
-  const cardsContainer = document.getElementById('cardsContainer');
-  const tableContainer = document.getElementById('tableContainer');
-  const noResults = document.getElementById('noResults');
+/* ---------- Table ---------- */
 
-  if (appState.filtered.length === 0) {
-    cardsContainer.classList.add('hidden');
-    tableContainer.classList.add('hidden');
-    noResults.classList.remove('hidden');
-    return;
-  }
-
-  noResults.classList.add('hidden');
-
-  if (appState.viewMode === 'grid') {
-    tableContainer.classList.add('hidden');
-    cardsContainer.classList.remove('hidden');
-    renderGrid(appState.filtered);
-  } else {
-    cardsContainer.classList.add('hidden');
-    tableContainer.classList.remove('hidden');
-    renderTable(appState.filtered);
-  }
+function initTable() {
+  const topicSel = document.getElementById('topicSelect');
+  const langSel = document.getElementById('langSelect');
+  countBy(state.items, (i) => i.topic).forEach(([t, n]) => topicSel.add(new Option(`${t} (${n})`, t)));
+  countBy(state.items, (i) => i.language || 'Unknown').forEach(([l, n]) => langSel.add(new Option(`${l} (${n})`, l)));
+  const reset = () => { state.shown = PAGE; renderTable(); };
+  topicSel.addEventListener('change', () => { state.topic = topicSel.value; reset(); });
+  langSel.addEventListener('change', () => { state.lang = langSel.value; reset(); });
+  document.getElementById('sortSelect').addEventListener('change', (e) => { state.sort = e.target.value; reset(); });
+  document.getElementById('searchInput').addEventListener('input', (e) => { state.query = e.target.value.trim().toLowerCase(); reset(); });
+  document.getElementById('moreBtn').addEventListener('click', () => { state.shown += PAGE; renderTable(); });
+  renderTable();
 }
 
-function renderGrid(items) {
-  const container = document.getElementById('cardsContainer');
-  container.innerHTML = items.map((item, idx) => `
-    <div class="card" onclick="openModalByIdx(${idx})">
-      <div>
-        <div class="card-header">
-          <a href="${item.url}" target="_blank" rel="noopener" class="card-title" onclick="event.stopPropagation()">${item.name}</a>
-          <span class="card-stars">⭐ ${item.stars_formatted}</span>
-        </div>
-        <div class="card-tags">
-          <span class="tag-lang">${item.language}</span>
-          <span class="tag-cat">${item.category}</span>
-        </div>
-        <p class="card-desc">${escapeHtml(item.description)}</p>
-      </div>
-      <div class="card-footer">
-        <span class="card-date">Discovered: ${item.date}</span>
-        <div class="card-actions">
-          <button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details &rarr;</button>
-        </div>
-      </div>
-    </div>
-  `).join('');
+function renderTable() {
+  const sorters = {
+    date: (a, b) => b.date.localeCompare(a.date) || b.stars - a.stars,
+    stars: (a, b) => b.stars - a.stars,
+    name: (a, b) => a.name.localeCompare(b.name),
+  };
+  const rows = state.items
+    .filter((i) => !state.topic || i.topic === state.topic)
+    .filter((i) => !state.lang || (i.language || 'Unknown') === state.lang)
+    .filter((i) => !state.query || `${i.name} ${i.description}`.toLowerCase().includes(state.query))
+    .sort(sorters[state.sort]);
+  const page = rows.slice(0, state.shown);
+  document.getElementById('resultCount').textContent = `${rows.length} of ${state.items.length} repos`;
+  const more = document.getElementById('moreBtn');
+  more.hidden = rows.length <= state.shown;
+  more.textContent = `Show ${Math.min(PAGE, rows.length - state.shown)} more`;
+  document.getElementById('tableBody').innerHTML = page.length ? page.map((i) => `
+    <tr>
+      <td class="repo"><a href="${esc(safeUrl(i.url))}" rel="noopener">${esc(i.name)}</a>${i.description ? `<p>${esc(i.description)}</p>` : ''}</td>
+      <td class="meta">${esc(i.topic)}</td>
+      <td class="meta">${esc(i.language || 'Unknown')}</td>
+      <td class="num">${fmtStars(i.stars)}</td>
+      <td class="date">${fmtDate(i.date, { day: 'numeric', month: 'short', year: '2-digit' })}</td>
+    </tr>`).join('') : '<tr><td colspan="5" class="empty">No repos match.</td></tr>';
 }
 
-function renderTable(items) {
-  const tbody = document.getElementById('tableBody');
-  tbody.innerHTML = items.map((item, idx) => `
-    <tr style="cursor: pointer;" onclick="openModalByIdx(${idx})">
-      <td style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim);">${item.date}</td>
-      <td><a href="${item.url}" target="_blank" rel="noopener" style="color: var(--text-main); font-weight: 700; text-decoration: none;" onclick="event.stopPropagation()">${item.name}</a></td>
-      <td><span class="tag-lang">${item.language}</span></td>
-      <td><span class="tag-cat">${item.category}</span></td>
-      <td style="color: var(--text-muted); max-width: 380px;">${escapeHtml(item.description)}</td>
-      <td style="font-family: var(--font-mono); font-weight: 700; color: var(--accent-amber);">⭐ ${item.stars_formatted}</td>
-      <td><button class="btn-card-action" onclick="event.stopPropagation(); openModalByIdx(${idx})">Details</button></td>
-    </tr>
-  `).join('');
+/* ---------- Motion ---------- */
+
+function initBand() {
+  const band = document.querySelector('.outcomes');
+  if (!document.documentElement.classList.contains('motion')) { band.classList.add('in'); return; }
+  const open = () => { band.classList.add('in'); removeEventListener('scroll', check); };
+  const check = () => { if (scrollY > 80 || band.getBoundingClientRect().top < innerHeight * 0.45) open(); };
+  addEventListener('scroll', check, { passive: true });
+  check();
 }
 
-// Modal Functions
-function openModalByIdx(idx) {
-  const item = appState.filtered[idx];
-  if (!item) return;
-  appState.activeModalItem = item;
-
-  document.getElementById('modalTitle').textContent = item.name;
-  document.getElementById('modalDesc').textContent = item.description || 'No description provided.';
-  document.getElementById('modalCategory').textContent = item.category;
-  document.getElementById('modalLanguage').textContent = item.language;
-  document.getElementById('modalStars').textContent = `⭐ ${item.stars_formatted}`;
-  document.getElementById('modalGithubLink').href = item.url;
-
-  const markdownRow = `| ${item.date} | [${item.name}](${item.url}) | ${item.language} | ${item.category} | ${item.description} | ⭐ ${item.stars_formatted} |`;
-  document.getElementById('modalMarkdown').textContent = markdownRow;
-  document.getElementById('modalClone').textContent = `git clone ${item.url}.git`;
-
-  document.getElementById('detailModal').classList.remove('hidden');
-}
-
-function closeModal() {
-  document.getElementById('detailModal').classList.add('hidden');
-  appState.activeModalItem = null;
-}
-
-// Clipboard & Toast Helper
-function copyToClipboard(text, message) {
-  navigator.clipboard.writeText(text).then(() => {
-    showToast(message);
-  }).catch(err => {
-    console.error('Failed to copy text: ', err);
-  });
-}
-
-function showToast(msg) {
-  const toast = document.getElementById('toast');
-  const toastMsg = document.getElementById('toastMessage') || toast;
-  toastMsg.textContent = msg;
-  toast.classList.remove('hidden');
-  toast.classList.add('show');
-  setTimeout(() => {
-    toast.classList.add('hidden');
-    toast.classList.remove('show');
-  }, 2500);
-}
-
-function escapeHtml(str) {
-  if (!str) return '';
-  return str
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#039;");
+function initReveal() {
+  const els = document.querySelectorAll('.reveal');
+  if (!document.documentElement.classList.contains('motion')) { els.forEach((el) => el.classList.add('in')); return; }
+  const io = new IntersectionObserver((entries) => entries.forEach((e) => {
+    if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+  }), { rootMargin: '0px 0px -8% 0px' });
+  els.forEach((el) => io.observe(el));
 }
