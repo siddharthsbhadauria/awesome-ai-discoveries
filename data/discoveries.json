@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T11:15:09Z",
+  "generated_at": "2026-11-16T17:53:29Z",
   "stats": {
-    "total_discoveries": 272,
-    "total_stars": 4847924,
-    "total_stars_formatted": "4,847,924",
+    "total_discoveries": 273,
+    "total_stars": 4853742,
+    "total_stars_formatted": "4,853,742",
     "categories_count": {
-      "Agents": 164,
+      "Agents": 165,
       "RAG & Search": 34,
       "MCP & Tools": 11,
       "Multimodal": 11,
@@ -15,8 +15,8 @@
       "Observability": 1
     },
     "languages_count": {
+      "Python": 169,
       "Swift": 2,
-      "Python": 168,
       "Rust": 19,
       "TypeScript": 40,
       "Lean": 2,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-16",
+      "name": "ForeactLabs/OpenExecutive",
+      "url": "https://github.com/ForeactLabs/OpenExecutive",
+      "language": "Python",
+      "category": "Agents",
+      "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).",
+      "stars": 5818,
+      "stars_formatted": "5,818"
+    },
     {
       "date": "2026-11-16",
       "name": "christopherkarani/Wax",
