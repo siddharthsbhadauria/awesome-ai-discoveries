@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-17T06:25:11Z",
+  "generated_at": "2026-11-17T17:20:58Z",
   "stats": {
-    "total_discoveries": 274,
-    "total_stars": 4855118,
-    "total_stars_formatted": "4,855,118",
+    "total_discoveries": 275,
+    "total_stars": 4860914,
+    "total_stars_formatted": "4,860,914",
     "categories_count": {
+      "LLM & Frameworks": 18,
       "RAG & Search": 35,
       "Agents": 165,
       "MCP & Tools": 11,
       "Multimodal": 11,
-      "LLM & Frameworks": 17,
       "AI Tool": 32,
       "Vector DB": 2,
       "Observability": 1
     },
     "languages_count": {
-      "C++": 5,
+      "C++": 6,
       "Python": 169,
       "Swift": 2,
       "Rust": 19,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-17",
+      "name": "NVIDIA/DALI",
+      "url": "https://github.com/NVIDIA/DALI",
+      "language": "C++",
+      "category": "LLM & Frameworks",
+      "description": "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.",
+      "stars": 5796,
+      "stars_formatted": "5,796"
+    },
     {
       "date": "2026-11-17",
       "name": "NGT-labs/NGT",
