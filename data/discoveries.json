@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T17:53:29Z",
+  "generated_at": "2026-11-17T06:25:11Z",
   "stats": {
-    "total_discoveries": 273,
-    "total_stars": 4853742,
-    "total_stars_formatted": "4,853,742",
+    "total_discoveries": 274,
+    "total_stars": 4855118,
+    "total_stars_formatted": "4,855,118",
     "categories_count": {
+      "RAG & Search": 35,
       "Agents": 165,
-      "RAG & Search": 34,
       "MCP & Tools": 11,
       "Multimodal": 11,
       "LLM & Frameworks": 17,
@@ -15,6 +15,7 @@
       "Observability": 1
     },
     "languages_count": {
+      "C++": 5,
       "Python": 169,
       "Swift": 2,
       "Rust": 19,
@@ -22,7 +23,6 @@
       "Lean": 2,
       "Kotlin": 1,
       "Go": 11,
-      "C++": 4,
       "JavaScript": 7,
       "Java": 8,
       "HTML": 3,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-17",
+      "name": "NGT-labs/NGT",
+      "url": "https://github.com/NGT-labs/NGT",
+      "language": "C++",
+      "category": "RAG & Search",
+      "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
+      "stars": 1376,
+      "stars_formatted": "1,376"
+    },
     {
       "date": "2026-11-16",
       "name": "ForeactLabs/OpenExecutive",
