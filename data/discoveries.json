@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T17:20:58Z",
+  "generated_at": "2026-11-18T05:49:42Z",
   "stats": {
-    "total_discoveries": 275,
-    "total_stars": 4860914,
-    "total_stars_formatted": "4,860,914",
+    "total_discoveries": 276,
+    "total_stars": 4870257,
+    "total_stars_formatted": "4,870,257",
     "categories_count": {
+      "Agents": 166,
       "LLM & Frameworks": 18,
       "RAG & Search": 35,
-      "Agents": 165,
       "MCP & Tools": 11,
       "Multimodal": 11,
       "AI Tool": 32,
@@ -15,8 +15,8 @@
       "Observability": 1
     },
     "languages_count": {
+      "Python": 170,
       "C++": 6,
-      "Python": 169,
       "Swift": 2,
       "Rust": 19,
       "TypeScript": 40,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-18",
+      "name": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "language": "Python",
+      "category": "Agents",
+      "description": "Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.",
+      "stars": 9343,
+      "stars_formatted": "9,343"
+    },
     {
       "date": "2026-11-17",
       "name": "NVIDIA/DALI",
