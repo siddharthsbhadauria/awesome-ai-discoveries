@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T05:49:42Z",
+  "generated_at": "2026-11-18T16:55:24Z",
   "stats": {
-    "total_discoveries": 276,
-    "total_stars": 4870257,
-    "total_stars_formatted": "4,870,257",
+    "total_discoveries": 277,
+    "total_stars": 4871181,
+    "total_stars_formatted": "4,871,181",
     "categories_count": {
-      "Agents": 166,
+      "Agents": 167,
       "LLM & Frameworks": 18,
       "RAG & Search": 35,
       "MCP & Tools": 11,
@@ -16,6 +16,7 @@
     },
     "languages_count": {
       "Python": 170,
+      "PHP": 2,
       "C++": 6,
       "Swift": 2,
       "Rust": 19,
@@ -29,7 +30,6 @@
       "Jupyter Notebook": 2,
       "C": 1,
       "Clojure": 1,
-      "PHP": 1,
       "Ruby": 1,
       "Shell": 1
     }
@@ -54,6 +54,16 @@
       "description": "Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.",
       "stars": 9343,
       "stars_formatted": "9,343"
+    },
+    {
+      "date": "2026-11-18",
+      "name": "trypostit/trypost",
+      "url": "https://github.com/trypostit/trypost",
+      "language": "PHP",
+      "category": "Agents",
+      "description": "Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love.",
+      "stars": 924,
+      "stars_formatted": "924"
     },
     {
       "date": "2026-11-17",
