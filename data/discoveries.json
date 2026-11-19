@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T05:49:06Z",
+  "generated_at": "2026-11-19T17:01:25Z",
   "stats": {
-    "total_discoveries": 278,
-    "total_stars": 4874419,
-    "total_stars_formatted": "4,874,419",
+    "total_discoveries": 279,
+    "total_stars": 4874822,
+    "total_stars_formatted": "4,874,822",
     "categories_count": {
-      "Agents": 168,
+      "Agents": 169,
       "LLM & Frameworks": 18,
       "RAG & Search": 35,
       "MCP & Tools": 11,
@@ -16,11 +16,11 @@
     },
     "languages_count": {
       "Go": 12,
+      "Rust": 20,
       "Python": 170,
       "PHP": 2,
       "C++": 6,
       "Swift": 2,
-      "Rust": 19,
       "TypeScript": 40,
       "Lean": 2,
       "Kotlin": 1,
@@ -54,6 +54,16 @@
       "description": "DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP",
       "stars": 3238,
       "stars_formatted": "3,238"
+    },
+    {
+      "date": "2026-11-19",
+      "name": "relatedb/relate",
+      "url": "https://github.com/relatedb/relate",
+      "language": "Rust",
+      "category": "Agents",
+      "description": "An embedded local, agent-native graph database supporting Cypher 25 written in Rust. Memory or transactional filesystem.",
+      "stars": 403,
+      "stars_formatted": "403"
     },
     {
       "date": "2026-11-18",
