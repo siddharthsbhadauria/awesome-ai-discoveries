@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T16:55:24Z",
+  "generated_at": "2026-11-19T05:49:06Z",
   "stats": {
-    "total_discoveries": 277,
-    "total_stars": 4871181,
-    "total_stars_formatted": "4,871,181",
+    "total_discoveries": 278,
+    "total_stars": 4874419,
+    "total_stars_formatted": "4,874,419",
     "categories_count": {
-      "Agents": 167,
+      "Agents": 168,
       "LLM & Frameworks": 18,
       "RAG & Search": 35,
       "MCP & Tools": 11,
@@ -15,6 +15,7 @@
       "Observability": 1
     },
     "languages_count": {
+      "Go": 12,
       "Python": 170,
       "PHP": 2,
       "C++": 6,
@@ -23,7 +24,6 @@
       "TypeScript": 40,
       "Lean": 2,
       "Kotlin": 1,
-      "Go": 11,
       "JavaScript": 7,
       "Java": 8,
       "HTML": 3,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-19",
+      "name": "dosco/graphjin",
+      "url": "https://github.com/dosco/graphjin",
+      "language": "Go",
+      "category": "Agents",
+      "description": "DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP",
+      "stars": 3238,
+      "stars_formatted": "3,238"
+    },
     {
       "date": "2026-11-18",
       "name": "MervinPraison/PraisonAI",
