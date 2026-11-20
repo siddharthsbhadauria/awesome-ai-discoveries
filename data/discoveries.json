@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T17:01:25Z",
+  "generated_at": "2026-11-20T05:38:21Z",
   "stats": {
-    "total_discoveries": 279,
-    "total_stars": 4874822,
-    "total_stars_formatted": "4,874,822",
+    "total_discoveries": 280,
+    "total_stars": 4920968,
+    "total_stars_formatted": "4,920,968",
     "categories_count": {
-      "Agents": 169,
+      "Agents": 170,
       "LLM & Frameworks": 18,
       "RAG & Search": 35,
       "MCP & Tools": 11,
@@ -15,9 +15,9 @@
       "Observability": 1
     },
     "languages_count": {
+      "Python": 171,
       "Go": 12,
       "Rust": 20,
-      "Python": 170,
       "PHP": 2,
       "C++": 6,
       "Swift": 2,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-20",
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "language": "Python",
+      "category": "Agents",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 46146,
+      "stars_formatted": "46,146"
+    },
     {
       "date": "2026-11-19",
       "name": "dosco/graphjin",
