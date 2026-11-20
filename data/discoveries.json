@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T05:38:21Z",
+  "generated_at": "2026-11-20T16:40:13Z",
   "stats": {
-    "total_discoveries": 280,
-    "total_stars": 4920968,
-    "total_stars_formatted": "4,920,968",
+    "total_discoveries": 281,
+    "total_stars": 4932920,
+    "total_stars_formatted": "4,932,920",
     "categories_count": {
       "Agents": 170,
+      "RAG & Search": 36,
       "LLM & Frameworks": 18,
-      "RAG & Search": 35,
       "MCP & Tools": 11,
       "Multimodal": 11,
       "AI Tool": 32,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Python": 171,
+      "Rust": 21,
       "Go": 12,
-      "Rust": 20,
       "PHP": 2,
       "C++": 6,
       "Swift": 2,
@@ -54,6 +54,16 @@
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "stars": 46146,
       "stars_formatted": "46,146"
+    },
+    {
+      "date": "2026-11-20",
+      "name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "language": "Rust",
+      "category": "RAG & Search",
+      "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+      "stars": 11952,
+      "stars_formatted": "11,952"
     },
     {
       "date": "2026-11-19",
