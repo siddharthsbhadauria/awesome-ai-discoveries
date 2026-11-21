@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-21T05:31:37Z",
+  "generated_at": "2026-11-21T15:53:30Z",
   "stats": {
-    "total_discoveries": 282,
-    "total_stars": 4933480,
-    "total_stars_formatted": "4,933,480",
+    "total_discoveries": 283,
+    "total_stars": 4946132,
+    "total_stars_formatted": "4,946,132",
     "categories_count": {
+      "MCP & Tools": 12,
       "Agents": 171,
       "RAG & Search": 36,
       "LLM & Frameworks": 18,
-      "MCP & Tools": 11,
       "Multimodal": 11,
       "AI Tool": 32,
       "Vector DB": 2,
       "Observability": 1
     },
     "languages_count": {
+      "Python": 172,
       "Rust": 22,
-      "Python": 171,
       "Go": 12,
       "PHP": 2,
       "C++": 6,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-21",
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "language": "Python",
+      "category": "MCP & Tools",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "stars": 12652,
+      "stars_formatted": "12,652"
+    },
     {
       "date": "2026-11-21",
       "name": "strands-agents/box",
