@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20T16:40:13Z",
+  "generated_at": "2026-11-21T05:31:37Z",
   "stats": {
-    "total_discoveries": 281,
-    "total_stars": 4932920,
-    "total_stars_formatted": "4,932,920",
+    "total_discoveries": 282,
+    "total_stars": 4933480,
+    "total_stars_formatted": "4,933,480",
     "categories_count": {
-      "Agents": 170,
+      "Agents": 171,
       "RAG & Search": 36,
       "LLM & Frameworks": 18,
       "MCP & Tools": 11,
@@ -15,8 +15,8 @@
       "Observability": 1
     },
     "languages_count": {
+      "Rust": 22,
       "Python": 171,
-      "Rust": 21,
       "Go": 12,
       "PHP": 2,
       "C++": 6,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-21",
+      "name": "strands-agents/box",
+      "url": "https://github.com/strands-agents/box",
+      "language": "Rust",
+      "category": "Agents",
+      "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon and Linux.",
+      "stars": 560,
+      "stars_formatted": "560"
+    },
     {
       "date": "2026-11-20",
       "name": "ifixai-ai/iFixAi",
