@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T15:53:30Z",
+  "generated_at": "2026-11-21T21:25:58Z",
   "stats": {
-    "total_discoveries": 283,
-    "total_stars": 4946132,
-    "total_stars_formatted": "4,946,132",
+    "total_discoveries": 284,
+    "total_stars": 4946633,
+    "total_stars_formatted": "4,946,633",
     "categories_count": {
       "MCP & Tools": 12,
-      "Agents": 171,
+      "Agents": 172,
       "RAG & Search": 36,
       "LLM & Frameworks": 18,
       "Multimodal": 11,
@@ -17,11 +17,11 @@
     "languages_count": {
       "Python": 172,
       "Rust": 22,
+      "TypeScript": 41,
       "Go": 12,
       "PHP": 2,
       "C++": 6,
       "Swift": 2,
-      "TypeScript": 40,
       "Lean": 2,
       "Kotlin": 1,
       "JavaScript": 7,
@@ -64,6 +64,16 @@
       "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon and Linux.",
       "stars": 560,
       "stars_formatted": "560"
+    },
+    {
+      "date": "2026-11-21",
+      "name": "y5ez3g/facadecode",
+      "url": "https://github.com/y5ez3g/facadecode",
+      "language": "TypeScript",
+      "category": "Agents",
+      "description": "The multi-agent orchestrator for VS Code. Run Claude Code, Codex, and other agent CLIs that start, message, and operate each other across windows and machines.",
+      "stars": 501,
+      "stars_formatted": "501"
     },
     {
       "date": "2026-11-20",
