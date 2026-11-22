@@ -11,7 +11,7 @@ Entries older than the newest 100 move to `archive/` on the 1st of each month. `
 
 <!-- FEATURED_START -->
 ### Project of the week
-The most popular discovery lately: **[LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat)**
+The most popular discovery lately: **[openbq-org/OpenBB](https://github.com/openbq-org/OpenBB)**
 <!-- FEATURED_END -->
 
 ---
@@ -143,3 +143,4 @@ The most popular discovery lately: **[LibreChat-AI/LibreChat](https://github.com
 | 2026-11-21 | [strands-agents/box](https://github.com/strands-agents/box) | Rust | Agents | Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon and Linux. | ⭐ 560 |
 | 2026-11-21 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | MCP & Tools | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. | ⭐ 12,652 |
 | 2026-11-21 | [y5ez3g/facadecode](https://github.com/y5ez3g/facadecode) | TypeScript | Agents | The multi-agent orchestrator for VS Code. Run Claude Code, Codex, and other agent CLIs that start, message, and operate each other across windows and machines. | ⭐ 501 |
+| 2026-11-22 | [databendlabs/databend](https://github.com/databendlabs/databend) | Rust | RAG & Search | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3. | ⭐ 9,502 |
