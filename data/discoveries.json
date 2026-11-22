@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T15:54:25Z",
+  "generated_at": "2026-11-22T21:29:59Z",
   "stats": {
-    "total_discoveries": 286,
-    "total_stars": 4973852,
-    "total_stars_formatted": "4,973,852",
+    "total_discoveries": 287,
+    "total_stars": 5078853,
+    "total_stars_formatted": "5,078,853",
     "categories_count": {
-      "MCP & Tools": 13,
+      "MCP & Tools": 14,
       "RAG & Search": 37,
       "Agents": 172,
       "LLM & Frameworks": 18,
@@ -15,8 +15,8 @@
       "Observability": 1
     },
     "languages_count": {
+      "Python": 173,
       "Rust": 24,
-      "Python": 172,
       "TypeScript": 41,
       "Go": 12,
       "PHP": 2,
@@ -35,16 +35,26 @@
     }
   },
   "featured": {
-    "date": "2026-11-15",
-    "name": "openbq-org/OpenBB",
-    "url": "https://github.com/openbq-org/OpenBB",
+    "date": "2026-11-22",
+    "name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
     "language": "Python",
-    "category": "Agents",
-    "description": "Open Data Platform for analysts, quants and AI agents.",
-    "stars": 75448,
-    "stars_formatted": "75,448"
+    "category": "MCP & Tools",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "stars": 105001,
+    "stars_formatted": "105,001"
   },
   "discoveries": [
+    {
+      "date": "2026-11-22",
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "language": "Python",
+      "category": "MCP & Tools",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "stars": 105001,
+      "stars_formatted": "105,001"
+    },
     {
       "date": "2026-11-22",
       "name": "tangency-labs/solidcraft",
