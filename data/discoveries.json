@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T04:57:02Z",
+  "generated_at": "2026-11-22T15:54:25Z",
   "stats": {
-    "total_discoveries": 285,
-    "total_stars": 4956135,
-    "total_stars_formatted": "4,956,135",
+    "total_discoveries": 286,
+    "total_stars": 4973852,
+    "total_stars_formatted": "4,973,852",
     "categories_count": {
+      "MCP & Tools": 13,
       "RAG & Search": 37,
-      "MCP & Tools": 12,
       "Agents": 172,
       "LLM & Frameworks": 18,
       "Multimodal": 11,
@@ -15,7 +15,7 @@
       "Observability": 1
     },
     "languages_count": {
-      "Rust": 23,
+      "Rust": 24,
       "Python": 172,
       "TypeScript": 41,
       "Go": 12,
@@ -45,6 +45,16 @@
     "stars_formatted": "75,448"
   },
   "discoveries": [
+    {
+      "date": "2026-11-22",
+      "name": "tangency-labs/solidcraft",
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "language": "Rust",
+      "category": "MCP & Tools",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "stars": 17717,
+      "stars_formatted": "17,717"
+    },
     {
       "date": "2026-11-22",
       "name": "databendlabs/databend",
