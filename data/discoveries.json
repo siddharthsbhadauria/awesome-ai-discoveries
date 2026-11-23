@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T21:29:59Z",
+  "generated_at": "2026-11-23T05:44:06Z",
   "stats": {
-    "total_discoveries": 287,
-    "total_stars": 5078853,
-    "total_stars_formatted": "5,078,853",
+    "total_discoveries": 288,
+    "total_stars": 5088403,
+    "total_stars_formatted": "5,088,403",
     "categories_count": {
+      "Agents": 173,
       "MCP & Tools": 14,
       "RAG & Search": 37,
-      "Agents": 172,
       "LLM & Frameworks": 18,
       "Multimodal": 11,
       "AI Tool": 32,
@@ -15,6 +15,7 @@
       "Observability": 1
     },
     "languages_count": {
+      "JavaScript": 8,
       "Python": 173,
       "Rust": 24,
       "TypeScript": 41,
@@ -24,7 +25,6 @@
       "Swift": 2,
       "Lean": 2,
       "Kotlin": 1,
-      "JavaScript": 7,
       "Java": 8,
       "HTML": 3,
       "Jupyter Notebook": 2,
@@ -45,6 +45,16 @@
     "stars_formatted": "105,001"
   },
   "discoveries": [
+    {
+      "date": "2026-11-23",
+      "name": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "language": "JavaScript",
+      "category": "Agents",
+      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "stars": 9550,
+      "stars_formatted": "9,550"
+    },
     {
       "date": "2026-11-22",
       "name": "D4Vinci/Scrapling",
