@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T19:47:41Z",
+  "generated_at": "2026-11-24T08:16:36Z",
   "stats": {
-    "total_discoveries": 289,
-    "total_stars": 5093176,
-    "total_stars_formatted": "5,093,176",
+    "total_discoveries": 290,
+    "total_stars": 5133942,
+    "total_stars_formatted": "5,133,942",
     "categories_count": {
-      "Agents": 173,
+      "Agents": 174,
       "RAG & Search": 38,
       "MCP & Tools": 14,
       "LLM & Frameworks": 18,
@@ -15,9 +15,9 @@
       "Observability": 1
     },
     "languages_count": {
+      "Python": 174,
       "JavaScript": 8,
       "C++": 7,
-      "Python": 173,
       "Rust": 24,
       "TypeScript": 41,
       "Go": 12,
@@ -45,6 +45,16 @@
     "stars_formatted": "105,001"
   },
   "discoveries": [
+    {
+      "date": "2026-11-24",
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "language": "Python",
+      "category": "Agents",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 40766,
+      "stars_formatted": "40,766"
+    },
     {
       "date": "2026-11-23",
       "name": "Orkas-AI/Orkas",
