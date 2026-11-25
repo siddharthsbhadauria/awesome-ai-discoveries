@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T08:16:36Z",
+  "generated_at": "2026-11-25T00:18:51Z",
   "stats": {
-    "total_discoveries": 290,
-    "total_stars": 5133942,
-    "total_stars_formatted": "5,133,942",
+    "total_discoveries": 291,
+    "total_stars": 5136011,
+    "total_stars_formatted": "5,136,011",
     "categories_count": {
-      "Agents": 174,
+      "Agents": 175,
       "RAG & Search": 38,
       "MCP & Tools": 14,
       "LLM & Frameworks": 18,
@@ -15,12 +15,12 @@
       "Observability": 1
     },
     "languages_count": {
+      "Go": 13,
       "Python": 174,
       "JavaScript": 8,
       "C++": 7,
       "Rust": 24,
       "TypeScript": 41,
-      "Go": 12,
       "PHP": 2,
       "Swift": 2,
       "Lean": 2,
@@ -45,6 +45,16 @@
     "stars_formatted": "105,001"
   },
   "discoveries": [
+    {
+      "date": "2026-11-25",
+      "name": "matrixorigin/matrixone",
+      "url": "https://github.com/matrixorigin/matrixone",
+      "language": "Go",
+      "category": "Agents",
+      "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.",
+      "stars": 2069,
+      "stars_formatted": "2,069"
+    },
     {
       "date": "2026-11-24",
       "name": "VectifyAI/PageIndex",
