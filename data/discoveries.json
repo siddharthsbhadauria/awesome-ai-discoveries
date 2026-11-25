@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-11-25T00:18:51Z",
+  "generated_at": "2026-11-25T18:23:44Z",
   "stats": {
-    "total_discoveries": 291,
-    "total_stars": 5136011,
-    "total_stars_formatted": "5,136,011",
+    "total_discoveries": 292,
+    "total_stars": 5245053,
+    "total_stars_formatted": "5,245,053",
     "categories_count": {
+      "LLM & Frameworks": 19,
       "Agents": 175,
       "RAG & Search": 38,
       "MCP & Tools": 14,
-      "LLM & Frameworks": 18,
       "Multimodal": 11,
       "AI Tool": 32,
       "Vector DB": 2,
       "Observability": 1
     },
     "languages_count": {
+      "Jupyter Notebook": 3,
       "Go": 13,
       "Python": 174,
       "JavaScript": 8,
@@ -27,7 +28,6 @@
       "Kotlin": 1,
       "Java": 8,
       "HTML": 3,
-      "Jupyter Notebook": 2,
       "C": 1,
       "Clojure": 1,
       "Ruby": 1,
@@ -35,16 +35,26 @@
     }
   },
   "featured": {
-    "date": "2026-11-22",
-    "name": "D4Vinci/Scrapling",
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "language": "Python",
-    "category": "MCP & Tools",
-    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-    "stars": 105001,
-    "stars_formatted": "105,001"
+    "date": "2026-11-25",
+    "name": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "language": "Jupyter Notebook",
+    "category": "LLM & Frameworks",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "stars": 109042,
+    "stars_formatted": "109,042"
   },
   "discoveries": [
+    {
+      "date": "2026-11-25",
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "language": "Jupyter Notebook",
+      "category": "LLM & Frameworks",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars": 109042,
+      "stars_formatted": "109,042"
+    },
     {
       "date": "2026-11-25",
       "name": "matrixorigin/matrixone",
