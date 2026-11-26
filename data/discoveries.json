@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T06:44:30Z",
+  "generated_at": "2026-11-26T18:05:36Z",
   "stats": {
-    "total_discoveries": 293,
-    "total_stars": 5251174,
-    "total_stars_formatted": "5,251,174",
+    "total_discoveries": 294,
+    "total_stars": 5252435,
+    "total_stars_formatted": "5,252,435",
     "categories_count": {
       "Agents": 176,
-      "LLM & Frameworks": 19,
+      "LLM & Frameworks": 20,
       "RAG & Search": 38,
       "MCP & Tools": 14,
       "Multimodal": 11,
@@ -16,8 +16,8 @@
     },
     "languages_count": {
       "Go": 14,
+      "Python": 175,
       "Jupyter Notebook": 3,
-      "Python": 174,
       "JavaScript": 8,
       "C++": 7,
       "Rust": 24,
@@ -54,6 +54,16 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "stars": 6121,
       "stars_formatted": "6,121"
+    },
+    {
+      "date": "2026-11-26",
+      "name": "NVIDIA/kvpress",
+      "url": "https://github.com/NVIDIA/kvpress",
+      "language": "Python",
+      "category": "LLM & Frameworks",
+      "description": "LLM KV cache compression made easy",
+      "stars": 1261,
+      "stars_formatted": "1,261"
     },
     {
       "date": "2026-11-25",
