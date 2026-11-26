@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T18:23:44Z",
+  "generated_at": "2026-11-26T06:44:30Z",
   "stats": {
-    "total_discoveries": 292,
-    "total_stars": 5245053,
-    "total_stars_formatted": "5,245,053",
+    "total_discoveries": 293,
+    "total_stars": 5251174,
+    "total_stars_formatted": "5,251,174",
     "categories_count": {
+      "Agents": 176,
       "LLM & Frameworks": 19,
-      "Agents": 175,
       "RAG & Search": 38,
       "MCP & Tools": 14,
       "Multimodal": 11,
@@ -15,8 +15,8 @@
       "Observability": 1
     },
     "languages_count": {
+      "Go": 14,
       "Jupyter Notebook": 3,
-      "Go": 13,
       "Python": 174,
       "JavaScript": 8,
       "C++": 7,
@@ -45,6 +45,16 @@
     "stars_formatted": "109,042"
   },
   "discoveries": [
+    {
+      "date": "2026-11-26",
+      "name": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "language": "Go",
+      "category": "Agents",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": 6121,
+      "stars_formatted": "6,121"
+    },
     {
       "date": "2026-11-25",
       "name": "rasbt/LLMs-from-scratch",
