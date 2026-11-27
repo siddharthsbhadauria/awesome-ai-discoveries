@@ -154,3 +154,4 @@ The most popular discovery lately: **[openbq-org/OpenBB](https://github.com/open
 | 2026-11-26 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | Agents | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. | ⭐ 6,121 |
 | 2026-11-26 | [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress) | Python | LLM & Frameworks | LLM KV cache compression made easy | ⭐ 1,261 |
 | 2026-11-27 | [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) | Python | AI Tool | Time series forecasting with PyTorch | ⭐ 5,011 |
+| 2026-11-27 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | Python | Agents | The open document intelligence platform for builders and hackers - DMS for the agentic world | ⭐ 1,556 |

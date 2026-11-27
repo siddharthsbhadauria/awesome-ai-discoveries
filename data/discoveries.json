@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T06:36:17Z",
+  "generated_at": "2026-11-27T17:48:49Z",
   "stats": {
-    "total_discoveries": 295,
-    "total_stars": 5257446,
-    "total_stars_formatted": "5,257,446",
+    "total_discoveries": 296,
+    "total_stars": 5259002,
+    "total_stars_formatted": "5,259,002",
     "categories_count": {
       "AI Tool": 33,
-      "Agents": 176,
+      "Agents": 177,
       "LLM & Frameworks": 20,
       "RAG & Search": 38,
       "MCP & Tools": 14,
@@ -15,7 +15,7 @@
       "Observability": 1
     },
     "languages_count": {
-      "Python": 176,
+      "Python": 177,
       "Go": 14,
       "Jupyter Notebook": 3,
       "JavaScript": 8,
@@ -54,6 +54,16 @@
       "description": "Time series forecasting with PyTorch",
       "stars": 5011,
       "stars_formatted": "5,011"
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Open-Source-Legal/OpenContracts",
+      "url": "https://github.com/Open-Source-Legal/OpenContracts",
+      "language": "Python",
+      "category": "Agents",
+      "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+      "stars": 1556,
+      "stars_formatted": "1,556"
     },
     {
       "date": "2026-11-26",
