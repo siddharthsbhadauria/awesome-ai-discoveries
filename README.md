@@ -153,3 +153,4 @@ The most popular discovery lately: **[openbq-org/OpenBB](https://github.com/open
 | 2026-11-25 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | LLM & Frameworks | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | ⭐ 109,042 |
 | 2026-11-26 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | Agents | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. | ⭐ 6,121 |
 | 2026-11-26 | [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress) | Python | LLM & Frameworks | LLM KV cache compression made easy | ⭐ 1,261 |
+| 2026-11-27 | [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) | Python | AI Tool | Time series forecasting with PyTorch | ⭐ 5,011 |
