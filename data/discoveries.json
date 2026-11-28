@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-28T06:11:17Z",
+  "generated_at": "2026-11-28T16:36:29Z",
   "stats": {
-    "total_discoveries": 297,
-    "total_stars": 5259863,
-    "total_stars_formatted": "5,259,863",
+    "total_discoveries": 298,
+    "total_stars": 5260460,
+    "total_stars_formatted": "5,260,460",
     "categories_count": {
-      "Agents": 178,
+      "Agents": 179,
       "AI Tool": 33,
       "LLM & Frameworks": 20,
       "RAG & Search": 38,
@@ -15,7 +15,7 @@
       "Observability": 1
     },
     "languages_count": {
-      "TypeScript": 42,
+      "TypeScript": 43,
       "Python": 177,
       "Go": 14,
       "Jupyter Notebook": 3,
@@ -54,6 +54,16 @@
       "description": "The artifact layer for any agent: what your AI writes, checked against your files. A free, open-source desktop app for macOS, Windows and Linux. Connect Claude Code or another agent, or use your ChatGPT plan, your own key or a local model. Your files in one Library, sorted and searchable, with your meetings.",
       "stars": 861,
       "stars_formatted": "861"
+    },
+    {
+      "date": "2026-11-28",
+      "name": "SourceWeft/SourceWeft",
+      "url": "https://github.com/SourceWeft/SourceWeft",
+      "language": "TypeScript",
+      "category": "Agents",
+      "description": "Open-source, self-hostable alternative to ChatGPT and NotebookLM — agents, skills, MCP, and cited knowledge in one AI workstation. Your models, your infrastructure. Includes public MCP server and agent skills directories.",
+      "stars": 597,
+      "stars_formatted": "597"
     },
     {
       "date": "2026-11-27",
