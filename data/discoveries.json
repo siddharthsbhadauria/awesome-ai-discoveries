@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T17:48:49Z",
+  "generated_at": "2026-11-28T06:11:17Z",
   "stats": {
-    "total_discoveries": 296,
-    "total_stars": 5259002,
-    "total_stars_formatted": "5,259,002",
+    "total_discoveries": 297,
+    "total_stars": 5259863,
+    "total_stars_formatted": "5,259,863",
     "categories_count": {
+      "Agents": 178,
       "AI Tool": 33,
-      "Agents": 177,
       "LLM & Frameworks": 20,
       "RAG & Search": 38,
       "MCP & Tools": 14,
@@ -15,13 +15,13 @@
       "Observability": 1
     },
     "languages_count": {
+      "TypeScript": 42,
       "Python": 177,
       "Go": 14,
       "Jupyter Notebook": 3,
       "JavaScript": 8,
       "C++": 7,
       "Rust": 24,
-      "TypeScript": 41,
       "PHP": 2,
       "Swift": 2,
       "Lean": 2,
@@ -45,6 +45,16 @@
     "stars_formatted": "109,042"
   },
   "discoveries": [
+    {
+      "date": "2026-11-28",
+      "name": "IncarnaMind/IncarnaMind",
+      "url": "https://github.com/IncarnaMind/IncarnaMind",
+      "language": "TypeScript",
+      "category": "Agents",
+      "description": "The artifact layer for any agent: what your AI writes, checked against your files. A free, open-source desktop app for macOS, Windows and Linux. Connect Claude Code or another agent, or use your ChatGPT plan, your own key or a local model. Your files in one Library, sorted and searchable, with your meetings.",
+      "stars": 861,
+      "stars_formatted": "861"
+    },
     {
       "date": "2026-11-27",
       "name": "sktime/pytorch-forecasting",
